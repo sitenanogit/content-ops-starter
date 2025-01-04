@@ -85,7 +85,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - e-ihracat
-          - Feature two
+          - sepet hatırlatmaları
           - Feature three
           - Feature four
           - Feature five
