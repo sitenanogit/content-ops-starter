@@ -166,7 +166,7 @@ sections:
       - type: FeaturedItem
         title: SEO hizmetleri
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Global ve yerel seo çalışmaları yapılır
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
