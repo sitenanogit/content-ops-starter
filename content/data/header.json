@@ -112,7 +112,7 @@
             "label": "Komisyonsuz",
             "url": "https://partner.komisyonsuz.com/",
             "icon": "arrowRight",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "primary",
             "type": "Button",
             "altText": "Komisyonsuz Sipariş Sistemleri",
