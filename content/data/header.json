@@ -78,7 +78,7 @@
         },
         {
             "label": "Kariyer",
-            "altText": "Careers page",
+            "altText": "Bizimle çalışmak ister misiniz?",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
