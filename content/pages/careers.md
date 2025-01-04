@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Kariyer
 slug: careers
 sections:
   - title:
