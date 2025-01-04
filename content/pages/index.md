@@ -51,7 +51,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Mutlu m
+      text: 2024 yeni başlayanlar
       color: text-dark
       styles:
         self:
