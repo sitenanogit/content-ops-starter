@@ -623,7 +623,7 @@ sections:
 slug: /
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Kurumsal firmalar için web çözüm ortağı
   metaDescription: This demo site is built with Netlify Create
   socialImage: /images/main-hero.jpg
   metaTags: []
