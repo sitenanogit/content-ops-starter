@@ -284,11 +284,10 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Ücretsiz alan adı tescili, sunucu hizmetleri, e-posta hizmeti, mobil
+      uyumluluk, destek hizmetleri ve web site alt yapı bakım ve güncelleme
+      hizmetleri tüm web sitelerimiz için firmamız tarafından sağlanmaktadır.
     actions: []
     media:
       type: VideoBlock
