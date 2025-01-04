@@ -53,6 +53,7 @@ sections:
           - özel alan adınız ile çalışır
           - kurulum desteği ücretsizdir
           - siparişlerinizde ekstra komisyon alınmaz
+          - ''
           - 1 şube için geçerli diyattır
           - ''
           - entegrasyonlar ücretlidir
