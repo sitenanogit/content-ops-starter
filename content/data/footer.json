@@ -73,7 +73,8 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "showIcon": false
             },
             {
                 "label": "E-ticaret Sistemleri",
