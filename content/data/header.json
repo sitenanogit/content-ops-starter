@@ -101,7 +101,7 @@
         {
             "label": "SITENANO",
             "altText": "E-Ticaret Sistemleri",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://eticaret.sitenano.com/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
