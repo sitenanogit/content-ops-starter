@@ -565,7 +565,7 @@ sections:
       type: TitleBlock
       text: Projelerinize kurumsal çözüm için buradayız
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: 15 yılı aşan deneyim ile hizmetinizdeyiz
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
