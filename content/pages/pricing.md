@@ -66,6 +66,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
+            altText: komisyonsuz sipariş sistemi kur ve dene
         colors: bg-neutral-fg-dark
         styles:
           self:
