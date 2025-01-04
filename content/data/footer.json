@@ -115,7 +115,7 @@
         },
         {
             "altText": "Email CMSnano",
-            "url": "/",
+            "url": "mailto:info@cmsnano.com",
             "icon": "mail",
             "type": "Social"
         }
