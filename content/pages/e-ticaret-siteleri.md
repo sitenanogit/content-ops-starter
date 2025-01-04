@@ -91,7 +91,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: 'e-ticaret sitenizi taşımak sizi endişelendirmesin, tam destek burada.'
     items:
       - type: FeaturedItem
         title: E-ticaret sitemi taşımam ne kadar sürer?
