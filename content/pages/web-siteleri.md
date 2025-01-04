@@ -165,7 +165,7 @@ sections:
     items:
       - type: FeaturedItem
         title: SEO hizmetleri
-        tagline: This is the tagline
+        tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
         subtitle: Global ve yerel seo çalışmaları yapılır
         text: |
           Follow the tutorial to build your first Netlify Create site.
