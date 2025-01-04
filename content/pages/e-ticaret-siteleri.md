@@ -115,7 +115,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Satış arttıran hangi çözümler var?
+        title: Satışları arttırabilecek hangi çözümler var?
         subtitle: Otomasyon ile
         text: >
           sitenano, e-ticaret altyapısı ile e-ihracat, otomasyon, pazarlama,
