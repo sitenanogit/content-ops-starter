@@ -30,7 +30,7 @@ sections:
       yıllar devam ettirebilmektir.
     actions:
       - type: Button
-        label: See open positions
+        label: 'Hemen arayın, ya da mesaj iletin'
         url: /
         icon: arrowRight
         iconPosition: right
