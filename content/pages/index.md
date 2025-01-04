@@ -164,7 +164,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Son 15 yılda birlikte çalıştığımız firmalar ve çözüm ortakları
+    subtitle: Birlikte çalıştığımız firmalar ve çözüm ortakları
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
