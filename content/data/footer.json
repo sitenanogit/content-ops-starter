@@ -72,7 +72,7 @@
             {
                 "type": "Link",
                 "label": "komisyonsuz",
-                "altText": "",
+                "altText": "komisyonsuz pazaryeri",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
