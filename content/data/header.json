@@ -109,7 +109,7 @@
             "showIcon": true
         },
         {
-            "label": "Komisyonsuz",
+            "label": "komisyonsuz",
             "url": "https://partner.komisyonsuz.com/",
             "icon": "arrowRight",
             "iconPosition": "left",
