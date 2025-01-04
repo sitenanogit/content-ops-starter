@@ -46,7 +46,7 @@
             "altText": "Hizmetler",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Web siteleri",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
