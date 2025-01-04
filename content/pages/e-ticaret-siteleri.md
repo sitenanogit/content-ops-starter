@@ -163,6 +163,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Hemen kur ve dene
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
