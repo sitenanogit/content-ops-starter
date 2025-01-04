@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Kurumsal Web Sayfası
         price: Teklif al
-        details: No credit card required
+        details: '%20 ön ödeme ile hazırlanır'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
