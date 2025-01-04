@@ -578,7 +578,7 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: name
+          name: Adınız
           label: Name
           hideLabel: true
           placeholder: Your name
