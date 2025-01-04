@@ -100,7 +100,7 @@
     "secondaryLinks": [
         {
             "label": "SITENANO",
-            "altText": "Sign up",
+            "altText": "E-Ticaret Sistemleri",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
