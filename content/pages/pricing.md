@@ -54,6 +54,7 @@ sections:
           - kurulum desteği ücretsizdir
           - siparişlerinizde ekstra komisyon alınmaz
           - 1 şube için geçerli diyattır
+          - ''
           - entegrasyonlar ücretlidir
         image:
           url: /images/komisyonsuz-logo-red-white_250 (1).png
