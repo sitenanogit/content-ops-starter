@@ -113,7 +113,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Komisyonsuz Sipariş Sistemleri"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
