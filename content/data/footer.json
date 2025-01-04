@@ -20,7 +20,7 @@
             {
                 "label": "Hakkımızda",
                 "url": "/hakkimizda",
-                "icon": "chevronLeft",
+                "icon": "chevronRight",
                 "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link",
