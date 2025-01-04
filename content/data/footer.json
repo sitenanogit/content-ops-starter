@@ -21,7 +21,7 @@
                 "label": "Hakkımızda",
                 "url": "/hakkimizda",
                 "icon": "chevronLeft",
-                "iconPosition": "left",
+                "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
                 "altText": "Hakkımızda",
