@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Fiyatlar
 slug: pricing
 sections:
   - title:
