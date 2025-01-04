@@ -8,10 +8,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Subtitle goes here
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "### CMSnano,\_[**web tasarım**, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım](https://oldcms.sitenano.com/web-tasarim.html), web tabanlı özel yazılımlar, mobil uygulama,**\_**[**seo hizmetleri**](https://oldcms.sitenano.com/web-site-seo.html)**\_**ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n\n"
     actions:
       - type: Button
         label: Get started
