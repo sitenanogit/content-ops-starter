@@ -77,7 +77,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: E-ticaret Sitesi
+      - title: Profesyonel E-ticaret Sitesi
         price: 9.900₺/yıl
         details: per month
         description: >-
