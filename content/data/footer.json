@@ -12,38 +12,41 @@
                 "label": "Anasayfa",
                 "altText": "Homepage",
                 "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "icon": "chevronRight",
+                "iconPosition": "left",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "showIcon": true
             },
             {
                 "label": "Hakkımızda",
                 "url": "/hakkimizda",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "icon": "chevronRight",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Hakkımızda"
+                "altText": "Hakkımızda",
+                "showIcon": true
             },
             {
                 "label": "Ürünlerimiz",
                 "url": "/urunlerimiz",
-                "icon": "arrowRight",
-                "iconPosition": "right",
+                "icon": "chevronRight",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "E-ticaret, sipariş sistemi ve diğer ürünlerimiz"
+                "altText": "E-ticaret, sipariş sistemi ve diğer ürünlerimiz",
+                "showIcon": true
             },
             {
                 "type": "Link",
                 "label": "Hizmetler",
                 "altText": "Hizmetlerimiz",
-                "url": "/services",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
+                "url": "/hizmetlerimiz",
+                "showIcon": true,
+                "icon": "chevronRight",
+                "iconPosition": "left",
+                "style": "secondary",
                 "elementId": ""
             },
             {
@@ -51,10 +54,10 @@
                 "label": "İletişim",
                 "altText": "Bize ulaşın, iletişim",
                 "url": "/iletisim",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
+                "showIcon": true,
+                "icon": "chevronRight",
+                "iconPosition": "left",
+                "style": "secondary",
                 "elementId": ""
             }
         ],
@@ -100,7 +103,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "primary",
+                "style": "secondary",
                 "elementId": ""
             }
         ],
