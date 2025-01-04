@@ -13,14 +13,14 @@ sections:
         self:
           textAlign: center
     subtitle: Neler yapıyoruz?
-    text: >+
+    text: >
       Web sitenizin tasarım ve uygulama çalışmaları ile birlikte içerik takip ve
       yönetimini üstlenir, sitenize özel araştırma ve çalışmalar ile markanızın
       geliştirilmesi ve dijital ortamlarda ihtiyacını duyduğunuz konularda
       hizmet ve çözümler sunuyoruz.
 
 
-      ## Kişisel Web Sitesi & Kurumsal Web Sitesi
+      ## Kişisel ya da kurumsal bir web sitesi mi?
 
 
       Amacımız web sitesi ile daha önce umduğu beklentiye ulaşamamış firmalar
@@ -28,7 +28,6 @@ sections:
       yazılım hizmetleri ve dijital çözümler sunan, geleceğin teknolojilerini
       etkin şekilde uygulamaya koyan bir firma olarak çalışmalarımızı daha uzun
       yıllar devam ettirebilmektir.
-
     actions:
       - type: Button
         label: See open positions
