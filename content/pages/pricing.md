@@ -28,6 +28,15 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
           - label: Teklif al
             url: /contact
             icon: arrowRight
