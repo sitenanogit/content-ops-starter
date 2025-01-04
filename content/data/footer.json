@@ -27,7 +27,7 @@
             },
             {
                 "label": "Ürünler",
-                "url": "/",
+                "url": "/products",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
