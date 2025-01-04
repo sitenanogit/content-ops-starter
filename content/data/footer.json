@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Anasayfa",
-                "altText": "Features page",
+                "altText": "Homepage",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
