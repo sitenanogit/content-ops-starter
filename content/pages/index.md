@@ -113,7 +113,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 30+ e-ticaret
-        subtitle: Faster
+        subtitle: sistemi tercih edildi
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
