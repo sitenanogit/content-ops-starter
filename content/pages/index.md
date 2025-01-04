@@ -62,8 +62,8 @@ sections:
         title: son 1 yılda
         subtitle: 3 özel proje tamamlandı
         text: >
-          Özel olarak geliştirdiğimiz personel taşıma, havaalanı araç kiralama,
-          spor salonu randevu planlama projelerimiz yayına girdi.
+          Özel olarak geliştirdiğimiz kurumsal personel taşıma, havaalanı araç
+          kiralama, spor salonu randevu planlama projelerimiz yayına girdi.
         image:
           type: ImageBlock
           url: /images/icon1.svg
