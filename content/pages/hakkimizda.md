@@ -20,7 +20,7 @@ sections:
       hizmet ve çözümler sunuyoruz.
 
 
-      ## Kişisel ya da kurumsal bir web sitesi mi?
+      ## Kurumsal bir web sitesi mi?
 
 
       Amacımız web sitesi ile daha önce umduğu beklentiye ulaşamamış firmalar
