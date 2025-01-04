@@ -19,7 +19,7 @@
             },
             {
                 "label": "Hakkımızda",
-                "url": "/about",
+                "url": "/hakkimizda",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
