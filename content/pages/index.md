@@ -624,7 +624,7 @@ slug: /
 seo:
   type: Seo
   metaTitle: Kurumsal firmalar için web hizmetleri
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,**\_seo hizmetleri\_**ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır."
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
