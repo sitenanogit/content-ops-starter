@@ -35,7 +35,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: Web projeleriniz için CMsnano
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
