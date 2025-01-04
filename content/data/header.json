@@ -56,7 +56,7 @@
                 },
                 {
                     "label": "E-Ticaret Siteleri",
-                    "url": "/",
+                    "url": "/e-ticaret-siteleri",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
