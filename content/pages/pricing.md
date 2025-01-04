@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Kurumsal Web Sayfası
         price: Teklif al
-        details: 'Örnek sayfalarınız, içeriklerinize göre belirlenir'
+        details: Örnek sayfa ve içeriklerinize göre belirlenir
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
