@@ -24,7 +24,8 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Hakkımızda"
+                "altText": "Hakkımızda",
+                "showIcon": false
             },
             {
                 "label": "Ürünlerimiz",
