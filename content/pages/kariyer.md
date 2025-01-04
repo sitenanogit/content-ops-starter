@@ -1,6 +1,6 @@
 ---
 title: Kariyer
-slug: careers
+slug: kariyer
 sections:
   - title:
       text: A team that works closely together
