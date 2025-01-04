@@ -5,25 +5,33 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Profesyonel e-ticaret çözümleri
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: hepsi bir arada
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Sınırsız ürün, web site trafiği ve farklı dil seçenekleri ile ek ücret
+      ödemeden tüm dünyaya satış yapın.
+
+
+      Geçiş yapmak isteyenlere tam destek!
+
+
+      **Taşınma işlemleri profesyonel ekibimiz tarafından yürütülür**
+
+
+      **Özel e-ticaret tasarımı ve ilk adım banner tasarımları ile satışa
+      hazırlanır**
     actions:
       - type: Button
-        label: See open positions
-        url: /
+        label: Hemen Kur
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Kredi Kartı Gerekmez
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
@@ -86,12 +94,13 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: E-ticaret sitemi taşımam ne kadar sürer?
+        subtitle: İşletme ölçeğine göre değişir
+        text: >
+          Eski e-ticaret altyapınızdan ikas e-ticaret altyapısına geçmeniz
+          sitede yer alan ürün sayısına, sayfa sayısına ve ödeme altyapısı
+          başvurularına göre farklılık gösterebilmektedir. Ancak ortalama olarak
+          2-3 gün içerisinde taşıma işlemlerini tamamlamak mümkündür.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -106,12 +115,16 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Satışları arttırabilecek hangi çözümler var?
+        subtitle: Otomasyon ile
+        text: >
+          sitenano, e-ticaret altyapısı ile e-ihracat, otomasyon, pazarlama,
+          e-fatura, kargo ve lojistik, stok yönetimi gibi geniş bir yelpazede
+          çözümler sunmaktadır. sitenano ile ürünlerinizi dünya pazarlarına
+          açabilir, satışlarınızı otomasyonlar ile artırabilir, iş süreçlerinizi
+          dijitalleştirebilir, kargo ve lojistik entegrasyonu ile hızlı ve
+          güvenli teslimat sağlayabilir, stoklarınızı etkin bir şekilde
+          yönetebilirsiniz.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -126,12 +139,12 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Komisyon ödeniyor mu?
+        subtitle: komisyon yok
+        text: >
+          Sitenano sizin satışlarınızda komisyon aracısı olarak faaliyet
+          göstermez. Komisyon alan diğer pazaryerlerine entegrasyon yaparsanız
+          oradaki satışlarda komisyon ödersiniz.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -145,11 +158,12 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
-        url: /
+        label: 'Anladım, bir deneyeyim'
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Hemen kur ve dene
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
