@@ -117,10 +117,14 @@ sections:
       - type: FeaturedItem
         title: Ürün fiyatlarını nasıl hızlı güncellerim?
         subtitle: Otomasyon ile
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          sitenano, e-ticaret altyapısı ile e-ihracat, otomasyon, pazarlama,
+          e-fatura, kargo ve lojistik, stok yönetimi gibi geniş bir yelpazede
+          çözümler sunmaktadır. sitenano ile ürünlerinizi dünya pazarlarına
+          açabilir, satışlarınızı otomasyonlar ile artırabilir, iş süreçlerinizi
+          dijitalleştirebilir, kargo ve lojistik entegrasyonu ile hızlı ve
+          güvenli teslimat sağlayabilir, stoklarınızı etkin bir şekilde
+          yönetebilirsiniz.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
