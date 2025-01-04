@@ -24,7 +24,7 @@ sections:
           - mobil sayfa & hız testleri
           - 'alan adı, sunucu bakım, güncellemeler'
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/cmsnano-logo.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
