@@ -566,11 +566,10 @@ sections:
       text: Projelerinize kurumsal çözüm için buradayız
       color: text-dark
     subtitle: 15 yılı aşan deneyim ile hizmetinizdeyiz
-    text: >+
-      ### Seo alt yapısına uygun, işlevsel ve modern web siteleri
-      geliştiriyoruz. Yaptığımız web sitelerin yüksek hızla daha geniş bir hedef
-      kitleye ulaşmasını sağlıyoruz.
-
+    text: >
+      Seo alt yapısına uygun, işlevsel ve modern web siteleri geliştiriyoruz.
+      Yaptığımız web sitelerin yüksek hızla daha geniş bir hedef kitleye
+      ulaşmasını sağlıyoruz.
     actions: []
     media:
       type: FormBlock
