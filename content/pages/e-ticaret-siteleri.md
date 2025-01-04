@@ -27,7 +27,7 @@ sections:
     actions:
       - type: Button
         label: Hemen Kur
-        url: /
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         icon: arrowRight
         iconPosition: right
         style: primary
