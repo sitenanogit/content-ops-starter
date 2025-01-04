@@ -5,9 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Kurumsal firmalar ve girişimciler için genel bir çözüm ortağı
+      text: Kurumsal firmalar ve girişimciler için web çözüm ortağı
       color: text-dark
-    subtitle: Birlikte çalışmaya hazırız
+    subtitle: Birlikte çalışmaya hazır mısınız?
     text: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_seo hizmetleri\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n"
     actions:
       - type: Button
@@ -278,17 +278,16 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Web Tasarım
       color: text-dark
       styles:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Ücretsiz alan adı tescili, sunucu hizmetleri, e-posta hizmeti, mobil
+      uyumluluk, destek hizmetleri ve web site alt yapı bakım ve güncelleme
+      hizmetleri tüm web sitelerimiz için firmamız tarafından sağlanmaktadır.
     actions: []
     media:
       type: VideoBlock
