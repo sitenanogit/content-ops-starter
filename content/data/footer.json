@@ -44,7 +44,7 @@
                 "altText": "Hizmetlerimiz",
                 "url": "/hizmetlerimiz",
                 "showIcon": false,
-                "icon": "arrowRight",
+                "icon": "chevronRight",
                 "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
