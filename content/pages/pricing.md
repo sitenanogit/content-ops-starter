@@ -14,9 +14,10 @@ sections:
       - title: Kurumsal Web Sayfası
         price: Teklif al
         details: Örnek sayfa ve içeriklerinize göre belirlenir
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Kurumsal web siteleri, mobil uyumluluk, kullanıcı dostu arayüzler,
+          hızlı yükleme süreleri ve arama motoru optimizasyonu (SEO) gibi teknik
+          detaylara dikkat edilerek tasarlanır.
         features:
           - Feature one
           - Feature two
