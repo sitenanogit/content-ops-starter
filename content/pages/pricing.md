@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Her bütçeye uygun web site fiyatları ile hizmetinizdeyiz.
+    subtitle: >-
+      Her bütçeye göre web site, sipariş sistemi, e-ticaret çözümleri bir arada
+      uygun fiyatlarla hizmetinizdeyiz.
     plans:
       - title: Kurumsal Web Sayfası
         price: Teklif al
