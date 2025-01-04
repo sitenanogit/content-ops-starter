@@ -44,7 +44,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Online Sipariş Sayfası
+      - title: Online Sipariş Sistemi
         price: 4.900₺/yıl
         details: per month
         description: >-
