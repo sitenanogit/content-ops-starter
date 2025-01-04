@@ -15,7 +15,8 @@
                 "icon": "chevronRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "showIcon": true
             },
             {
                 "label": "Hakkımızda",
