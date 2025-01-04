@@ -43,7 +43,7 @@
                 "label": "Hizmetler",
                 "altText": "Hizmetlerimiz",
                 "url": "/hizmetlerimiz",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "chevronRight",
                 "iconPosition": "left",
                 "style": "secondary",
