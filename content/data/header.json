@@ -25,7 +25,7 @@
             "type": "Link",
             "label": "Fiyatlar",
             "altText": "Ürün ve fiyatlar",
-            "url": "/",
+            "url": "/pricing",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
