@@ -8,7 +8,7 @@ sections:
       text: Kurumsal firmalar ve girişimciler için genel bir çözüm ortağı
       color: text-dark
     subtitle: Birlikte çalışmaya hazırız
-    text: "#### CMSnano,\_[**web tasarım**, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım](https://oldcms.sitenano.com/web-tasarim.html), web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_[**seo hizmetleri**](https://oldcms.sitenano.com/web-site-seo.html)\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n\n"
+    text: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_seo hizmetleri\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n"
     actions:
       - type: Button
         label: Fazla bilgi
