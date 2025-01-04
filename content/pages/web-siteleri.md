@@ -125,7 +125,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: 'Siz de arayın, başlayalım'
         altText: ''
         url: /
         showIcon: false
