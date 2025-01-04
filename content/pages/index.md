@@ -146,7 +146,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: mutlu müşteri deneyimleri
       color: text-primary
       styles:
         self:
