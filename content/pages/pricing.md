@@ -61,7 +61,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Kur & Dene
-            url: /
+            url: 'https://admin.komisyonsuz.com/admin/register.html'
             icon: arrowRight
             iconPosition: right
             style: secondary
