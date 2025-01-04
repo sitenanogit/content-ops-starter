@@ -158,7 +158,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: 'Anladım, bir deneyeyim'
         url: /
         icon: arrowRight
         iconPosition: right
