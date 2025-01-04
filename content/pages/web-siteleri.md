@@ -19,7 +19,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: İnceleyin
         url: /
         showIcon: true
         icon: arrowRight
