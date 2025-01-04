@@ -5,7 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: >-
+        CMSnano ile Web Tasarım, Web Yazılım, Seo, E-ticaret ve Web Site
+        Yönetimi Hizmetleri
       color: text-dark
       styles:
         self:
