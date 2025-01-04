@@ -83,7 +83,8 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "E-ticaret siteni kur & dene"
+                "altText": "E-ticaret siteni kur & dene",
+                "showIcon": false
             },
             {
                 "type": "Link",
