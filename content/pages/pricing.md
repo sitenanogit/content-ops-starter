@@ -19,7 +19,7 @@ sections:
           hızlı yükleme süreleri ve arama motoru optimizasyonu (SEO) gibi teknik
           detaylara dikkat edilerek tasarlanır.
         features:
-          - Feature one
+          - Firmanıza özel tasarım
           - Feature two
           - Feature three
           - Feature four
