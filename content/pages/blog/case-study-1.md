@@ -1,7 +1,7 @@
 ---
 title: airpoll.com.tr
 slug: case-study-1
-date: '2024-12-23'
+date: '2024-12-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
