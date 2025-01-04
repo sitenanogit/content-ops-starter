@@ -52,7 +52,7 @@ sections:
         features:
           - özel alan adınız ile çalışır
           - kurulum desteği ücretsizdir
-          - Feature three
+          - siparişlerinizde ekstra komisyon alınmaz
           - Feature four
         image:
           url: /images/komisyonsuz-logo-red-white_250 (1).png
