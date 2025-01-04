@@ -108,7 +108,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Komisyonsuz",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
