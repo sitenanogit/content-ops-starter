@@ -615,7 +615,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: ARAYIN GÖRÜŞELİM
       color: text-primary
     colors: bg-light-fg-dark
 slug: /
