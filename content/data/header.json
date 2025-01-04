@@ -55,7 +55,7 @@
                     "altText": "Web siteleri"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Sipariş Siteleri",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
