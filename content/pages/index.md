@@ -136,7 +136,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Ürünler
+        label: Ürün ve Fiyatlar
         altText: ''
         url: /pricing
         showIcon: false
