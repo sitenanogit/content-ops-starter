@@ -86,7 +86,7 @@ sections:
           - 'sepet hatırlatmaları, teklifli satış'
           - bölge bazlı ve saat bazlı teslimat
           - ürün yorumları ve cevaplama
-          - Feature five
+          - AI ürün liste planları
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
