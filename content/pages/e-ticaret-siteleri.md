@@ -11,9 +11,18 @@ sections:
         self:
           textAlign: center
     subtitle: Section subtitle
-    text: |+
-      <div style="text-align: center"></div>
+    text: >
+      Sınırsız ürün, web site trafiği ve farklı dil seçenekleri ile ek ücret
+      ödemeden tüm dünyaya satış yapın.Geçiş yapmak isteyenlere tam
+      destek!"Taşınma işlemleri profesyonel Sınırsız ürün, web site trafiği ve
+      farklı dil seçenekleri ile ek ücret ödemeden tüm dünyaya satış yapın.Geçiş
+      yapmak isteyenlere tam destek!"Taşınma işlemleri profesyonel ekibimiz
+      tarafından yürütülür""Özel e-ticaret tasarımı ve ilk adım banner
+      tasarımları ile satışa hazırlanır"
 
+
+      ekibimiz tarafından yürütülür""Özel e-ticaret tasarımı ve ilk adım banner
+      tasarımları ile satışa hazırlanır"
     actions:
       - type: Button
         label: See open positions
