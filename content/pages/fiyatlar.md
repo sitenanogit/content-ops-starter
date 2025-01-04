@@ -1,6 +1,6 @@
 ---
 title: Fiyatlar
-slug: pricing
+slug: fiyatlar
 sections:
   - title:
       text: Farklı hizmetler aynı anda tek yerde
