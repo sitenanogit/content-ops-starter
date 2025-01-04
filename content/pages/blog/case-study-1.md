@@ -1,14 +1,14 @@
 ---
-title: Case study 1
+title: airpoll.com.tr
 slug: case-study-1
-date: '2022-01-05'
+date: '2024-12-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/screenshot-airpoll_com_tr-2025_01_04-1g1_35_42.png
   altText: Case study 1
   styles:
     self:

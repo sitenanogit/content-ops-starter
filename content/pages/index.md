@@ -30,7 +30,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/web-tasarim-cozumleri.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
@@ -51,16 +51,16 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: 2024 yeni başlayanlar
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: satışlarını sitenano ürünleri ile arttırdı
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: son 1 yılda
+        subtitle: 3 özel proje
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -87,8 +87,8 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
+        title: 200+ sipariş
+        subtitle: sistemi tercih edildi
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -112,8 +112,8 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
-        subtitle: Faster
+        title: 30+ e-ticaret
+        subtitle: sistemi tercih edildi
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -136,9 +136,9 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
-        altText: ''
-        url: /
+        label: Ürün ve Fiyatlar
+        altText: Ürün ve Fiyatlar
+        url: /pricing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -146,7 +146,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: mutlu müşteri deneyimleri
       color: text-primary
       styles:
         self:
