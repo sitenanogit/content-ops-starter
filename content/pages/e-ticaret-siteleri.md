@@ -159,7 +159,7 @@ sections:
     actions:
       - type: Button
         label: 'Anladım, bir deneyeyim'
-        url: /
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         icon: arrowRight
         iconPosition: right
         style: primary
