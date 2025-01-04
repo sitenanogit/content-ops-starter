@@ -95,7 +95,7 @@ sections:
     items:
       - type: FeaturedItem
         title: E-ticaret sitemi taşımam ne kadar sürer?
-        subtitle: Sales
+        subtitle: İşletme ölçeğine göre değişir
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
