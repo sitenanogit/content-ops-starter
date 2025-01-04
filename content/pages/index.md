@@ -89,10 +89,10 @@ sections:
       - type: FeaturedItem
         title: 200+ sipariş
         subtitle: sistemi tercih edildi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          lokantalar, büfeler, restoranlar, cafeler ve daha birçok yerel
+          işletmeler ürünlerini listelemek / sipariş almak için ürünlerimizi
+          tercih etti.
         image:
           type: ImageBlock
           url: /images/icon2.svg
