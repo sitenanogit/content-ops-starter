@@ -190,7 +190,7 @@ sections:
       - type: FeaturedItem
         title: Reklam hizmetleri
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Google, Youtube reklamlarınız yönetilir'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
