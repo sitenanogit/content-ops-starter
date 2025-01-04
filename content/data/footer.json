@@ -63,7 +63,7 @@
             },
             {
                 "label": "e-ticaret",
-                "url": "https://cpanel.sitenano.com/",
+                "url": "https://eticaret.sitenano.com/account/register/?next=/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
