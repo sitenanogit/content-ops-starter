@@ -581,21 +581,21 @@ sections:
           name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Adınız
           isRequired: true
           width: full
         - type: EmailFormControl
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: E-posta adresiniz
           isRequired: true
           width: full
         - type: TextareaFormControl
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Mesajınız
           width: full
       submitButton:
         type: SubmitButtonFormControl
@@ -603,6 +603,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        showIcon: true
       elementId: contact-form
       styles:
         self:
