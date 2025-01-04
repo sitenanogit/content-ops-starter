@@ -72,7 +72,7 @@
             },
             {
                 "type": "Link",
-                "label": "komisyonsuz",
+                "label": "komisyonsuz pazaryeri",
                 "altText": "komisyonsuz pazaryeri",
                 "url": "https://www.komisyonsuz.com",
                 "showIcon": false,
