@@ -55,7 +55,7 @@ sections:
           - siparişlerinizde ekstra komisyon alınmaz
           - üyelere özel indirim yapılabilir
           - 1 şube için geçerli fiyattır
-          - kampanya ve duyurular sunulaibilir
+          - kampanya ve duyurular sunulabilir
           - entegrasyonlar ücretlidir
         image:
           url: /images/komisyonsuz-logo-red-white_250 (1).png
