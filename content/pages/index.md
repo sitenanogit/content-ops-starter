@@ -579,7 +579,7 @@ sections:
       fields:
         - type: TextFormControl
           name: Adınız
-          label: Name
+          label: Adınız
           hideLabel: true
           placeholder: Your name
           isRequired: true
