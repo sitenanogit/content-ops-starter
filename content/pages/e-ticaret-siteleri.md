@@ -31,6 +31,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Kredi Kartı Gerekmez
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
