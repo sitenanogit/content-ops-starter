@@ -20,7 +20,7 @@ sections:
           detaylara dikkat edilerek tasarlanır.
         features:
           - Firmanıza özel tasarım
-          - SEO anahtar kelime çalışması
+          - SEO anahtar kelime çalışmaları
           - Feature three
           - Feature four
         image:
