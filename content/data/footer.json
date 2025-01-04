@@ -25,7 +25,7 @@
                 "style": "secondary",
                 "type": "Link",
                 "altText": "Hakkımızda",
-                "showIcon": false
+                "showIcon": true
             },
             {
                 "label": "Ürünlerimiz",
