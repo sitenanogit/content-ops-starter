@@ -1,5 +1,5 @@
 ---
-title: The-Mine
+title: the-mine.eu
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
