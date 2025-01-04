@@ -47,9 +47,8 @@ sections:
       - title: Online Sipariş Sistemi
         price: 4.900₺/yıl
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Trenyol, Yemeksepeti entegrasyonları
         features:
           - Feature one
           - Feature two
