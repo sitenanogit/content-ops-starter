@@ -28,7 +28,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/nano_about_top.png
-      altText: Fun feature preview
+      altText: Bir merhaba ile başlar
     badge:
       type: Badge
       label: TEK ELDEN ÇÖZÜMLER
