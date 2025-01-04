@@ -8,11 +8,10 @@ sections:
       text: Projelerinize kurumsal çözüm için buradayız
       color: text-dark
     subtitle: 15 yılı aşan deneyim ile hizmetinizdeyiz
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Seo alt yapısına uygun, işlevsel ve modern web siteleri geliştiriyoruz.
+      Yaptığımız web sitelerin yüksek hızla daha geniş bir hedef kitleye
+      ulaşmasını sağlıyoruz.
     actions: []
     media:
       type: FormBlock
