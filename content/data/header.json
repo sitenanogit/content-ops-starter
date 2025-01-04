@@ -114,7 +114,8 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
-            "altText": "Komisyonsuz Sipariş Sistemleri"
+            "altText": "Komisyonsuz Sipariş Sistemleri",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",
