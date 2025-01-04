@@ -263,7 +263,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: CMSNANO FARKI NE?
       color: text-primary
       styles:
         self:
