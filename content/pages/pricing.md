@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Her bütçeye uygun web site fiyatları ile hizmetinizdeyiz.
     plans:
-      - title: Developers
+      - title: Kurumsal Web Sayfası
         price: Free
         details: No credit card required
         description: >-
