@@ -31,7 +31,7 @@ sections:
     actions:
       - type: Button
         label: 'Hemen arayın, ya da mesaj iletin'
-        url: /
+        url: /iletisim
         icon: arrowRight
         iconPosition: right
         style: primary
