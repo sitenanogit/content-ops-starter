@@ -44,7 +44,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Online Sipariş Sayfası
-        price: $99
+        price: 4.900₺/yıl
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
