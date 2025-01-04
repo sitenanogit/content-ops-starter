@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Kurumsal Web Sayfası
         price: Teklif al
-        details: '%20 ön ödeme ile hazırlanır'
+        details: 'Örnek sayfalarınız, içeriklerinize göre belirlenir'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
