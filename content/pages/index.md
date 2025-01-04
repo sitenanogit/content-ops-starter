@@ -51,7 +51,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 2024 yeni başlayanlar
+      text: 2024`te yeni başlayanlar
       color: text-dark
       styles:
         self:
@@ -60,11 +60,10 @@ sections:
     items:
       - type: FeaturedItem
         title: son 1 yılda
-        subtitle: 3 özel proje
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 3 özel proje tamamlandı
+        text: >
+          Özel olarak geliştirdiğimiz kurumsal personel taşıma, havaalanı araç
+          kiralama, spor salonu randevu planlama projelerimiz yayına girdi.
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -89,10 +88,10 @@ sections:
       - type: FeaturedItem
         title: 200+ sipariş
         subtitle: sistemi tercih edildi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          lokantalar, büfeler, restoranlar, cafeler ve daha birçok yerel
+          işletmeler ürünlerini listelemek / sipariş almak için komisyonsuz
+          sipariş sistemi ürünlerini tercih etti.
         image:
           type: ImageBlock
           url: /images/icon2.svg
@@ -114,10 +113,10 @@ sections:
       - type: FeaturedItem
         title: 30+ e-ticaret
         subtitle: sistemi tercih edildi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sahaflar, ayakkabıcılar, bisiklet ve aksesuarları, hediyelik eşya
+          satıcıları, diğer perakende satış mağazaları sitenano eticaret
+          ürünleriyle satışlarını arttırdı, maliyetlerini azalttı.
         image:
           type: ImageBlock
           url: /images/icon3.svg
@@ -165,7 +164,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: Birlikte çalıştığımız firmalar ve çözüm ortakları
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
@@ -227,7 +226,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: İşinizi 10x daha hızlı geliştirin
       color: text-dark
       styles:
         self:

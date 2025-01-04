@@ -9,8 +9,8 @@
         "title": "Product",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Anasayfa",
+                "altText": "Homepage",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,20 +18,33 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Hakkımızda",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Hakkımızda"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Ürünler",
+                "url": "/products",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Ürünler"
+            },
+            {
+                "type": "Link",
+                "label": "Hizmetler",
+                "altText": "Hizmetlerimiz",
+                "url": "/services",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
