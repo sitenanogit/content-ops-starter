@@ -14,11 +14,10 @@ sections:
           textAlign: center
     subtitle: Neler yapıyoruz?
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Web sitenizin tasarım ve uygulama çalışmaları ile birlikte içerik takip ve
+      yönetimini üstlenir, sitenize özel araştırma ve çalışmalar ile markanızın
+      geliştirilmesi ve dijital ortamlarda ihtiyacını duyduğunuz konularda
+      hizmet ve çözümler sunarız.
     actions:
       - type: Button
         label: See open positions
