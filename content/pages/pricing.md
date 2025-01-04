@@ -22,7 +22,7 @@ sections:
           - Firmanıza özel tasarım
           - SEO anahtar kelime çalışmaları
           - Mobil sayfa & hız testleri
-          - 'Alan adı, sunucu bakım'
+          - 'Alan adı, sunucu bakım, güncellemeler'
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
