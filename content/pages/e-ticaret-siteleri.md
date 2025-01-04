@@ -115,7 +115,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Ürün fiyatlarını nasıl hızlı güncellerim?
+        title: Satış arttıran hangi çözümler var?
         subtitle: Otomasyon ile
         text: >
           sitenano, e-ticaret altyapısı ile e-ihracat, otomasyon, pazarlama,
