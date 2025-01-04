@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: E-ticaret Sayfası
-        price: Custom
+        price: 9.900₺/yıl
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
