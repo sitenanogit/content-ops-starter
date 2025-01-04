@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/cmsnano-logo.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
