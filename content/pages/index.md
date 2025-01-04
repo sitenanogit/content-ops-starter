@@ -563,14 +563,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Projelerinize kurumsal çözüm için buradayız
       color: text-dark
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: 15 yılı aşan deneyim ile hizmetinizdeyiz
+    text: >+
+      ### Seo alt yapısına uygun, işlevsel ve modern web siteleri
+      geliştiriyoruz. Yaptığımız web sitelerin yüksek hızla daha geniş bir hedef
+      kitleye ulaşmasını sağlıyoruz.
+
     actions: []
     media:
       type: FormBlock
@@ -597,7 +597,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Gönder
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -615,7 +615,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: 'MESAJ ATIN, ARAYIN GÖRÜŞELİM'
       color: text-primary
     colors: bg-light-fg-dark
 slug: /

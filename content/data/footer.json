@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "CMSnano internet hizmetleri\n",
+    "text": "CMSnano internet hizmetleri\n\n+902122129990\n\n<info@cmsnano.com>\n",
     "primaryLinks": {
         "title": "KATEGORİLER",
         "links": [
@@ -19,7 +19,7 @@
             },
             {
                 "label": "Hakkımızda",
-                "url": "/about",
+                "url": "/hakkimizda",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -27,19 +27,30 @@
                 "altText": "Hakkımızda"
             },
             {
-                "label": "Ürünler",
-                "url": "/products",
+                "label": "Ürünlerimiz",
+                "url": "/urunlerimiz",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Ürünler"
+                "altText": "E-ticaret, sipariş sistemi ve diğer ürünlerimiz"
             },
             {
                 "type": "Link",
                 "label": "Hizmetler",
                 "altText": "Hizmetlerimiz",
                 "url": "/services",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "İletişim",
+                "altText": "Bize ulaşın, iletişim",
+                "url": "/iletisim",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -53,7 +64,7 @@
         "title": "KURUMSAL",
         "links": [
             {
-                "label": "sitenano",
+                "label": "sitenano proje",
                 "altText": "Özel projeleriniz için",
                 "url": "https://www.sitenano.com/",
                 "icon": "arrowRight",
@@ -62,7 +73,7 @@
                 "type": "Link"
             },
             {
-                "label": "e-ticaret",
+                "label": "E-ticaret Sistemleri",
                 "url": "https://eticaret.sitenano.com/account/register/?next=/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -72,7 +83,7 @@
             },
             {
                 "type": "Link",
-                "label": "komisyonsuz",
+                "label": "komisyonsuz pazaryeri",
                 "altText": "komisyonsuz pazaryeri",
                 "url": "https://www.komisyonsuz.com",
                 "showIcon": false,
@@ -123,7 +134,7 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Kullanım Koşulları",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -131,7 +142,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Gizlilik Politikası",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
