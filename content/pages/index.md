@@ -581,7 +581,7 @@ sections:
           name: Adınız
           label: Adınız
           hideLabel: true
-          placeholder: Your name
+          placeholder: Adınız
           isRequired: true
           width: full
         - type: EmailFormControl
