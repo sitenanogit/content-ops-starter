@@ -114,10 +114,10 @@ sections:
       - type: FeaturedItem
         title: 30+ e-ticaret
         subtitle: sistemi tercih edildi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sahaflar, ayakkabıcılar, bisiklet ve aksesuarları, hediyelik eşya
+          satıcıları, diğer perakende satış mağazaları sitenano eticaret
+          ürünleriyle satışlarını arttırdı, maliyetlerini azalttı.
         image:
           type: ImageBlock
           url: /images/icon3.svg
