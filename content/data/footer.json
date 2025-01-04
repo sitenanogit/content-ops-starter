@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/cmsnano-logo.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "CMSnano internet hizmetleri\n",
     "primaryLinks": {
         "title": "Product",
         "links": [

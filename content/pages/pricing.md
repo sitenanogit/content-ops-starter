@@ -3,32 +3,33 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Farklı hizmetler aynı anda tek yerde
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Her bütçeye uygun web site fiyatları ile hizmetinizdeyiz.
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Kurumsal Web Sayfası
+        price: Teklif al
+        details: Örnek sayfa ve içeriklerinize göre belirlenir
+        description: >
+          Kurumsal web siteleri, mobil uyumluluk, kullanıcı dostu arayüzler,
+          hızlı yükleme süreleri ve arama motoru optimizasyonu (SEO) gibi teknik
+          detaylara dikkat edilerek tasarlanır.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - firmanıza özel tasarım
+          - seo anahtar kelime çalışmaları
+          - mobil sayfa & hız testleri
+          - 'alan adı, sunucu bakım, güncellemeler'
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/cmsnano-logo.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Teklif al
+            url: /contact
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -43,28 +44,31 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Online Sipariş Sistemi
+        price: 4.900₺
+        details: yıllık alımlarda geçerli başlangıç fiyatıdır
+        description: |
+          Trenyol, Yemeksepeti entegrasyonları
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - özel alan adınız ile çalışır
+          - kurulum desteği ücretsizdir
+          - siparişlerinizde ekstra komisyon alınmaz
+          - üyelere özel indirim yapılabilir
+          - 1 şube için geçerli fiyattır
+          - kampanya ve duyurular sunulabilir
+          - entegrasyonlar ücretlidir
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/komisyonsuz-logo-red-white_250 (1).png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Kur & Dene
+            url: 'https://admin.komisyonsuz.com/admin/register.html'
             icon: arrowRight
             iconPosition: right
             style: secondary
             type: Button
+            altText: komisyonsuz sipariş sistemi kur ve dene
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -75,29 +79,29 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - title: Profesyonel E-ticaret Sitesi
+        price: 9.900₺
+        details: yıllık alımlarda geçerli başlangıç fiyatıdır
+        description: |
+          Trendyol, Hepsiburada, Amazon ve Etsy Entegrasyonları
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
+          - 'sepet hatırlatmaları, teklifli satış'
+          - bölge bazlı ve saat bazlı teslimat
+          - ürün yorumları ve cevaplama
+          - AI ürün liste planları
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/footer-logo.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
-            url: /
+          - label: Kur & Dene
+            url: 'https://eticaret.sitenano.com/account/register/?next=/'
             icon: arrowRight
             iconPosition: right
             style: secondary
             type: Button
+            altText: Profesyonel e-ticaret sitesi
         colors: bg-neutral-fg-dark
         styles:
           self:
