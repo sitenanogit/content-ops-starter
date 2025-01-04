@@ -86,7 +86,7 @@ sections:
         features:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
           - 'sepet hatırlatmaları, teklifli satış'
-          - Feature three
+          - bölge bazlı ve saat bazlı teslimar
           - Feature four
           - Feature five
         image:
