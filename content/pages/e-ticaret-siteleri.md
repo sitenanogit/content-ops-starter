@@ -96,10 +96,11 @@ sections:
       - type: FeaturedItem
         title: E-ticaret sitemi taşımam ne kadar sürer?
         subtitle: İşletme ölçeğine göre değişir
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Eski e-ticaret altyapınızdan ikas e-ticaret altyapısına geçmeniz
+          sitede yer alan ürün sayısına, sayfa sayısına ve ödeme altyapısı
+          başvurularına göre farklılık gösterebilmektedir. Ancak ortalama olarak
+          2-3 gün içerisinde taşıma işlemlerini tamamlamak mümkündür.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
