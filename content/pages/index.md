@@ -51,7 +51,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: 2024 yeni başlayanlar
+      text: 2024`te yeni başlayanlar
       color: text-dark
       styles:
         self:
