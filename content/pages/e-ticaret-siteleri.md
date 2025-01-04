@@ -140,7 +140,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Komisyon ödeniyor mu?
-        subtitle: Engineering
+        subtitle: komisyon yok
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
