@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Anasayfa",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "Anasayfa"
-        },
-        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
@@ -29,6 +20,15 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "label": "Anasayfa",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "altText": "Anasayfa"
         },
         {
             "label": "Careers",
