@@ -56,7 +56,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: satışlarını sitenano ürünleri ile arttırdı
     items:
       - type: FeaturedItem
         title: son 1 yılda
