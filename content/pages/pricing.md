@@ -53,7 +53,7 @@ sections:
           - özel alan adınız ile çalışır
           - kurulum desteği ücretsizdir
           - siparişlerinizde ekstra komisyon alınmaz
-          - Feature four
+          - 1 şube için geçerli diyattır
         image:
           url: /images/komisyonsuz-logo-red-white_250 (1).png
           altText: Pricing plan 2
