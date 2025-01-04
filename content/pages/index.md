@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: Kurumsal firmalar ve girişimciler için genel bir çözüm ortağı
       color: text-dark
     subtitle: Subtitle goes here
     text: "#### CMSnano,\_[**web tasarım**, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım](https://oldcms.sitenano.com/web-tasarim.html), web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_[**seo hizmetleri**](https://oldcms.sitenano.com/web-site-seo.html)\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n\n"
