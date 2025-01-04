@@ -54,7 +54,7 @@ sections:
           - kurulum desteği ücretsizdir
           - siparişlerinizde ekstra komisyon alınmaz
           - ''
-          - 1 şube için geçerli diyattır
+          - 1 şube için geçerli fiyattır
           - ''
           - entegrasyonlar ücretlidir
         image:
