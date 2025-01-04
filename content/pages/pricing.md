@@ -100,6 +100,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
+            altText: Profesyonel e-ticaret sitesi
         colors: bg-neutral-fg-dark
         styles:
           self:
