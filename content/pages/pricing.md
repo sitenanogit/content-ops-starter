@@ -95,7 +95,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Kur & Dene
-            url: /
+            url: 'https://eticaret.sitenano.com/account/register/?next=/'
             icon: arrowRight
             iconPosition: right
             style: secondary
