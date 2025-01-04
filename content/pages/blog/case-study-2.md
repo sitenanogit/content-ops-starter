@@ -1,5 +1,5 @@
 ---
-title: the-mine.eu
+title: eventlocationessen.de
 slug: case-study-2
 date: '2024-11-20'
 excerpt: >-
