@@ -585,7 +585,7 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: email
+          name: E-posta adresiniz
           label: Email
           hideLabel: true
           placeholder: Your email
