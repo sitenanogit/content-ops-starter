@@ -47,7 +47,7 @@
                 },
                 {
                     "label": "Sipariş Siteleri",
-                    "url": "/",
+                    "url": "/siparis-siteleri",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
