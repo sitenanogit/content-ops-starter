@@ -88,7 +88,7 @@
         {
             "type": "Link",
             "label": "İletişim",
-            "altText": "",
+            "altText": "Bize Ulaşın",
             "url": "/contact",
             "showIcon": false,
             "icon": "arrowRight",
