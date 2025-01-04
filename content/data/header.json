@@ -38,7 +38,7 @@
             "links": [
                 {
                     "label": "Web siteleri",
-                    "url": "/",
+                    "url": "/web-siteleri",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
