@@ -32,7 +32,7 @@
                 "label": "Ürünlerimiz",
                 "url": "/urunlerimiz",
                 "icon": "chevronRight",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link",
                 "altText": "E-ticaret, sipariş sistemi ve diğer ürünlerimiz",
