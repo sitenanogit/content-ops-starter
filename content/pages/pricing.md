@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Her bütçeye uygun web site fiyatları ile hizmetinizdeyiz.
+    subtitle: >-
+      Her bütçeye göre web site, sipariş sistemi, e-ticaret çözümleri bir arada
+      uygun fiyatlarla hizmetinizdeyiz.
     plans:
       - title: Kurumsal Web Sayfası
         price: Teklif al
@@ -28,6 +30,15 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
+          - type: Button
+            label: İncele
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
           - label: Teklif al
             url: /contact
             icon: arrowRight
@@ -44,7 +55,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Online Sipariş Sistemi
+      - title: Yerli Üretim Sipariş Sistemi
         price: 4.900₺
         details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
@@ -79,7 +90,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Profesyonel E-ticaret Sitesi
+      - title: Yerli Üretim Profesyonel E-ticaret
         price: 9.900₺
         details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
