@@ -29,7 +29,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Teklif al
-            url: /
+            url: /contact
             icon: arrowRight
             iconPosition: right
             style: secondary
