@@ -20,7 +20,7 @@ sections:
           detaylara dikkat edilerek tasarlanır.
         features:
           - firmanıza özel tasarım
-          - SEO anahtar kelime çalışmaları
+          - seo anahtar kelime çalışmaları
           - mobil sayfa & hız testleri
           - 'alan adı, sunucu bakım, güncellemeler'
         image:
