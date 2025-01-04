@@ -231,7 +231,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: 'Mobil cihaz uyumluluğu, tarayıcı uyumu, seo...'
     text: >
       Çalışmalarımızda iletişim ve işbirliği içerisinde planlı bir şekilde
       ilerliyor, hedefleri yakalamak için özenle çalışıyoruz.
