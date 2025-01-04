@@ -57,7 +57,7 @@
                 "showIcon": true,
                 "icon": "chevronRight",
                 "iconPosition": "left",
-                "style": "primary",
+                "style": "secondary",
                 "elementId": ""
             }
         ],
