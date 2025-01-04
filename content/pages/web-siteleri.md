@@ -77,7 +77,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Yayında iken
-        subtitle: The Job Stuff
+        subtitle: İçeriklerin güncellenmesi
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
