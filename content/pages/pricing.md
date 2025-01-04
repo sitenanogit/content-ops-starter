@@ -85,7 +85,7 @@ sections:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
           - 'sepet hatırlatmaları, teklifli satış'
           - bölge bazlı ve saat bazlı teslimat
-          - Feature four
+          - ürün yorumları ve cevaplama
           - Feature five
         image:
           url: /images/abstract-feature3.svg
