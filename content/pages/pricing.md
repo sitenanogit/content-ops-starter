@@ -84,7 +84,7 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         features:
-          - e-ihracat
+          - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
           - sepet hatırlatmaları
           - Feature three
           - Feature four
