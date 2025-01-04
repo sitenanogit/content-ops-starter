@@ -35,7 +35,8 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "E-ticaret, sipariş sistemi ve diğer ürünlerimiz"
+                "altText": "E-ticaret, sipariş sistemi ve diğer ürünlerimiz",
+                "showIcon": true
             },
             {
                 "type": "Link",
