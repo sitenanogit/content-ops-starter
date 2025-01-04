@@ -26,7 +26,7 @@ sections:
       hazırlanır**
     actions:
       - type: Button
-        label: See open positions
+        label: Hemen Kur
         url: /
         icon: arrowRight
         iconPosition: right
