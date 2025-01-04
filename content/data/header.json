@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/cmsnano-logo_yesil.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -9,7 +9,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "logo"
     },
     "primaryLinks": [
         {
@@ -119,7 +120,7 @@
             "showIcon": true
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
