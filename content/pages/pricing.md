@@ -77,7 +77,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Profesyonel E-ticaret Sitesi
-        price: 9.900₺/yıl
+        price: 9.900₺
         details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
           Trendyol, Hepsiburada, Amazon ve Etsy Entegrasyonları
