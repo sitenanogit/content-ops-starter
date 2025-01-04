@@ -21,7 +21,7 @@ sections:
         features:
           - Firmanıza özel tasarım
           - SEO anahtar kelime çalışmaları
-          - Feature three
+          - Mobil sayfa & hız testleri
           - Feature four
         image:
           url: /images/abstract-feature1.svg
