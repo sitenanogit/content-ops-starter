@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Esnek sayfa planları
+      text: Farklı hizmetler aynı anda tek yerde
       color: text-dark
       styles:
         self:
