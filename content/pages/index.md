@@ -20,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Fiyatlar
         altText: ''
         url: /
         showIcon: true
