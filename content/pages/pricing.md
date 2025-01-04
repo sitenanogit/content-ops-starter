@@ -85,7 +85,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
-          - sepet hatırlatmaları
+          - 'sepet hatırlatmaları, teklifli satış'
           - Feature three
           - Feature four
           - Feature five
