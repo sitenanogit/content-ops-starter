@@ -1,25 +1,25 @@
 ---
 type: PageLayout
-title: Web siteleri
+title: Web Siteleri
 sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Web sitesi tasarımı ve güncellemeleri
       color: text-dark
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: >-
+      Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
+      yardımcı olur
+    text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
     actions:
       - type: Button
-        label: Get started
+        label: Bize ulaşın
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: İnceleyin
         url: /
         showIcon: true
         icon: arrowRight
@@ -27,11 +27,11 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
+      url: /images/nano_about_top.png
+      altText: Bir merhaba ile başlar
     badge:
       type: Badge
-      label: This is a badge
+      label: TEK ELDEN ÇÖZÜMLER
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -196,30 +196,6 @@ sections:
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
           altText: Background alt text
           styles:
             self:
