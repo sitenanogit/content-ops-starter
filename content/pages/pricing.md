@@ -88,7 +88,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Profesyonel E-ticaret Sitesi
+      - title: Yerli Üretim Profesyonel E-ticaret Sitesi
         price: 9.900₺
         details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
