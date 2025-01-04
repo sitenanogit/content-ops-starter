@@ -80,9 +80,8 @@ sections:
       - title: Profesyonel E-ticaret Sitesi
         price: 9.900₺/yıl
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          Trendyol, Hepsiburada, Amazon ve Etsy Entegrasyonları
         features:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
           - 'sepet hatırlatmaları, teklifli satış'
