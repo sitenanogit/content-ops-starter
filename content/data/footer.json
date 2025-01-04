@@ -56,7 +56,7 @@
                 "url": "/iletisim",
                 "showIcon": true,
                 "icon": "chevronRight",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "primary",
                 "elementId": ""
             }
