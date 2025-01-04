@@ -167,8 +167,10 @@ sections:
         title: SEO hizmetleri
         tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
         subtitle: Global ve yerel seo çalışmaları yapılır
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Büyük ölçekli web siteleri ve çok şubeli firmalar için özelleştirilmiş
+          SEO stratejileri geliştirerek, arama motorlarındaki görünürlüğünüzü
+          artırırken, markanızın çevrimiçi otoritesini güçlendirir.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
