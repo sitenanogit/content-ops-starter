@@ -36,7 +36,7 @@
             {
                 "type": "Link",
                 "label": "Hizmetler",
-                "altText": "",
+                "altText": "Hizmetlerimiz",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
