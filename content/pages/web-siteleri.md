@@ -40,7 +40,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Hangi hizmetler veriliyor?
       color: text-dark
       styles:
         self:
