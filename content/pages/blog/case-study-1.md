@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/screenshot-airpoll_com_tr-2025_01_04-1g1_35_42.png
+  url: /images/airpoll-web-tasarim.jpg
   altText: Case study 1
   styles:
     self:

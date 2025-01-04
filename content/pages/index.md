@@ -231,12 +231,15 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: 'Mobil cihaz uyumluluğu, tarayıcı uyumu, seo...'
+    text: >
+      Çalışmalarımızda iletişim ve işbirliği içerisinde planlı bir şekilde
+      ilerliyor, hedefleri yakalamak için özenle çalışıyoruz.
+
+
+      Web tasarımı, web sitenizin içerik planlarınız doğrultusunda yönetilmesi
+      ve internet ortamında kolaylıkla bulunabilir olmanızı sağlayacak şekilde
+      web sitenizin iyileştirilmesi için destek hizmetleri sağlıyoruz.
     actions: []
     media:
       type: VideoBlock
@@ -260,7 +263,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: CMSNANO FARKI NE?
       color: text-primary
       styles:
         self:
