@@ -50,7 +50,7 @@ sections:
         description: |
           Trenyol, Yemeksepeti entegrasyonları
         features:
-          - Feature one
+          - özel alan adınız ile çalışır
           - Feature two
           - Feature three
           - Feature four
