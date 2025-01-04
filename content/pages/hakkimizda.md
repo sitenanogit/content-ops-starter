@@ -35,6 +35,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: İletişim
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
