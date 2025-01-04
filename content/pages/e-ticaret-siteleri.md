@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: eticaret-siteleri
+slug: e-ticaret-siteleri
 seo:
   type: Seo
   metaTitle: Careers - Demo site
