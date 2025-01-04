@@ -14,9 +14,15 @@ sections:
     text: >+
       <div style="text-align: center">Sınırsız ürün, web site trafiği ve farklı
       dil seçenekleri ile ek ücret ödemeden tüm dünyaya satış yapın.Geçiş yapmak
-      isteyenlere tam destek!"Taşınma işlemleri profesyonel ekibimiz tarafından
-      yürütülür""Özel e-ticaret tasarımı ve ilk adım banner tasarımları ile
-      satışa hazırlanır"</div>
+      isteyenlere tam destek!"Taşınma işlemleri profesyonel Sınırsız ürün, web
+      site trafiği ve farklı dil seçenekleri ile ek ücret ödemeden tüm dünyaya
+      satış yapın.Geçiş yapmak isteyenlere tam destek!"Taşınma işlemleri
+      profesyonel ekibimiz tarafından yürütülür""Özel e-ticaret tasarımı ve ilk
+      adım banner tasarımları ile satışa hazırlanır"
+
+
+      ekibimiz tarafından yürütülür""Özel e-ticaret tasarımı ve ilk adım banner
+      tasarımları ile satışa hazırlanır"</div>
 
     actions:
       - type: Button
