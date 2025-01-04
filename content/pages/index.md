@@ -136,7 +136,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Ürünler
         altText: ''
         url: /
         showIcon: false
