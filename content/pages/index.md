@@ -588,7 +588,7 @@ sections:
           name: E-posta adresiniz
           label: E-posta adresiniz
           hideLabel: true
-          placeholder: Your email
+          placeholder: E-posta adresiniz
           isRequired: true
           width: full
         - type: TextareaFormControl
