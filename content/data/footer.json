@@ -6,7 +6,7 @@
     },
     "text": "CMSnano internet hizmetleri\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "KATEGORİLER",
         "links": [
             {
                 "label": "Anasayfa",
@@ -50,24 +50,47 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "KURUMSAL",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "sitenano",
+                "altText": "Özel projeleriniz için",
+                "url": "https://www.sitenano.com/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "e-ticaret",
+                "url": "https://eticaret.sitenano.com/account/register/?next=/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "E-ticaret siteni kur & dene"
+            },
+            {
+                "type": "Link",
+                "label": "komisyonsuz",
+                "altText": "komisyonsuz pazaryeri",
+                "url": "https://www.komisyonsuz.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Sipariş Sistemleri",
+                "altText": "Komisyonsuz Sipariş Alma",
+                "url": "https://partner.komisyonsuz.com/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"

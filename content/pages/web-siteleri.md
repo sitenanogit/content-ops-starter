@@ -40,16 +40,16 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Hangi hizmetler veriliyor?
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: 'Web site prototip, tasarım, yayınlama, içerik güncelleme, yedekleme ve ...'
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Ön Çalışmalar
+        subtitle: figma taslak hazırlığı
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -76,8 +76,8 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
+        title: Yayında iken
+        subtitle: İçeriklerin güncellenmesi
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -101,8 +101,8 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
-        subtitle: Faster
+        title: Arka planda
+        subtitle: SSL ve CDN takibi
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -125,7 +125,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: 'Siz de arayın, başlayalım'
         altText: ''
         url: /
         showIcon: false
@@ -135,7 +135,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: CMSnano ile
       color: text-primary
       styles:
         self:
@@ -164,11 +164,13 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        title: SEO hizmetleri
+        tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
+        subtitle: Global ve yerel seo çalışmaları yapılır
+        text: >
+          Büyük ölçekli web siteleri ve çok şubeli firmalar için özelleştirilmiş
+          SEO stratejileri geliştirerek, arama motorlarındaki görünürlüğünüzü
+          artırırken, markanızın çevrimiçi otoritesini güçlendirir.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -188,11 +190,12 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        title: Reklam hizmetleri
+        tagline: 'PPC, CPC, CPM, CPL, CPA, CTR ...'
+        subtitle: 'Google, Youtube reklamlarınız yönetilir'
+        text: >
+          Düzenli takip edilen ve dönüşüm oranı yüksek Google reklamlar ile
+          düşük masraflar ile pazarlama hedeflerine ulaşmanızı sağlanır.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
