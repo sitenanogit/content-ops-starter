@@ -12,7 +12,7 @@ sections:
     subtitle: Her bütçeye uygun web site fiyatları ile hizmetinizdeyiz.
     plans:
       - title: Kurumsal Web Sayfası
-        price: Free
+        price: Teklif al
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
