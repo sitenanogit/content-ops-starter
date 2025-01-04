@@ -54,7 +54,7 @@
                 "label": "İletişim",
                 "altText": "Bize ulaşın, iletişim",
                 "url": "/iletisim",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
