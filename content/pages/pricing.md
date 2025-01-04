@@ -46,7 +46,7 @@ sections:
         type: PricingPlan
       - title: Online Sipariş Sistemi
         price: 4.900₺/yıl
-        details: Esnek sayfa planları
+        details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
           Trenyol, Yemeksepeti entegrasyonları
         features:
