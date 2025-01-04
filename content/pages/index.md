@@ -91,8 +91,8 @@ sections:
         subtitle: sistemi tercih edildi
         text: >
           lokantalar, büfeler, restoranlar, cafeler ve daha birçok yerel
-          işletmeler ürünlerini listelemek / sipariş almak için ürünlerimizi
-          tercih etti.
+          işletmeler ürünlerini listelemek / sipariş almak için komisyonsuz
+          sipariş sistemi ürünlerini tercih etti.
         image:
           type: ImageBlock
           url: /images/icon2.svg
