@@ -135,7 +135,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: CMSnano ile
       color: text-primary
       styles:
         self:
