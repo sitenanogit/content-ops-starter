@@ -51,7 +51,7 @@ sections:
           Trenyol, Yemeksepeti entegrasyonları
         features:
           - özel alan adınız ile çalışır
-          - Feature two
+          - kurulum desteği ücretsizdir
           - Feature three
           - Feature four
         image:
