@@ -58,7 +58,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Örnekleri inceleyin
       color: text-dark
       styles:
         self:
