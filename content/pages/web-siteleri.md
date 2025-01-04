@@ -189,7 +189,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Reklam hizmetleri
-        tagline: This is the tagline
+        tagline: 'PPC, CPC'
         subtitle: 'Google, Youtube reklamlarınız yönetilir'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
