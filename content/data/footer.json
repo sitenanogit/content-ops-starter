@@ -84,7 +84,7 @@
             {
                 "type": "Link",
                 "label": "Sipariş Sistemleri",
-                "altText": "",
+                "altText": "Komisyonsuz Sipariş Alma",
                 "url": "https://partner.komisyonsuz.com/",
                 "showIcon": false,
                 "icon": "arrowRight",
