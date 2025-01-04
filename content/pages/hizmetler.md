@@ -1,6 +1,6 @@
 ---
 title: Hizmetler
-slug: /
+slug: /hizmetler
 sections:
   - type: GenericSection
     title:
