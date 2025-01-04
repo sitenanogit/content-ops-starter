@@ -88,7 +88,7 @@ sections:
           - ürün yorumları ve cevaplama
           - AI ürün liste planları
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/footer-logo.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
