@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: hepsi bir arada
     text: >
       Sınırsız ürün, web site trafiği ve farklı dil seçenekleri ile ek ücret
       ödemeden tüm dünyaya satış yapın.Geçiş yapmak isteyenlere tam
