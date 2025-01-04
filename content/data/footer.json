@@ -19,7 +19,7 @@
             },
             {
                 "label": "Hakkımızda",
-                "url": "/pricing",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
