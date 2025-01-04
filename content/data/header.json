@@ -22,6 +22,52 @@
             "altText": "Anasayfa"
         },
         {
+            "type": "Link",
+            "label": "Fiyatlar",
+            "altText": "Ürün ve fiyatlar",
+            "url": "/pricing",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "label": "Hizmetler",
+            "altText": "Hizmetler",
+            "links": [
+                {
+                    "label": "Web siteleri",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Web siteleri"
+                },
+                {
+                    "label": "Sipariş Siteleri",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Sipariş Siteleri"
+                },
+                {
+                    "label": "E-Ticaret Siteleri",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "E-Ticaret Siteleri"
+                }
+            ],
+            "labelStyle": "secondary",
+            "type": "SubNav"
+        },
+        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
@@ -31,8 +77,8 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
+            "label": "Kariyer",
+            "altText": "Bizimle çalışmak ister misiniz?",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -40,55 +86,37 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "type": "Link",
+            "label": "İletişim",
+            "altText": "Bize Ulaşın",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "sitenano",
+            "altText": "E-Ticaret Sistemleri",
+            "url": "https://eticaret.sitenano.com/",
             "icon": "arrowRight",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": true
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "komisyonsuz",
+            "url": "https://partner.komisyonsuz.com/",
             "icon": "arrowRight",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Komisyonsuz Sipariş Sistemleri",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",
