@@ -193,8 +193,9 @@ sections:
         title: Reklam hizmetleri
         tagline: 'PPC, CPC, CPM, CPL, CPA, CTR ...'
         subtitle: 'Google, Youtube reklamlarınız yönetilir'
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Düzenli takip edilen ve dönüşüm oranı yüksek Google reklamlar ile
+          düşük masraflar ile pazarlama hedeflerine ulaşmanızı sağlanır.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
