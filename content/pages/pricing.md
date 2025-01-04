@@ -53,7 +53,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Online Sipariş Sistemi
+      - title: Yerli Üretim Online Sipariş Sistemi
         price: 4.900₺
         details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
