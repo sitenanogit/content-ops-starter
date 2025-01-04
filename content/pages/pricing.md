@@ -19,7 +19,7 @@ sections:
           hızlı yükleme süreleri ve arama motoru optimizasyonu (SEO) gibi teknik
           detaylara dikkat edilerek tasarlanır.
         features:
-          - Firmanıza özel tasarım
+          - firmanıza özel tasarım
           - SEO anahtar kelime çalışmaları
           - Mobil sayfa & hız testleri
           - 'Alan adı, sunucu bakım, güncellemeler'
