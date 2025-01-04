@@ -12,7 +12,7 @@
                 "label": "Anasayfa",
                 "altText": "Homepage",
                 "url": "/",
-                "icon": "arrowRight",
+                "icon": "chevronRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
