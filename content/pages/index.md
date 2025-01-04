@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Kurumsal firmalar ve girişimciler için web çözüm ortağı
-      color: text-dark
+      color: text-primary
     subtitle: Birlikte çalışmaya hazır mısınız?
     text: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_seo hizmetleri\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n"
     actions:
@@ -623,8 +623,9 @@ sections:
 slug: /
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaTitle: Kurumsal firmalar için web hizmetleri
+  metaDescription: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,**\_seo hizmetleri\_**ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır."
   socialImage: /images/main-hero.jpg
   metaTags: []
+  addTitleSuffix: false
 ---
