@@ -55,7 +55,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/komisyonsuz-logo-red-white_250 (1).png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
