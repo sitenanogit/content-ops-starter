@@ -23,7 +23,7 @@ sections:
         style: secondary
       - type: Link
         label: İnceleyin
-        url: /
+        url: 'https://eticaret.sitenano.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
