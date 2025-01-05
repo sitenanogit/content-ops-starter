@@ -141,7 +141,7 @@ sections:
         elementId: ''
       - type: Button
         label: Bize ulaşın
-        altText: ''
+        altText: İletişime geçin
         url: /contact
         showIcon: false
         icon: arrowRight
