@@ -36,6 +36,7 @@ sections:
           hideLabel: true
           placeholder: Projeniz hakkında mesajınız
           width: full
+          isRequired: true
       submitButton:
         type: SubmitButtonFormControl
         label: Gönder
