@@ -93,7 +93,7 @@ sections:
           indirimler Ek hizmetler ücretlidir
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/postc.png
           altText: Featured icon two
           elementId: ''
         actions: []
