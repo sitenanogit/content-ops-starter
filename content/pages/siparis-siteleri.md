@@ -120,7 +120,7 @@ sections:
           kurye entegrasyonları
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/gpskonum.png
           altText: Featured icon three
           elementId: ''
         actions: []
