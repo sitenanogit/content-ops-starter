@@ -52,7 +52,8 @@ sections:
         subtitle: figma taslak hazırlığı
         text: >
           Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
-          figma çalışması hazırlanır.
+          figma çalışması hazırlanır. Taslak üzerinden karşılıklı fikir
+          alışverişleri ile nihai sayfa görüntüsü ortaya çıkarılır.
         image:
           type: ImageBlock
           url: /images/icon1.svg
