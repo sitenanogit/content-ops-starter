@@ -106,7 +106,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Arka planda
+        title: Seo desteği
         subtitle: SSL ve CDN takibi
         text: >
           Sayfanın kod yapısında zamanla gerekli olan değişimler sürekli olarak
