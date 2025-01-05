@@ -159,7 +159,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: urunlerimiz
+slug: urunler
 seo:
   type: Seo
   metaTitle: Careers - Demo site
