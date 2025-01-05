@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Web sitesi tasarımı ve güncellemeleri
+      text: 'Büfe, cafe, restoranlar için sipariş sistemi'
       color: text-dark
     subtitle: >-
       Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
