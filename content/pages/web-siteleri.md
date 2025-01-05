@@ -40,7 +40,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Hangi hizmetler veriliyor?
+      text: Web tasarım ve web site hizmetlerine ek hangi desteği sağlar?
       color: text-dark
       styles:
         self:
