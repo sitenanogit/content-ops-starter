@@ -20,7 +20,7 @@ sections:
     actions:
       - type: Button
         label: See open positions
-        url: /
+        url: 'https://www.sitenano.com/careers.html'
         icon: arrowRight
         iconPosition: right
         style: primary
