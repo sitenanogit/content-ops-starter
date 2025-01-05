@@ -40,7 +40,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Web tasarım ve web site hizmetlerine ek hangi desteği sağlar?
+      text: Web tasarım ve web site ihtiyaçlarınıza nasıl çözüm sunuyor?
       color: text-dark
       styles:
         self:
