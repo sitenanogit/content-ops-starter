@@ -52,8 +52,8 @@ sections:
         self:
           textAlign: center
     subtitle: >-
-      Kurulum sihirbazı ile kolaylıkla anında kurulur. Ücretsiz kurulum. Kredi
-      kartı gerekmez.
+      Kurulum sihirbazı ile kolaylıkla anında kurulur. Ön ödemesiz kurulum.
+      Kredi kartı gerekmez.
     items:
       - type: FeaturedItem
         title: Whatsapp siparişleri
