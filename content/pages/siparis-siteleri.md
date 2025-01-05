@@ -111,10 +111,11 @@ sections:
         title: Adres / Gps konumlu siparişler
         subtitle: SSL ve CDN takibi
         text: >
-          Sayfanın kod yapısında zamanla gerekli olan değişimler sürekli olarak
-          takip edilerek, aralıklı olarak güncellemeler ile tazelenir. Sayfaya
-          karşı yapılabilecek ataklar engellenir, SSL, e-posta, alan adı takibi
-          yapılır.
+          GPS mod ile harita üzerinde bir veya daha fazla teslimat bölgeleri
+          oluşturabilirsiniz. Yönetim panelinden ürün & sipariş takibi Posta
+          kodu veya konum ile sipariş Iyzico ödeme entegrasyonu Trendyol
+          pazaryeri entegrasyonu Netgsm sms entegrasyonu Pakettaxi, Iletmen
+          kurye entegrasyonları
         image:
           type: ImageBlock
           url: /images/icon3.svg
