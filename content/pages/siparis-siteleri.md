@@ -83,7 +83,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Adres / posta kodlu siparişler
-        subtitle: İçeriklerin güncellenmesi
+        subtitle: 4.900₺/yıl
         text: >
           Posta kodu adresleme yöntemi ile il, ilçe, mahalle bazında sipariş
           alanlarınızı belirleyebilirsiniz. Yönetim panelinden ürün takibi
