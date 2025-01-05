@@ -64,7 +64,7 @@ sections:
           yapılır Siparişler Whatsapp üzerinden takip edilir
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/wapp.png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
