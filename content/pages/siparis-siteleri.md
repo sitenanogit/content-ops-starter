@@ -109,7 +109,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Adres / Gps konumlu siparişler
-        subtitle: SSL ve CDN takibi
+        subtitle: 9.900₺/yıl
         text: >
           GPS mod ile harita üzerinde bir veya daha fazla teslimat bölgeleri
           oluşturabilirsiniz. Yönetim panelinden ürün & sipariş takibi Posta
