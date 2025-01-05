@@ -10,7 +10,12 @@ sections:
     subtitle: >-
       Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
       yardımcı olur
-    text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
+    text: >
+      Restoran, Cafe, Lokantalar, bulundukları konuma göre online satış yapmak
+      isteyen bireyler ve işletmeler, kendi ürün veya hizmet satışını yapmak
+      isteyenler, basit özelliklere sahip bir e-ticaret sitesi düşünen
+      işletmeler için idealdir. Reklamsız, komisyonsuz, temiz işleyen sipariş
+      sistemidir.
     actions:
       - type: Button
         label: Bize ulaşın
