@@ -142,7 +142,7 @@ sections:
       - type: Button
         label: Bize ulaşın
         altText: İletişime geçin
-        url: /contact
+        url: /iletisim
         showIcon: false
         icon: arrowRight
         iconPosition: right
