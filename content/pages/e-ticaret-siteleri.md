@@ -8,26 +8,31 @@ sections:
       text: E-ticaret sitesi tasarımı ve güncellemeleri
       color: text-dark
     subtitle: >-
-      Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
-      yardımcı olur
-    text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
+      Kendi e-ticaret sitenizi kurun. Kurulumdan sonra yönetim paneli üzerinden
+      anında canlı destek alın.
+    text: >
+      Alan Adı, SSL, Hosting, E-posta, Güvenlik, Yedekleme ve Güncelleme
+      hizmetleri, Seo Ayarları ile daha birçok e-ticaret hizmeti Sitenano
+      tarafından bir bütün olarak sizlere sunulur.
     actions:
       - type: Button
-        label: Bize ulaşın
-        url: /
+        label: Hemen kur & dene
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: E-ticaret sitesi nasıl kurulur?
       - type: Link
         label: İnceleyin
-        url: /
+        url: 'https://eticaret.sitenano.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: e-ticaret sistemleri
     media:
       type: ImageBlock
-      url: /images/nano_about_top.png
+      url: /images/asirsaat.png
       altText: Bir merhaba ile başlar
     badge:
       type: Badge
@@ -40,7 +45,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Hangi hizmetler veriliyor?
+      text: e-ticaret sistelerine ek hangi hizmetler veriliyor?
       color: text-dark
       styles:
         self:
@@ -48,7 +53,7 @@ sections:
     subtitle: 'Web site prototip, tasarım, yayınlama, içerik güncelleme, yedekleme ve ...'
     items:
       - type: FeaturedItem
-        title: Ön Çalışmalar
+        title: Özel tasarım
         subtitle: figma taslak hazırlığı
         text: >
           Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
@@ -76,7 +81,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Yayında iken
+        title: Veri girişi
         subtitle: İçeriklerin güncellenmesi
         text: >
           Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
@@ -101,7 +106,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Arka planda
+        title: Seo desteği
         subtitle: SSL ve CDN takibi
         text: >
           Sayfanın kod yapısında zamanla gerekli olan değişimler sürekli olarak
@@ -126,9 +131,9 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Siz de arayın, başlayalım'
-        altText: ''
-        url: /
+        label: 'Çekinmeden, hemen kur & dene'
+        altText: Ücretsiz kurulum e-ticaret siteleri
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -157,7 +162,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Diğer ek hizmetlerden bazıları
+      text: Diğer e-ticaret ek hizmetlerinden bazıları
       color: text-primary
       styles:
         self:
