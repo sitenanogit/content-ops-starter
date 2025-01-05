@@ -8,8 +8,9 @@ sections:
       text: 'Büfe, cafe, restoranlar için sipariş sistemi'
       color: text-dark
     subtitle: >-
-      Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
-      yardımcı olur
+      Web & Mobil sipariş sayfanıza ulaşan müşteriler hızlı ve kolay bir
+      şekilde, üyelik şartı olmadan yemek siparişlerini verirler, siz de anında
+      bildirimler alarak siparişleri inceleyip, onaylayabilirsiniz.
     text: >
       Restoran, Cafe, Lokantalar, bulundukları konuma göre online satış yapmak
       isteyen bireyler ve işletmeler, kendi ürün veya hizmet satışını yapmak
