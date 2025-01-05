@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Web Siteleri
+title: Sipariş Siteleri
 sections:
   - type: GenericSection
     title:
