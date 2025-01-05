@@ -107,7 +107,7 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Arka planda
+        title: Adres / Gps konumlu siparişler
         subtitle: SSL ve CDN takibi
         text: >
           Sayfanın kod yapısında zamanla gerekli olan değişimler sürekli olarak
