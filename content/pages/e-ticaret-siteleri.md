@@ -128,7 +128,7 @@ sections:
       - type: Button
         label: 'Çekinmeden, hemen kur & dene'
         altText: Ücretsiz kurulum e-ticaret siteleri
-        url: /
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
