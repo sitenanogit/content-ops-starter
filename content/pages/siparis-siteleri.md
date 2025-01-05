@@ -33,7 +33,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/nano_about_top.png
+      url: /images/burger-restoran-mobil-sayfa.png
       altText: Bir merhaba ile başlar
     badge:
       type: Badge
@@ -64,7 +64,7 @@ sections:
           yapılır Siparişler Whatsapp üzerinden takip edilir
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/wapp.png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -93,7 +93,7 @@ sections:
           indirimler Ek hizmetler ücretlidir
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/postc.png
           altText: Featured icon two
           elementId: ''
         actions: []
@@ -120,7 +120,7 @@ sections:
           kurye entegrasyonları
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/gpskonum.png
           altText: Featured icon three
           elementId: ''
         actions: []
@@ -136,9 +136,9 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Siz de arayın, başlayalım'
-        altText: ''
-        url: /
+        label: 'Çekinme, ücretsiz kur & dene'
+        altText: Komisyonsuz sipariş sistemleri
+        url: 'https://admin.komisyonsuz.com/admin/register.html'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -175,7 +175,7 @@ sections:
     subtitle: İsteğe bağlı ek çalışmalar
     items:
       - type: FeaturedItem
-        title: SEO hizmetleri
+        title: Masa siparişleri
         tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
         subtitle: Global ve yerel seo çalışmaları yapılır
         text: >
@@ -201,7 +201,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Reklam hizmetleri
+        title: Kasa siparişleri
         tagline: 'PPC, CPC, CPM, CPL, CPA, CTR ...'
         subtitle: 'Google, Youtube reklamlarınız yönetilir'
         text: >
