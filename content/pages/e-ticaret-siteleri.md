@@ -17,7 +17,7 @@ sections:
     actions:
       - type: Button
         label: Bize ulaşın
-        url: /
+        url: 'https://eticaret.sitenano.com/account/register/?next=/'
         icon: arrowRight
         iconPosition: right
         style: secondary
