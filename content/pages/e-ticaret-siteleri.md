@@ -23,7 +23,7 @@ sections:
         style: secondary
         altText: E-ticaret sitesi nasıl kurulur?
       - type: Link
-        label: İnceleyin
+        label: Örnekleri İnceleyin
         url: 'https://eticaret.sitenano.com/'
         showIcon: true
         icon: arrowRight
