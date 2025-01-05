@@ -10,7 +10,10 @@ sections:
     subtitle: >-
       Kendi e-ticaret sitenizi kurun. Kurulumdan sonra yönetim paneli üzerinden
       anında canlı destek alın.
-    text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
+    text: >
+      Alan Adı, SSL, Hosting, E-posta, Güvenlik, Yedekleme ve Güncelleme
+      hizmetleri, Seo Ayarları ile daha birçok e-ticaret hizmeti Sitenano
+      tarafından bir bütün olarak sizlere sunulur.
     actions:
       - type: Button
         label: Bize ulaşın
