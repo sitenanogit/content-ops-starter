@@ -20,7 +20,7 @@ sections:
           name: name
           label: name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Adınız
           isRequired: true
           width: full
         - type: EmailFormControl
