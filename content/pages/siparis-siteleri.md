@@ -85,9 +85,10 @@ sections:
         title: Adres / posta kodlu siparişler
         subtitle: İçeriklerin güncellenmesi
         text: >
-          Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
-          yapılması gereken değişiklikler, eklenmesi gereken yeni içerikler web
-          sayfasına taslak olarak konulur. Onay ile de yayına alınır.
+          Posta kodu adresleme yöntemi ile il, ilçe, mahalle bazında sipariş
+          alanlarınızı belirleyebilirsiniz. Yönetim panelinden ürün takibi
+          Yönetim panelinden sipariş takibi Posta kodu ile sipariş Üyelere özel
+          indirimler Ek hizmetler ücretlidir
         image:
           type: ImageBlock
           url: /images/icon2.svg
