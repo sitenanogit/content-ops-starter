@@ -127,7 +127,7 @@ sections:
     actions:
       - type: Button
         label: 'Çekinmeden, hemen kur & dene'
-        altText: 'Ön ödemesiz, kredi kartı gerekmez'
+        altText: Ücretsiz kurulum e-ticaret siteleri
         url: /
         showIcon: false
         icon: arrowRight
