@@ -136,7 +136,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: CMSnano ile
+      label: CMSnano WEB TASARIM ile
       color: text-primary
       styles:
         self:
