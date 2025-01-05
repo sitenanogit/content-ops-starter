@@ -126,7 +126,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Siz de arayın, başlayalım'
+        label: Hemen ara 0(212)2129990
         altText: ''
         url: /
         showIcon: false
