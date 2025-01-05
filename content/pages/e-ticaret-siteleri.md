@@ -140,7 +140,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Bize ulaşın
         altText: ''
         url: /contact
         showIcon: false
