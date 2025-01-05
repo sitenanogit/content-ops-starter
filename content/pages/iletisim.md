@@ -18,7 +18,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Adınız
+          label: name
           hideLabel: true
           placeholder: Your name
           isRequired: true
