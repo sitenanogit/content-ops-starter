@@ -35,7 +35,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Web projeleriniz için CMsnano
+      label: 2025te Web projeleriniz için sitenano
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
