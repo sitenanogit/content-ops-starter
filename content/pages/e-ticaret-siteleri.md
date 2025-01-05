@@ -81,7 +81,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Yayında iken
+        title: Veri girişi
         subtitle: İçeriklerin güncellenmesi
         text: >
           Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
