@@ -27,7 +27,7 @@
             "altText": "Hizmetler",
             "links": [
                 {
-                    "label": "Web siteleri",
+                    "label": "Web Siteleri",
                     "url": "/web-siteleri",
                     "icon": "arrowRight",
                     "iconPosition": "right",
