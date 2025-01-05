@@ -46,7 +46,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Hangi hizmetler veriliyor?
+      text: Sipariş sistemleri alanında hangi hizmetler veriliyor?
       color: text-dark
       styles:
         self:
