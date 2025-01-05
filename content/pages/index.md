@@ -30,7 +30,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/web-tasarim-cozumleri.jpg
+      url: /images/2025.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
