@@ -5,12 +5,18 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Web sitesi tasarımı ve güncellemeleri
+      text: 'Büfe, cafe, restoranlar için sipariş sistemi'
       color: text-dark
     subtitle: >-
-      Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
-      yardımcı olur
-    text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
+      Web & Mobil sipariş sayfanıza ulaşan müşteriler hızlı ve kolay bir
+      şekilde, üyelik şartı olmadan yemek siparişlerini verirler, siz de anında
+      bildirimler alarak siparişleri inceleyip, onaylayabilirsiniz.
+    text: >
+      Restoran, Cafe, Lokantalar, bulundukları konuma göre online satış yapmak
+      isteyen bireyler ve işletmeler, kendi ürün veya hizmet satışını yapmak
+      isteyenler, basit özelliklere sahip bir e-ticaret sitesi düşünen
+      işletmeler için idealdir. Reklamsız, komisyonsuz, temiz işleyen sipariş
+      sistemidir.
     actions:
       - type: Button
         label: Bize ulaşın
@@ -31,7 +37,7 @@ sections:
       altText: Bir merhaba ile başlar
     badge:
       type: Badge
-      label: TEK ELDEN ÇÖZÜMLER
+      label: 'SİPariş siteleri, sipariş alma'
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -40,20 +46,22 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Hangi hizmetler veriliyor?
+      text: Sipariş sistemleri alanında hangi hizmetler veriliyor?
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: 'Web site prototip, tasarım, yayınlama, içerik güncelleme, yedekleme ve ...'
+    subtitle: >-
+      Kurulum sihirbazı ile kolaylıkla anında kurulur. Ön ödemesiz kurulum.
+      Kredi kartı gerekmez.
     items:
       - type: FeaturedItem
-        title: Ön Çalışmalar
-        subtitle: figma taslak hazırlığı
+        title: Whatsapp siparişleri
+        subtitle: 2.900₺/yıl
         text: >
-          Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
-          figma çalışması hazırlanır. Taslak üzerinden karşılıklı fikir
-          alışverişleri ile nihai sayfa görüntüsü ortaya çıkarılır.
+          Sipariş bildirimlerinizi "WhatsApp" veya "E-posta" adresinize alarak
+          takip edebileceğiniz wa sipariş yöntemi. Ürün yönetimi panelden
+          yapılır Siparişler Whatsapp üzerinden takip edilir
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -76,12 +84,13 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Yayında iken
-        subtitle: İçeriklerin güncellenmesi
+        title: Adres / posta kodlu siparişler
+        subtitle: 4.900₺/yıl
         text: >
-          Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
-          yapılması gereken değişiklikler, eklenmesi gereken yeni içerikler web
-          sayfasına taslak olarak konulur. Onay ile de yayına alınır.
+          Posta kodu adresleme yöntemi ile il, ilçe, mahalle bazında sipariş
+          alanlarınızı belirleyebilirsiniz. Yönetim panelinden ürün takibi
+          Yönetim panelinden sipariş takibi Posta kodu ile sipariş Üyelere özel
+          indirimler Ek hizmetler ücretlidir
         image:
           type: ImageBlock
           url: /images/icon2.svg
@@ -101,13 +110,14 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: Arka planda
-        subtitle: SSL ve CDN takibi
+        title: Adres / Gps konumlu siparişler
+        subtitle: 9.900₺/yıl
         text: >
-          Sayfanın kod yapısında zamanla gerekli olan değişimler sürekli olarak
-          takip edilerek, aralıklı olarak güncellemeler ile tazelenir. Sayfaya
-          karşı yapılabilecek ataklar engellenir, SSL, e-posta, alan adı takibi
-          yapılır.
+          GPS mod ile harita üzerinde bir veya daha fazla teslimat bölgeleri
+          oluşturabilirsiniz. Yönetim panelinden ürün & sipariş takibi Posta
+          kodu veya konum ile sipariş Iyzico ödeme entegrasyonu Trendyol
+          pazaryeri entegrasyonu Netgsm sms entegrasyonu Pakettaxi, Iletmen
+          kurye entegrasyonları
         image:
           type: ImageBlock
           url: /images/icon3.svg
