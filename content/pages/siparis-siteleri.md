@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Whatsapp siparişleri
-        subtitle: figma taslak hazırlığı
+        subtitle: 2.900₺/yıl
         text: >
           Sipariş bildirimlerinizi "WhatsApp" veya "E-posta" adresinize alarak
           takip edebileceğiniz wa sipariş yöntemi. Ürün yönetimi panelden
