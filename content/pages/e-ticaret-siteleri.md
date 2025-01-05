@@ -45,7 +45,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Hangi hizmetler veriliyor?
+      text: e-ticaret sistelerine ek hangi hizmetler veriliyor?
       color: text-dark
       styles:
         self:
