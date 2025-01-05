@@ -162,7 +162,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Diğer ek hizmetlerden bazıları
+      text: Diğer e-ticaret ek hizmetlerinden bazıları
       color: text-primary
       styles:
         self:
