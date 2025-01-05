@@ -30,12 +30,12 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/web-tasarim-cozumleri.jpg
+      url: /images/2025.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
       type: Badge
-      label: Web projeleriniz için CMsnano
+      label: 2025'te Web projeleriniz için sitenano
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
