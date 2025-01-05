@@ -54,7 +54,7 @@ sections:
     subtitle: 'Web site prototip, tasarım, yayınlama, içerik güncelleme, yedekleme ve ...'
     items:
       - type: FeaturedItem
-        title: Ön Çalışmalar
+        title: Whatsapp siparişleri
         subtitle: figma taslak hazırlığı
         text: >
           Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
