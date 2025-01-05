@@ -19,7 +19,7 @@ sections:
       anything embarrassing hidden in the middle of text.
     actions:
       - type: Button
-        label: See open positions
+        label: Açık pozisyonlar
         url: 'https://www.sitenano.com/careers.html'
         icon: arrowRight
         iconPosition: right
