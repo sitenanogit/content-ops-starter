@@ -11,12 +11,12 @@ sections:
     text: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_seo hizmetleri\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n"
     actions:
       - type: Button
-        label: Fazla bilgi
-        altText: ''
-        url: /
-        showIcon: false
+        label: Ek bilgi
+        altText: web sayfaları hakkında
+        url: /web-siteleri
+        showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
