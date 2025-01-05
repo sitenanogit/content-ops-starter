@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Web Siteleri
+title: E-ticaret Siteleri
 sections:
   - type: GenericSection
     title:
