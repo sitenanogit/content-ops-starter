@@ -138,7 +138,7 @@ sections:
       - type: Button
         label: 'Siz de arayın, başlayalım'
         altText: ''
-        url: /
+        url: 'https://admin.komisyonsuz.com/admin/register.html'
         showIcon: false
         icon: arrowRight
         iconPosition: right
