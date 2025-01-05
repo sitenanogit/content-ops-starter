@@ -57,9 +57,9 @@ sections:
         title: Whatsapp siparişleri
         subtitle: figma taslak hazırlığı
         text: >
-          Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
-          figma çalışması hazırlanır. Taslak üzerinden karşılıklı fikir
-          alışverişleri ile nihai sayfa görüntüsü ortaya çıkarılır.
+          Sipariş bildirimlerinizi "WhatsApp" veya "E-posta" adresinize alarak
+          takip edebileceğiniz wa sipariş yöntemi. Ürün yönetimi panelden
+          yapılır Siparişler Whatsapp üzerinden takip edilir
         image:
           type: ImageBlock
           url: /images/icon1.svg
