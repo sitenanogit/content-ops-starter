@@ -16,7 +16,7 @@ sections:
         url: /web-siteleri
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
