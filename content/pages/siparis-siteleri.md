@@ -201,7 +201,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Reklam hizmetleri
+        title: Kasa siparişleri
         tagline: 'PPC, CPC, CPM, CPL, CPA, CTR ...'
         subtitle: 'Google, Youtube reklamlarınız yönetilir'
         text: >
