@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Ek bilgi
         altText: ''
-        url: /
+        url: /web-siteleri
         showIcon: false
         icon: arrowRight
         iconPosition: right
