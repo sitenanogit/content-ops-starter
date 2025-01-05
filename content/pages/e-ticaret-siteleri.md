@@ -170,7 +170,7 @@ sections:
     subtitle: 'Kategori yönetimi, reklam hizmetleri, influancer marketing'
     items:
       - type: FeaturedItem
-        title: SEO hizmetleri
+        title: Kategori yönetimi
         tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
         subtitle: Global ve yerel seo çalışmaları yapılır
         text: >
