@@ -131,7 +131,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Çekinmeden, hemen kur & dene'
+        label: Hemen kur & dene
         altText: Ücretsiz kurulum e-ticaret siteleri
         url: 'https://eticaret.sitenano.com/account/register/?next=/'
         showIcon: false
@@ -167,10 +167,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: İsteğe bağlı ek çalışmalar
+    subtitle: 'Kategori yönetimi, reklam hizmetleri, influancer marketing'
     items:
       - type: FeaturedItem
-        title: SEO hizmetleri
+        title: Kategori yönetimi
         tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
         subtitle: Global ve yerel seo çalışmaları yapılır
         text: >
