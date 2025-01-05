@@ -78,10 +78,10 @@ sections:
       - type: FeaturedItem
         title: Yayında iken
         subtitle: İçeriklerin güncellenmesi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
+          yapılması gereken değişiklikler, eklenmesi gereken yeni içerikler web
+          sayfasına taslak olarak konulur. Onay ile de yayına alınır.
         image:
           type: ImageBlock
           url: /images/icon2.svg
