@@ -24,6 +24,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Açık pozisyonlar
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
