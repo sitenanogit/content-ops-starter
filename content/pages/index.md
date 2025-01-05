@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: Ek bilgi
-        altText: ''
+        altText: web sayfaları hakkında
         url: /web-siteleri
         showIcon: false
         icon: arrowRight
