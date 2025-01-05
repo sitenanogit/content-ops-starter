@@ -27,13 +27,13 @@
             "altText": "Hizmetler",
             "links": [
                 {
-                    "label": "Web siteleri",
+                    "label": "Web Siteleri",
                     "url": "/web-siteleri",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
-                    "altText": "Web siteleri"
+                    "altText": "Web Sitesi Tasarım ve Güncelleme"
                 },
                 {
                     "label": "Sipariş Siteleri",
