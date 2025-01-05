@@ -51,7 +51,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Web site prototip, tasarım, yayınlama, içerik güncelleme, yedekleme ve ...'
+    subtitle: >-
+      Kurulum sihirbazı ile kolaylıkla anında kurulur.(Ücretsiz kurulum. Kredi
+      kartı gerekmez.)
     items:
       - type: FeaturedItem
         title: Whatsapp siparişleri
