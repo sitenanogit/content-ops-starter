@@ -8,8 +8,8 @@ sections:
       text: Web sitesi tasarımı ve güncellemeleri
       color: text-dark
     subtitle: >-
-      Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
-      yardımcı olur
+      CMSnano web sayfanızı takip eder, yeni ürünlerinizi, kampanyalarınızı,
+      duyurularınızı ekler, web sitenizin yönetimine yardımcı olur.
     text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
     actions:
       - type: Button
@@ -40,7 +40,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Hangi hizmetler veriliyor?
+      text: Web tasarım ve web site ihtiyaçlarınıza nasıl çözüm sunuyor?
       color: text-dark
       styles:
         self:
@@ -136,7 +136,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: CMSnano ile
+      label: CMSnano WEB TASARIM ile
       color: text-primary
       styles:
         self:
@@ -162,7 +162,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: İsteğe bağlı ek çalışmalar
+    subtitle: Bütçeye bağlı genel olarak web sitelerine yapılan ek çalışmalar
     items:
       - type: FeaturedItem
         title: SEO hizmetleri
