@@ -137,7 +137,7 @@ sections:
     actions:
       - type: Button
         label: 'Çekinme, ücretsiz kur & dene'
-        altText: ''
+        altText: Komisyonsuz sipariş sistemleri
         url: 'https://admin.komisyonsuz.com/admin/register.html'
         showIcon: false
         icon: arrowRight
