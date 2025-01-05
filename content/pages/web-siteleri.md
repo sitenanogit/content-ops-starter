@@ -127,7 +127,7 @@ sections:
     actions:
       - type: Button
         label: Hemen ara 0(212)2129990
-        altText: ''
+        altText: Telefon
         url: 'tel:02122129990'
         showIcon: false
         icon: arrowRight
