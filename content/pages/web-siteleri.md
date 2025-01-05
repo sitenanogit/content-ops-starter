@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/kodeks.jpeg
+      url: /images/kodeks.jpg
       altText: Bir merhaba ile başlar
     badge:
       type: Badge
