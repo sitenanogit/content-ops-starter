@@ -50,10 +50,10 @@ sections:
       - type: FeaturedItem
         title: Ön Çalışmalar
         subtitle: figma taslak hazırlığı
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
+          figma çalışması hazırlanır. Taslak üzerinden karşılıklı fikir
+          alışverişleri ile nihai sayfa görüntüsü ortaya çıkarılır.
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -78,10 +78,10 @@ sections:
       - type: FeaturedItem
         title: Yayında iken
         subtitle: İçeriklerin güncellenmesi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
+          yapılması gereken değişiklikler, eklenmesi gereken yeni içerikler web
+          sayfasına taslak olarak konulur. Onay ile de yayına alınır.
         image:
           type: ImageBlock
           url: /images/icon2.svg
@@ -103,10 +103,11 @@ sections:
       - type: FeaturedItem
         title: Arka planda
         subtitle: SSL ve CDN takibi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sayfanın kod yapısında zamanla gerekli olan değişimler sürekli olarak
+          takip edilerek, aralıklı olarak güncellemeler ile tazelenir. Sayfaya
+          karşı yapılabilecek ataklar engellenir, SSL, e-posta, alan adı takibi
+          yapılır.
         image:
           type: ImageBlock
           url: /images/icon3.svg
@@ -156,12 +157,12 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Diğer ek hizmetlerden bazıları
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: İsteğe bağlı ek çalışmalar
     items:
       - type: FeaturedItem
         title: SEO hizmetleri
