@@ -18,24 +18,25 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Adınız
           isRequired: true
           width: full
         - type: EmailFormControl
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: E-posta adresiniz
           isRequired: true
           width: full
         - type: TextareaFormControl
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Projeniz hakkında mesajınız
           width: full
+          isRequired: true
       submitButton:
         type: SubmitButtonFormControl
         label: Gönder
@@ -56,7 +57,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: 'MESAJ ATIN, ARAYIN GÖRÜŞELİM'
+      label: 'MESAJ ATIN, ARAYIN GÖRÜŞELİM -> 0(212)2129990'
       color: text-primary
     colors: bg-light-fg-dark
 slug: iletisim
