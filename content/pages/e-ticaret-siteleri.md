@@ -28,6 +28,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: e-ticaret sistemleri
     media:
       type: ImageBlock
       url: /images/asirsaat.png
