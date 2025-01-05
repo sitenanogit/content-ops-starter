@@ -175,7 +175,7 @@ sections:
     subtitle: İsteğe bağlı ek çalışmalar
     items:
       - type: FeaturedItem
-        title: SEO hizmetleri
+        title: Masa siparişleri
         tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
         subtitle: Global ve yerel seo çalışmaları yapılır
         text: >
