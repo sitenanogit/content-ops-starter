@@ -131,7 +131,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Çekinmeden, hemen kur & dene'
+        label: Hemen kur & dene
         altText: Ücretsiz kurulum e-ticaret siteleri
         url: 'https://eticaret.sitenano.com/account/register/?next=/'
         showIcon: false
