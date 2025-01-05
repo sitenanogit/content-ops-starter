@@ -50,10 +50,9 @@ sections:
       - type: FeaturedItem
         title: Ön Çalışmalar
         subtitle: figma taslak hazırlığı
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
+          figma çalışması hazırlanır.
         image:
           type: ImageBlock
           url: /images/icon1.svg
