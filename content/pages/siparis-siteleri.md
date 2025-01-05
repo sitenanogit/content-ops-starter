@@ -31,7 +31,7 @@ sections:
       altText: Bir merhaba ile başlar
     badge:
       type: Badge
-      label: TEK ELDEN ÇÖZÜMLER
+      label: 'SİPariş siteleri, sipariş alma'
       color: text-primary
     colors: bg-light-fg-dark
     styles:
