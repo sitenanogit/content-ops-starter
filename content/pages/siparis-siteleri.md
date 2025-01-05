@@ -82,7 +82,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Adres posta kodlu siparişler
+        title: Adres / posta kodlu siparişler
         subtitle: İçeriklerin güncellenmesi
         text: >
           Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
