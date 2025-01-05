@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/nano_about_top.png
+      url: /images/figma.gif
       altText: Bir merhaba ile başlar
     badge:
       type: Badge
