@@ -167,7 +167,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: İsteğe bağlı ek çalışmalar
+    subtitle: 'Kategori yönetimi, reklam hizmetleri, influancer marketing'
     items:
       - type: FeaturedItem
         title: SEO hizmetleri
