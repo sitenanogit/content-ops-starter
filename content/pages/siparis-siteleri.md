@@ -136,7 +136,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Siz de arayın, başlayalım'
+        label: 'Çekinme, ücretsiz kur & dene'
         altText: ''
         url: 'https://admin.komisyonsuz.com/admin/register.html'
         showIcon: false
