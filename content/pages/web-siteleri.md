@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/nano_about_top.png
+      url: /images/kodeks.jpg
       altText: Bir merhaba ile başlar
     badge:
       type: Badge
@@ -126,9 +126,9 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Siz de arayın, başlayalım'
-        altText: ''
-        url: /
+        label: Hemen ara 0(212)2129990
+        altText: Telefon
+        url: 'tel:02122129990'
         showIcon: false
         icon: arrowRight
         iconPosition: right
