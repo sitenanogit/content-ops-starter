@@ -162,7 +162,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: İsteğe bağlı ek çalışmalar
     items:
       - type: FeaturedItem
         title: SEO hizmetleri
