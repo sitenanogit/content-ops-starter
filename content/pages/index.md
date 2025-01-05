@@ -14,7 +14,7 @@ sections:
         label: Ek bilgi
         altText: web sayfaları hakkında
         url: /web-siteleri
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
