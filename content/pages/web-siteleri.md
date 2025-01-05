@@ -8,8 +8,8 @@ sections:
       text: Web sitesi tasarımı ve güncellemeleri
       color: text-dark
     subtitle: >-
-      Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
-      yardımcı olur
+      CMSnano web sayfanızı takip eder, yeni ürünlerinizi, kampanyalarınızı,
+      duyurularınızı ekler, web sitenizin yönetimine yardımcı olur.
     text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
     actions:
       - type: Button
