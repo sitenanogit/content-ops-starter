@@ -162,7 +162,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: İsteğe bağlı ek çalışmalar
+    subtitle: Bütçeye bağlı genel olarak web sitelerine yapılan ek çalışmalar
     items:
       - type: FeaturedItem
         title: SEO hizmetleri
