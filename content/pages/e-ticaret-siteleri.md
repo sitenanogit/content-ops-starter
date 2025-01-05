@@ -16,7 +16,7 @@ sections:
       tarafından bir bütün olarak sizlere sunulur.
     actions:
       - type: Button
-        label: Bize ulaşın
+        label: Hemen kur & dene
         url: 'https://eticaret.sitenano.com/account/register/?next=/'
         icon: arrowRight
         iconPosition: right
