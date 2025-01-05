@@ -157,7 +157,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Diğer ek hizmetlerden bazıları
       color: text-primary
       styles:
         self:
