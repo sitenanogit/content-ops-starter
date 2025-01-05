@@ -5,80 +5,151 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Profesyonel e-ticaret çözümleri
+      text: E-ticaret sitesi tasarımı ve güncellemeleri
       color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: hepsi bir arada
-    text: >
-      Sınırsız ürün, web site trafiği ve farklı dil seçenekleri ile ek ücret
-      ödemeden tüm dünyaya satış yapın.
-
-
-      Geçiş yapmak isteyenlere tam destek!
-
-
-      **Taşınma işlemleri profesyonel ekibimiz tarafından yürütülür**
-
-
-      **Özel e-ticaret tasarımı ve ilk adım banner tasarımları ile satışa
-      hazırlanır**
+    subtitle: >-
+      Yeni ürünlerinizi, kampanyalarınızı, duyurularınızı takip eder, yönetimine
+      yardımcı olur
+    text: "Markalar, profesyonel web tasarım ajansı aracılığıyla\_web siteleri tasarlar ve geliştirir. Bu ajanslar, web sitelerinin işlevselliğini ve performansını en üst düzeye çıkarmak için stratejik çözümler sağlar.\n"
     actions:
       - type: Button
-        label: Hemen Kur
-        url: 'https://eticaret.sitenano.com/account/register/?next=/'
+        label: Bize ulaşın
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: İnceleyin
+        url: /
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-        altText: Kredi Kartı Gerekmez
-    colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
+    media:
+      type: ImageBlock
+      url: /images/nano_about_top.png
+      altText: Bir merhaba ile başlar
+    badge:
+      type: Badge
+      label: TEK ELDEN ÇÖZÜMLER
+      color: text-primary
+    colors: bg-light-fg-dark
     styles:
       self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
         alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedPeopleSection
+  - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Hangi hizmetler veriliyor?
       color: text-dark
       styles:
         self:
           textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    actions: []
+    subtitle: 'Web site prototip, tasarım, yayınlama, içerik güncelleme, yedekleme ve ...'
+    items:
+      - type: FeaturedItem
+        title: Ön Çalışmalar
+        subtitle: figma taslak hazırlığı
+        text: >
+          Verilen bilgiler, paylaşılan görseller kullanılarak projeye uygun bir
+          figma çalışması hazırlanır. Taslak üzerinden karşılıklı fikir
+          alışverişleri ile nihai sayfa görüntüsü ortaya çıkarılır.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Yayında iken
+        subtitle: İçeriklerin güncellenmesi
+        text: >
+          Belirlenen aralıklar (günlük, haftalık, aylık) üzerinden sayfada
+          yapılması gereken değişiklikler, eklenmesi gereken yeni içerikler web
+          sayfasına taslak olarak konulur. Onay ile de yayına alınır.
+        image:
+          type: ImageBlock
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Arka planda
+        subtitle: SSL ve CDN takibi
+        text: >
+          Sayfanın kod yapısında zamanla gerekli olan değişimler sürekli olarak
+          takip edilerek, aralıklı olarak güncellemeler ile tazelenir. Sayfaya
+          karşı yapılabilecek ataklar engellenir, SSL, e-posta, alan adı takibi
+          yapılır.
+        image:
+          type: ImageBlock
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: 'Siz de arayın, başlayalım'
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge:
+      type: Badge
+      label: CMSnano ile
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
+          - pb-16
           - pt-16
           - pl-16
-          - pb-16
           - pr-16
         justifyContent: center
       subtitle:
@@ -86,23 +157,30 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
-      color: text-dark
+      text: Diğer ek hizmetlerden bazıları
+      color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: İsteğe bağlı ek çalışmalar
     items:
       - type: FeaturedItem
-        title: E-ticaret sitemi taşımam ne kadar sürer?
-        subtitle: İşletme ölçeğine göre değişir
+        title: SEO hizmetleri
+        tagline: 'Search console, ahrefs, moz pro, semrush, mangools ...'
+        subtitle: Global ve yerel seo çalışmaları yapılır
         text: >
-          Eski e-ticaret altyapınızdan ikas e-ticaret altyapısına geçmeniz
-          sitede yer alan ürün sayısına, sayfa sayısına ve ödeme altyapısı
-          başvurularına göre farklılık gösterebilmektedir. Ancak ortalama olarak
-          2-3 gün içerisinde taşıma işlemlerini tamamlamak mümkündür.
+          Büyük ölçekli web siteleri ve çok şubeli firmalar için özelleştirilmiş
+          SEO stratejileri geliştirerek, arama motorlarındaki görünürlüğünüzü
+          artırırken, markanızın çevrimiçi otoritesini güçlendirir.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -110,43 +188,24 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            textAlign: left
             borderRadius: x-large
             flexDirection: row
-            justifyContent: center
       - type: FeaturedItem
-        title: Satışları arttırabilecek hangi çözümler var?
-        subtitle: Otomasyon ile
+        title: Reklam hizmetleri
+        tagline: 'PPC, CPC, CPM, CPL, CPA, CTR ...'
+        subtitle: 'Google, Youtube reklamlarınız yönetilir'
         text: >
-          sitenano, e-ticaret altyapısı ile e-ihracat, otomasyon, pazarlama,
-          e-fatura, kargo ve lojistik, stok yönetimi gibi geniş bir yelpazede
-          çözümler sunmaktadır. sitenano ile ürünlerinizi dünya pazarlarına
-          açabilir, satışlarınızı otomasyonlar ile artırabilir, iş süreçlerinizi
-          dijitalleştirebilir, kargo ve lojistik entegrasyonu ile hızlı ve
-          güvenli teslimat sağlayabilir, stoklarınızı etkin bir şekilde
-          yönetebilirsiniz.
+          Düzenli takip edilen ve dönüşüm oranı yüksek Google reklamlar ile
+          düşük masraflar ile pazarlama hedeflerine ulaşmanızı sağlanır.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Komisyon ödeniyor mu?
-        subtitle: komisyon yok
-        text: >
-          Sitenano sizin satışlarınızda komisyon aracısı olarak faaliyet
-          göstermez. Komisyon alan diğer pazaryerlerine entegrasyon yaparsanız
-          oradaki satışlarda komisyon ödersiniz.
-        actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -156,30 +215,26 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: 'Anladım, bir deneyeyim'
-        url: 'https://eticaret.sitenano.com/account/register/?next=/'
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        altText: Hemen kur ve dene
-    variant: toggle-list
-    colors: bg-light-fg-dark
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-40
           - pt-16
-          - pl-3
-          - pr-3
+          - pl-8
+          - pb-8
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
 slug: e-ticaret-siteleri
+isDraft: false
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
+  metaTitle: 'Web sitesi, kurumsal web site çözümleri'
+  metaDescription: Web sayfanızın hazırlanması ve yönetimi için güçlü bir çözüm ortağı
+  addTitleSuffix: true
+  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
