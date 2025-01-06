@@ -278,47 +278,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Web Tasarım
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Section with a video subtitle
-    text: >
-      Ücretsiz alan adı tescili, sunucu hizmetleri, e-posta hizmeti, mobil
-      uyumluluk, destek hizmetleri ve web site alt yapı bakım ve güncelleme
-      hizmetleri tüm web sitelerimiz için firmamız tarafından sağlanmaktadır.
-    actions: []
-    media:
-      type: VideoBlock
-      title: CMS Editor
-      url: /images/cms-editor.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
@@ -354,19 +313,22 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Web site danışmanlığı
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 'AI, SEO, CPC konularında sorularınız varsa, bize ulaşabilirsiniz'
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
+      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
+      web sitelerimiz için sunulmaktadır. Ayrıca bu konular üzerine projeleriniz
+      ve sorularınız varsa danışmanlığı da verilmektedir.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: İletişim
+        url: /iletisim
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Bize ulaşın
       - type: Link
         label: See Tutorials
         url: /
@@ -376,11 +338,11 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/cosulting.avif
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: DANIŞMANLIK HİZMETLERİ
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -467,26 +429,69 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Editör ile Web Tasarım & İçerik Güncellemeleri
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: editör üzerinden web syafa güncellemeleri
+    text: >
+      CMSnano kulanıcıları web sayfalarındaki basit içerik güncellemelerinin
+      tamamını kendileri yapabilirler. Bu alanda zaman ayıramayan müşteriler ise
+      içerik değşikliği taleplerini ticket veya e-posta ile ileterek talep
+      edebilirler. İçerik değişikliği talepleri saat üzerinden hesaplanır ve
+      belirlenen saate kadar olan içerik değişiklikleri ücretsiz olarak verilir.
+    actions: []
+    media:
+      type: VideoBlock
+      title: CMS Editor
+      url: /images/cms-editor.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Hangi hizmetler veriliyor
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Bilinen web site hazırlık ve yönetimi ile ilgili çözümlerimiz
     items:
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
+        title: 'Alan adı kaydı, takibi'
+        tagline: uygun fiyatlı alan adları
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placholder image
+          url: /images/domain-icon-free-vector.jpg
+          altText: Alan adı hizmetlerimiz
           styles:
             self:
               borderRadius: x-large
@@ -502,15 +507,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: This is the tagline
+        title: Sunucu hizmetleri
+        tagline: 'cloud sunucu, aws servisleri'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: /images/server-icon.png
+          altText: Sunucu ve bakım hizmetlerimiz
           styles:
             self:
               borderRadius: x-large
@@ -526,14 +531,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
+        title: İçerik güncellemeleri
+        tagline: seo bazlı yerel ve global içerik güncellemeleri
         subtitle: This is the item subtitle
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/editor-icon.png
           altText: Placeholder image
           styles:
             self:
