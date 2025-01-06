@@ -93,14 +93,13 @@ Hem çevre dostu hem de enerji tasarruflu olan airpoll mobil fan aynı zamanda p
 > mevsim boyunca rahat ve keyifli bir deneyim yaşatır. Serinlik ve
 > sıcaklığın keyfini Airpoll ile çıkarın!
 >
->
 > *Airpoll.com.tr*
 
 “Airpoll mobil fan dört mevsim boyunca hem serinletme hem ısıtma özelliği, ve sessiz çalışabilmesiyle günlük yaşamınızı kolaylaştırır. Serinlik ve sıcaklığın keyfini Airpoll ile yaşayın.”
 
-![](/images/airpoll-fan.png.webp)
+<div style="text-align: center">![](/images/airpoll-fan.png.webp)</div>
 
-UV Mavi Işınla Dezenfekte Özelliği 
+UV Mavi Işınla Dezenfekte Özelliği
 Havayı zararlı bakterilerden arındırır ve daha sağlıklı bir ortam sağlar.
 
 LCD Dokunmatik Ekran
