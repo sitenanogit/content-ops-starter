@@ -3,26 +3,25 @@ title: Kariyer
 slug: kariyer
 sections:
   - title:
-      text: A team that works closely together
+      text: Bizimle çalışmak ister misiniz?
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Güncel iş olanakları
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      İyi iletişim becerilerine sahip, öğrenmeye ve şirketle birlikte ilerlemeye
+      istekli tam zamanlı ve yarı zamanlı profesyoneller arıyoruz. Minimum 3 yıl
+      iş tecrübesi olanlar avantajlıdır.
     actions:
-      - label: See open positions
-        url: /
+      - label: Açık pozisyonlar
+        url: 'https://www.sitenano.com/careers.html'
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Button
+        altText: Açık pozisyonlar
     colors: bg-neutral-fg-dark
     styles:
       self:
