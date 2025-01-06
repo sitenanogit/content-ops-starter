@@ -68,14 +68,26 @@
         "title": "KURUMSAL",
         "links": [
             {
-                "label": "sitenano proje",
-                "altText": "Özel projeleriniz için",
-                "url": "https://www.sitenano.com/",
+                "type": "Button",
+                "label": "CMSnano",
+                "altText": "CMSnano web tasarım",
+                "url": "https://www.cmsnano.com",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "showIcon": false
+                "style": "primary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "SITENANO",
+                "altText": "Özel Proje Çalışmaları",
+                "url": "https://www.sitenano.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             },
             {
                 "label": "E-ticaret Sistemleri",
