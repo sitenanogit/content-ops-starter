@@ -371,10 +371,10 @@ sections:
         title: Kurumsal Web Tasarım
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Modern web tasarım yapısı ile birlikte aynı zamanda firmanızın da
+          kurumsallığını yansıtan bir yapıda web sitesine ihtiyacınız varsa,
+          size bu çalışmayı memnuniyetle sunmaya hazırız.
         image:
           type: ImageBlock
           url: /images/kurumsal-web-tasarim.png
