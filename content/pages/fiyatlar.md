@@ -103,7 +103,7 @@ sections:
           - AI ürün liste planları
         image:
           url: /images/footer-logo.png
-          altText: Pricing plan 3
+          altText: E-ticaret Sitesi Fiyatları
           type: ImageBlock
         actions:
           - label: Kur & Dene
