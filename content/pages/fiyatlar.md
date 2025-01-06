@@ -145,7 +145,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Son kurulan işlerden
       color: text-dark
       styles:
         self:
