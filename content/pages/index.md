@@ -437,7 +437,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: editör üzerinden web syafa güncellemeleri
     text: >
       Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
       destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
