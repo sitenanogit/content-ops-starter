@@ -21,6 +21,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+        altText: Açık pozisyonlar
     colors: bg-neutral-fg-dark
     styles:
       self:
