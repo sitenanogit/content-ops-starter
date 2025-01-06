@@ -26,11 +26,12 @@ sections:
         style: secondary
       - type: Link
         label: İnceleyin
-        url: /
+        url: 'https://partner.komisyonsuz.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Komisyonsuz Sipariş Sistemi
     media:
       type: ImageBlock
       url: /images/burger-restoran-mobil-sayfa.png
