@@ -68,6 +68,17 @@
         "title": "KURUMSAL",
         "links": [
             {
+                "type": "Button",
+                "label": "Get started",
+                "altText": "",
+                "url": "https://www.cmsnano.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
                 "label": "sitenano proje",
                 "altText": "Özel projeleriniz için",
                 "url": "https://www.sitenano.com/",
