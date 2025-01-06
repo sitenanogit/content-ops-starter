@@ -33,7 +33,7 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/airpoll-logo-beyaz.png.webp
+          url: /images/airpoll.png.webp
           altText: Company logo
           styles:
             self:
