@@ -433,7 +433,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/kurumsal-e-posta-hesabi.png
-          altText: Placeholder text
+          altText: Kurumsal e-posta
           styles:
             self:
               borderRadius: x-large
