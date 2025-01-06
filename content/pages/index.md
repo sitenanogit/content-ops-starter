@@ -369,7 +369,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Kurumsal Web Tasarım
-        tagline: Testimonial 1
+        tagline: Adım 1
         subtitle: Modern bir tasarım ile başla
         text: >
           Modern web tasarım yapısı ile birlikte aynı zamanda firmanızın da
