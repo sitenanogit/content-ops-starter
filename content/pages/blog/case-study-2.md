@@ -29,9 +29,10 @@ bottomSections:
       - title: The Mine
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          wir begrüßen sie in unserer modernen und zeitlosen gastronomie.
+          gastronomie im schatten des doppelbocks. im außenbereich genießen
+          unsere gäste in unvergleichlicher atmosphäre den blick auf die
+          berühmte rolltreppe des ruhrmuseums und den doppelbock.
         image:
           url: /images/the-mine-footer-logo.jpg
           altText: The Mine Logo
