@@ -368,9 +368,7 @@ sections:
     subtitle: Tüm web site hizmetlerini listele
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: Kurumsal Web Tasarım
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
