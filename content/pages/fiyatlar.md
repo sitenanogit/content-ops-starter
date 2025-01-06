@@ -98,7 +98,7 @@ sections:
         features:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
           - 'amazon, trendyol, hepsiburada, n11, pazarama entegrasyonları'
-          - 'sepet hatırlatmaları, teklifli satış'
+          - 'sepet hatırlatmaları, teklifli satış, dropshipping'
           - 'bölge bazlı ve saat bazlı teslimat, kargo entegrasyonları'
           - ürün yorumları ve cevaplama
           - 'AI ürün liste planları, AI ürün fiyatlama'
