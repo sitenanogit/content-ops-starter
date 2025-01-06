@@ -31,7 +31,7 @@
             },
             {
                 "label": "Ürünlerimiz",
-                "url": "/urunlerimiz",
+                "url": "/urunler",
                 "icon": "chevronRight",
                 "iconPosition": "left",
                 "style": "secondary",
@@ -43,7 +43,7 @@
                 "type": "Link",
                 "label": "Hizmetler",
                 "altText": "Hizmetlerimiz",
-                "url": "/hizmetlerimiz",
+                "url": "/hizmetler",
                 "showIcon": true,
                 "icon": "chevronRight",
                 "iconPosition": "left",
