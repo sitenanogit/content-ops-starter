@@ -359,47 +359,6 @@ sections:
           - pl-7
           - pb-7
           - pr-7
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Web Tasarım
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Section with a video subtitle
-    text: >
-      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
-      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
-      web sitelerimiz için sunulmaktadır.
-    actions: []
-    media:
-      type: VideoBlock
-      title: CMS Editor
-      url: /images/cms-editor.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
@@ -470,6 +429,47 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Web Tasarım
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Section with a video subtitle
+    text: >
+      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
+      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
+      web sitelerimiz için sunulmaktadır.
+    actions: []
+    media:
+      type: VideoBlock
+      title: CMS Editor
+      url: /images/cms-editor.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
