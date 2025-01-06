@@ -290,7 +290,7 @@ sections:
       geliştirilmesi gerektiği atlanmamalıdır.
     actions:
       - type: Button
-        label: Get started
+        label: İletişime geç
         url: /
         icon: arrowRight
         iconPosition: right
