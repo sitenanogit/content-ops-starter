@@ -243,7 +243,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: CMSnano editor
       url: /images/cms-editor.mp4
       autoplay: true
       loop: true
