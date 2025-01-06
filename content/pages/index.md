@@ -426,7 +426,7 @@ sections:
       - type: FeaturedItem
         title: Kurumsal E-posta Hesabı
         tagline: Adım 3
-        subtitle: This is the item subtitle
+        subtitle: Alan adına kayıtlı e-posta himzeti aç
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
