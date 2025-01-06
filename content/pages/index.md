@@ -363,7 +363,7 @@ sections:
       web sitelerimiz için sunulmaktadır.
     actions:
       - type: Button
-        label: Get started
+        label: İletişim
         url: /
         icon: arrowRight
         iconPosition: right
