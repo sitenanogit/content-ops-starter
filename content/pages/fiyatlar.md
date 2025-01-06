@@ -99,7 +99,7 @@ sections:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
           - 'amazon, trendyol, hepsiburada, n11, pazarama entegrasyonları'
           - 'sepet hatırlatmaları, teklifli satış'
-          - bölge bazlı ve saat bazlı teslimat
+          - 'bölge bazlı ve saat bazlı teslimat, kargo entegrasyonları'
           - ürün yorumları ve cevaplama
           - AI ürün liste planları
         image:
