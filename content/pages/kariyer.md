@@ -15,7 +15,7 @@ sections:
       istekli tam zamanlı ve yarı zamanlı profesyoneller arıyoruz. Minimum 3 yıl
       iş tecrübesi olanlar avantajlıdır.
     actions:
-      - label: See open positions
+      - label: Açık pozisyonlar
         url: /
         icon: arrowRight
         iconPosition: right
