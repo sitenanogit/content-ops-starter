@@ -26,15 +26,16 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: The Mine
+        tagline: willkommen bei the mine
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          wir begrüßen sie in unserer modernen und zeitlosen gastronomie.
+          gastronomie im schatten des doppelbocks. im außenbereich genießen
+          unsere gäste in unvergleichlicher atmosphäre den blick auf die
+          berühmte rolltreppe des ruhrmuseums und den doppelbock.
         image:
-          url: /images/telus-logo.svg
-          altText: Company logo
+          url: /images/the-mine-footer-logo.jpg
+          altText: The Mine Logo
           styles:
             self:
               margin:
@@ -87,17 +88,22 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+neue gastronomie im ehemaligen südlichen fördermaschinenhaus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+dicke betonwände und meterhohe stahlträger, dazwischen designermöbel und retrostücke – das südliche fördermaschinenhaus auf schacht XII hat sich in ein modernes restaurant verwandelt: the mine. seit herbst 2019 genießen unsere gäste die einmalige atmosphäre zwischen dem doppelbock-fördergerüst und der orangefarbenen rolltreppe hinauf zur kohlenwäsche.
 
-![](/images/img-placeholder.svg)
+![](/images/the-mine.jpeg)
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+auf der mittagskarte stehen gerichte mit saisonalem und regionalem bezug, abends wird es mediterran, dazu gibt es steaks und fisch. sonn- und feiertags wird von 10 bis 14 Uhr ein brunch-buffet aufgebaut. rund 85 Plätze stehen im restaurant im erdgeschoss zur verfügung, rund 300 Plätze bei gutem wetter im freien. im sommer kann man auf unserer großen außenterrasse platz nehmen und die atmosphäre genießen, und die einzigartige atmosphäre auf sich wirken lassen. zu stoßzeiten wird die eventlocation im obergeschoss eröffnet, um die kapazitäten zu erweitern.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
+
+> **erdgeschoss**: kapazität: 85 personen
 >
-> _By Gordon Red - Director of IT_
+> **obergeschoss**: kapazität: 150 personen bestuhlt, unbestuhlt max. 399 personen
+>
+> **terrasse**: kapazität: 300 personen
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+**Sonntagsbrunch﻿**
+
+Jeden Sonntag von "10:00-13:00" Uhr haben wir unser Brunchbuffet mit einer vielfältigen Auswahl an Frühstücksspeisen, ab 11:30 werdenwarme Hauptgerichte serviert. Außerdem beinhaltet das Angebot Wasser, Filterkaffee, Softgetränke, Orangensaft, Veltins Pilsener vom Fass, sowie Rot- und Weißwein des Hauses.
