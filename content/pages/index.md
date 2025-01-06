@@ -397,7 +397,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Alan adı & Sunucu Hizmetleri
-        tagline: Testimonial 2
+        tagline: Adım 2
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
