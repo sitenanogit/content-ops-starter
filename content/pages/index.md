@@ -515,7 +515,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/server-icon.png
-          altText: Placeholder image
+          altText: Sunucu ve bakım hizmetlerimiz
           styles:
             self:
               borderRadius: x-large
