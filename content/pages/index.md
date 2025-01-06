@@ -295,12 +295,13 @@ sections:
         style: secondary
         altText: İletişime geç
       - type: Link
-        label: See Tutorials
+        label: Detaylı bilgi
         url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: SEO hakkında detaylı bilgi
     media:
       type: ImageBlock
       url: /images/seo-hizmetleri-cmsnano.png
@@ -333,12 +334,13 @@ sections:
         style: secondary
         altText: Bize ulaşın
       - type: Link
-        label: See Tutorials
+        label: Detalı bilgi
         url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Web site danışmanlığı hakkında detaylı bilgi
     media:
       type: ImageBlock
       url: /images/cosulting.avif
@@ -363,22 +365,20 @@ sections:
           - pb-7
           - pr-7
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Tüm web site hizmetlerini listele
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Kurumsal Web Tasarım
+        tagline: Adım 1
+        subtitle: Modern bir tasarım ile başla
+        text: >
+          Modern web tasarım yapısı ile birlikte aynı zamanda firmanızın da
+          kurumsallığını yansıtan bir yapıda web sitesine ihtiyacınız varsa,
+          size bu çalışmayı memnuniyetle sunmaya hazırız.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/kurumsal-web-tasarim.png
+          altText: Web Tasarım
           styles:
             self:
               borderRadius: full
@@ -396,19 +396,17 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
-        tagline: Testimonial 2
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Alan adı & Sunucu Hizmetleri
+        tagline: Adım 2
+        subtitle: İşe uygun bir akılda kalıcı bir alan adı seç
+        text: >
+          Alan adı kayıt, transfer ve takip işlemlerini sizin için kolaylıkla
+          yürütebiliriz. Güvenilir sunucu hizmetimiz ile verileriniz güvenli
+          ortamda yer alır ve hızlı çalışır.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
+          url: /images/alan-adi.png
+          altText: Alan adı
           styles:
             self:
               borderRadius: full
@@ -425,6 +423,31 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Kurumsal E-posta Hesabı
+        tagline: Adım 3
+        subtitle: Alan adına kayıtlı e-posta himzeti aç
+        text: >
+          Alan adınıza özel kurumsal e-posta hesapları ile iletişim halinde
+          olduğunuz kişi ve kurumlara güven verirsiniz.
+        image:
+          type: ImageBlock
+          url: /images/kurumsal-e-posta-hesabi.png
+          altText: Kurumsal e-posta
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
