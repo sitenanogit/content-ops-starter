@@ -283,11 +283,9 @@ sections:
     subtitle: Web siteni seo roketi ile uçurun
     text: >
       Yalnızca bir web sitesine sahip olmakla kalmayıp aynı zamanda daha çok
-      ziyaretçi ve beraberinde de dönüşüm alabileceğiniz bir web sitesi
-      istiyorsanız, web sitenizin seo uyumlu bir alt yapı ve seo uyumlu bir
-      tasarıma sahip olup olmadığını değerlendirebilirsiniz. Bunların haricinde
-      ise kalıcılık sağlaması için düzenli olarak güncel kılınması ve
-      geliştirilmesi gerektiği atlanmamalıdır.
+      ziyaretçi ve beraberinde de dönüşüm alabileceğiniz bir web sitesi, seo
+      uyumlu bir tasarıma ve yeterli içeriğe sahip olmalı. Belki de bu sebeple
+      şu an bu siteyi geziyor olabilirsiniz :)
     actions:
       - type: Button
         label: İletişime geç
