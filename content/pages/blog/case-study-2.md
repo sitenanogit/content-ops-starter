@@ -34,7 +34,7 @@ bottomSections:
           auctor sapien.
         image:
           url: /images/the-mine-footer-logo.jpg
-          altText: Company logo
+          altText: The Mine Logo
           styles:
             self:
               margin:
