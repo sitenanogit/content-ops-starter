@@ -406,7 +406,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/alan-adi.png
-          altText: Jane Doe
+          altText: Alan adı
           styles:
             self:
               borderRadius: full
