@@ -365,7 +365,7 @@ sections:
           - pb-7
           - pr-7
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Tüm web site hizmetlerini listele
     items:
       - type: FeaturedItem
         title: >-
