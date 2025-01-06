@@ -33,7 +33,7 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/telus-logo.svg
+          url: /images/the-mine-footer-logo.jpg
           altText: Company logo
           styles:
             self:
