@@ -527,7 +527,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: İçerik güncellemeleri
-        tagline: This is the tagline
+        tagline: seo bazlı yerel içerik güncellemeleri
         subtitle: This is the item subtitle
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
