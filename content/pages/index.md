@@ -167,11 +167,11 @@ sections:
     subtitle: Birlikte çalıştığımız firmalar ve çözüm ortakları
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-      - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
+      - type: ImageBlock
+        url: /images/empathy-logo.svg
+        altText: Empathy logo
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
@@ -372,9 +372,9 @@ sections:
         tagline: Adım 1
         subtitle: Modern bir tasarım ile başla
         text: >
-          Modern web tasarım yapısı ile birlikte aynı zamanda firmanızın da
-          kurumsallığını yansıtan bir yapıda web sitesine ihtiyacınız varsa,
-          size bu çalışmayı memnuniyetle sunmaya hazırız.
+          Web sitesinin yapılması ve yaşatılması, hedef ziyaretçilerin
+          farkındalığının sağlanmaması halinde yine eksik kalmış olacaktır. Bu
+          kısımda özellikle internet reklamcılığı devreye girmelidir.
         image:
           type: ImageBlock
           url: /images/kurumsal-web-tasarim.png

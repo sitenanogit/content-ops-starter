@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/cmsnano-logo_yesil.png",
-        "altText": "Logo dark",
+        "altText": "CMSnano web tasarım logosu",
         "styles": {
             "self": {
                 "margin": [
@@ -61,7 +61,7 @@
             "type": "Link",
             "label": "Fiyatlar",
             "altText": "Ürün ve fiyatlar",
-            "url": "/pricing",
+            "url": "/fiyatlar",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -80,7 +80,7 @@
         {
             "label": "Kariyer",
             "altText": "Bizimle çalışmak ister misiniz?",
-            "url": "/careers",
+            "url": "/kariyer",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -90,7 +90,7 @@
             "type": "Link",
             "label": "İletişim",
             "altText": "Bize Ulaşın",
-            "url": "/contact",
+            "url": "/iletisim",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -122,5 +122,6 @@
     ],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "Web tasarım ve geliştirme hizmetleri"
 }
