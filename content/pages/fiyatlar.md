@@ -27,7 +27,7 @@ sections:
           - 'alan adı, sunucu bakım, güncellemeler'
         image:
           url: /images/cmsnano-logo_yesil.png
-          altText: Pricing plan 1
+          altText: Web Tasarım Fiyatları
           type: ImageBlock
         actions:
           - type: Button
