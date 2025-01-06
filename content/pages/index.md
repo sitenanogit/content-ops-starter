@@ -167,11 +167,11 @@ sections:
     subtitle: Birlikte çalıştığımız firmalar ve çözüm ortakları
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-      - type: ImageBlock
         url: /images/insider-logo-roipublic.png
         altText: Wellster logo
+      - type: ImageBlock
+        url: /images/empathy-logo.svg
+        altText: Empathy logo
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
