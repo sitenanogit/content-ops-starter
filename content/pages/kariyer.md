@@ -11,11 +11,9 @@ sections:
       type: TitleBlock
     subtitle: Güncel iş olanakları
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      İyi iletişim becerilerine sahip, öğrenmeye ve şirketle birlikte ilerlemeye
+      istekli tam zamanlı ve yarı zamanlı profesyoneller arıyoruz. Minimum 3 yıl
+      iş tecrübesi olanlar avantajlıdır.
     actions:
       - label: See open positions
         url: /
