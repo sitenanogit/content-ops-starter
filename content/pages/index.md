@@ -308,7 +308,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Profesyonel seo servici
+      label: Profesyonel seo servisi
       color: text-primary
     colors: bg-light-fg-dark
     styles:
