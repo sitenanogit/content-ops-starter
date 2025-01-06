@@ -33,7 +33,7 @@ bottomSections:
           için bize ulaşın.
         image:
           url: /images/airpoll.png.webp
-          altText: Company logo
+          altText: Airpoll
           styles:
             self:
               margin:
