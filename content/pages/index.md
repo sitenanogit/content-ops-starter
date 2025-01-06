@@ -478,7 +478,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: En bilinen web çözümlerimiz
+    subtitle: Bilinen web site hazırlık ve yönetimi ile ilgili çözümlerimiz
     items:
       - type: FeaturedItem
         title: 'Alan adı kaydı, takibi'
