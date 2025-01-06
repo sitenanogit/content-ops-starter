@@ -378,7 +378,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/kurumsal-web-tasarim.png
-          altText: Maria Walters
+          altText: Web Tasarım
           styles:
             self:
               borderRadius: full
