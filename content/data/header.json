@@ -80,7 +80,7 @@
         {
             "label": "Kariyer",
             "altText": "Bizimle çalışmak ister misiniz?",
-            "url": "/careers",
+            "url": "/kariyer",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
