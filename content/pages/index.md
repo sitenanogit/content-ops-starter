@@ -425,7 +425,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Kurumsal E-posta Hesabı
-        tagline: Alan adına kayıtlı e-posta himzeti aç
+        tagline: Adım 3
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
