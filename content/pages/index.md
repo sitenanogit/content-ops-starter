@@ -405,7 +405,7 @@ sections:
           ortamda yer alır ve hızlı çalışır.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/alan-adi.png
           altText: Jane Doe
           styles:
             self:
