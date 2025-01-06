@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Kurumsal firmalar ve girişimciler için web çözüm ortağı
       color: text-primary
-    subtitle: Birlikte çalışmaya hazır mısınız?
+    subtitle: 2025 yılı projelerinize talibiz!
     text: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_seo hizmetleri\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n"
     actions:
       - type: Button
@@ -278,19 +278,22 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: SEO Öncelikli Adımlar
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Web siteni seo roketi ile uçurun!
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Yalnızca bir web sitesine sahip olmakla kalmayıp aynı zamanda daha çok
+      ziyaretçi ve beraberinde de dönüşüm alabileceğiniz bir web sitesi, seo
+      uyumlu bir tasarıma ve yeterli içeriğe sahip olmalı. Belki de bu sebeple
+      şu an bu siteyi geziyor olabilirsiniz :)
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: İletişime geç
+        url: /iletisim
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: İletişime geç
       - type: Link
         label: See Tutorials
         url: /
@@ -300,11 +303,11 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/seo-hizmetleri-cmsnano.png
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Profesyonel seo servisi
       color: text-primary
     colors: bg-light-fg-dark
     styles:
