@@ -3,7 +3,7 @@ title: Kariyer
 slug: kariyer
 sections:
   - title:
-      text: A team that works closely together
+      text: Bizimle çalışmak ister misiniz?
       color: text-dark
       styles:
         self:
