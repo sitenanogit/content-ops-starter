@@ -81,7 +81,7 @@
             {
                 "type": "Button",
                 "label": "SITENANO",
-                "altText": "",
+                "altText": "Özel Proje Çalışmaları",
                 "url": "https://www.sitenano.com",
                 "showIcon": false,
                 "icon": "arrowRight",
