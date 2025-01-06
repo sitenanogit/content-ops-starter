@@ -358,8 +358,9 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
+      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
+      web sitelerimiz için sunulmaktadır.
     actions:
       - type: Button
         label: Get started
