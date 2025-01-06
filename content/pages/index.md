@@ -291,7 +291,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: CMS Editor
       url: /images/cms-editor.mp4
       autoplay: true
       loop: true
