@@ -424,7 +424,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Feature Item One
+        title: Kurumsal E-posta Hesabı
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
