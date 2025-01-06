@@ -368,6 +368,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Bize ulaşın
       - type: Link
         label: See Tutorials
         url: /
