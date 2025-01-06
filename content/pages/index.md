@@ -301,6 +301,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: SEO hakkında detaylı bilgi
     media:
       type: ImageBlock
       url: /images/seo-hizmetleri-cmsnano.png
