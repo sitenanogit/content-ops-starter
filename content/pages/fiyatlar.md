@@ -27,7 +27,7 @@ sections:
           - 'alan adı, sunucu bakım, güncellemeler'
         image:
           url: /images/cmsnano-logo_yesil.png
-          altText: Pricing plan 1
+          altText: Web Tasarım Fiyatları
           type: ImageBlock
         actions:
           - type: Button
@@ -70,7 +70,7 @@ sections:
           - entegrasyonlar ücretlidir
         image:
           url: /images/komisyonsuz-logo-red-white_250 (1).png
-          altText: Pricing plan 2
+          altText: Sipariş Alma Sistemi Fiyatları
           type: ImageBlock
         actions:
           - label: Kur & Dene
@@ -97,13 +97,14 @@ sections:
           Trendyol, Hepsiburada, Amazon ve Etsy Entegrasyonları
         features:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
-          - 'sepet hatırlatmaları, teklifli satış'
-          - bölge bazlı ve saat bazlı teslimat
+          - 'amazon, trendyol, hepsiburada, n11, pazarama entegrasyonları'
+          - 'sepet hatırlatmaları, teklifli satış, dropshipping'
+          - 'bölge bazlı ve saat bazlı teslimat, kargo entegrasyonları'
           - ürün yorumları ve cevaplama
-          - AI ürün liste planları
+          - 'AI ürün liste planları, AI ürün fiyatlama'
         image:
           url: /images/footer-logo.png
-          altText: Pricing plan 3
+          altText: E-ticaret Sitesi Fiyatları
           type: ImageBlock
         actions:
           - label: Kur & Dene
