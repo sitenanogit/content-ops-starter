@@ -29,9 +29,8 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Serinlemek ve ısınmak için mükemmel çözüm!Detaylı bilgi ve sipariş
+          için bize ulaşın.
         image:
           url: /images/airpoll.png.webp
           altText: Company logo
