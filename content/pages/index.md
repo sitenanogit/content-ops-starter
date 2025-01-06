@@ -340,6 +340,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Web site danışmanlığı hakkında detaylı bilgi
     media:
       type: ImageBlock
       url: /images/cosulting.avif
