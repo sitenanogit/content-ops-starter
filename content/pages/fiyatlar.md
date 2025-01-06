@@ -70,7 +70,7 @@ sections:
           - entegrasyonlar ücretlidir
         image:
           url: /images/komisyonsuz-logo-red-white_250 (1).png
-          altText: Pricing plan 2
+          altText: Sipariş Alma Sistemi Fiyatları
           type: ImageBlock
         actions:
           - label: Kur & Dene
