@@ -427,8 +427,9 @@ sections:
         title: Kurumsal E-posta Hesabı
         tagline: Adım 3
         subtitle: Alan adına kayıtlı e-posta himzeti aç
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Alan adınıza özel kurumsal e-posta hesapları ile iletişim halinde
+          olduğunuz kişi ve kurumlara güven verirsiniz.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
