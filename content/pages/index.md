@@ -478,7 +478,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: En bilinen web çözümlerimiz
     items:
       - type: FeaturedItem
         title: 'Alan adı kaydı, takibi'
