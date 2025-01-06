@@ -432,7 +432,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Web Tasarım
+      text: Editör ile Web Tasarım & İçerik Güncellemeleri
       color: text-dark
       styles:
         self:
