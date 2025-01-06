@@ -90,7 +90,7 @@
             "type": "Link",
             "label": "İletişim",
             "altText": "Bize Ulaşın",
-            "url": "/contact",
+            "url": "/iletisim",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
