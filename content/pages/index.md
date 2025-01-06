@@ -373,12 +373,8 @@ sections:
         subtitle: Modern bir tasarım ile başla
         text: >
           Web sitesinin yapılması ve yaşatılması, hedef ziyaretçilerin
-          farkında-lığının sağlanmaması halinde yine eksik kalmış olacaktır. Bu
-          kısımda özellikle internet reklamcılığı devreye girmelidir. Arama
-          motorları dostu (SEO) yapıda tasarlanmış içerik ve mimarinin doğal
-          sonuçlarla iyi konumlar elde etmesini temin etmek üst düzey çabalar
-          gerektirir. CMSnano bu kısmıyla bakıldığında başarılı kayıtlar yapmış
-          olsa da herhangi bir konumlama garantisi vermez.
+          farkındalığının sağlanmaması halinde yine eksik kalmış olacaktır. Bu
+          kısımda özellikle internet reklamcılığı devreye girmelidir.
         image:
           type: ImageBlock
           url: /images/kurumsal-web-tasarim.png
