@@ -490,7 +490,7 @@ sections:
           Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/domain-icon-free-vector.jpg
           altText: Placholder image
           styles:
             self:
