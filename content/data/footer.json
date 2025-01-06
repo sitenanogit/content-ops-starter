@@ -90,16 +90,6 @@
                 "elementId": ""
             },
             {
-                "label": "sitenano proje",
-                "altText": "Özel projeleriniz için",
-                "url": "https://www.sitenano.com/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "showIcon": false
-            },
-            {
                 "label": "E-ticaret Sistemleri",
                 "url": "https://eticaret.sitenano.com/account/register/?next=/",
                 "icon": "arrowRight",
