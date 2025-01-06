@@ -491,7 +491,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/domain-icon-free-vector.jpg
-          altText: Placholder image
+          altText: Alan adı hizmetlerimiz
           styles:
             self:
               borderRadius: x-large
