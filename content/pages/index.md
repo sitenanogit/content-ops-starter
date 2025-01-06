@@ -313,6 +313,45 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Web site danışmanlığı
+      color: text-dark
+    subtitle: 'AI, SEO, CPC konularında sorularınız varsa, bize ulaşabilirsiniz'
+    text: >
+      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
+      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
+      web sitelerimiz için sunulmaktadır. Ayrıca bu konular üzerine projeleriniz
+      ve sorularınız varsa danışmanlığı da verilmektedir.
+    actions:
+      - type: Button
+        label: İletişim
+        url: /iletisim
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        altText: Bize ulaşın
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/cosulting.avif
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: DANIŞMANLIK HİZMETLERİ
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Web Tasarım
       color: text-dark
       styles:
@@ -351,45 +390,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Web site danışmanlığı
-      color: text-dark
-    subtitle: 'AI, SEO, CPC konularında sorularınız varsa, bize ulaşabilirsiniz'
-    text: >
-      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
-      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
-      web sitelerimiz için sunulmaktadır. Ayrıca bu konular üzerine projeleriniz
-      ve sorularınız varsa danışmanlığı da verilmektedir.
-    actions:
-      - type: Button
-        label: İletişim
-        url: /iletisim
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        altText: Bize ulaşın
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/cosulting.avif
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: DANIŞMANLIK HİZMETLERİ
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
