@@ -370,7 +370,7 @@ sections:
       - type: FeaturedItem
         title: Kurumsal Web Tasarım
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Modern bir tasarım ile
         text: >
           Modern web tasarım yapısı ile birlikte aynı zamanda firmanızın da
           kurumsallığını yansıtan bir yapıda web sitesine ihtiyacınız varsa,
