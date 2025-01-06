@@ -360,7 +360,8 @@ sections:
     text: >
       Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
       destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
-      web sitelerimiz için sunulmaktadır.
+      web sitelerimiz için sunulmaktadır. Ayrıca bu konular üzerine projeleriniz
+      ve sorularınız varsa danışmanlığı da verilmektedir.
     actions:
       - type: Button
         label: İletişim
