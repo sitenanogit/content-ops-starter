@@ -295,6 +295,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: İletişime geç
       - type: Link
         label: See Tutorials
         url: /
