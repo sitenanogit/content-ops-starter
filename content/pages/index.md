@@ -479,7 +479,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Alan adı kaydı, takibi'
-        tagline: This is the tagline
+        tagline: uygun fiyatlı alan adları
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
