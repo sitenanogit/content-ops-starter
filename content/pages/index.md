@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Kurumsal firmalar ve girişimciler için web çözüm ortağı
       color: text-primary
-    subtitle: Birlikte çalışmaya hazır mısınız?
+    subtitle: 2025 yılı projelerinize talibiz!
     text: "CMSnano,\_web tasarım, kurumsal web tasarım, mobil uyumlu web sitesi, özel web tasarım, web tabanlı özel yazılımlar, mobil uygulama,\\*\\*\_seo hizmetleri\_\\*\\*ve dijital platform alanları için çözümler üretmekte, web sitenizin yönetimi konusunda düzenli destek hizmetleri sağlamaktadır.\n"
     actions:
       - type: Button
