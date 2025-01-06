@@ -398,7 +398,7 @@ sections:
       - type: FeaturedItem
         title: Alan adı & Sunucu Hizmetleri
         tagline: Adım 2
-        subtitle: 'Jane Doe, Company'
+        subtitle: İşe uygun bir akılda kalıcı bir alan adı seç
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
