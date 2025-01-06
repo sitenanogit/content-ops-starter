@@ -101,7 +101,7 @@ sections:
           - 'sepet hatırlatmaları, teklifli satış'
           - 'bölge bazlı ve saat bazlı teslimat, kargo entegrasyonları'
           - ürün yorumları ve cevaplama
-          - AI ürün liste planları
+          - 'AI ürün liste planları, AI ürün fiyatlama'
         image:
           url: /images/footer-logo.png
           altText: E-ticaret Sitesi Fiyatları
