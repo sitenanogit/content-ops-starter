@@ -69,7 +69,7 @@
         "links": [
             {
                 "type": "Button",
-                "label": "Get started",
+                "label": "CMSnano",
                 "altText": "",
                 "url": "https://www.cmsnano.com",
                 "showIcon": false,
