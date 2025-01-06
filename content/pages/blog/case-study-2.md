@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: The Mine
-        tagline: This is the tagline
+        tagline: willkommen bei the mine
         subtitle: >-
           wir begrüßen sie in unserer modernen und zeitlosen gastronomie.
           gastronomie im schatten des doppelbocks. im außenbereich genießen
