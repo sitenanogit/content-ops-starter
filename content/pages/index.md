@@ -285,9 +285,9 @@ sections:
           textAlign: left
     subtitle: Section with a video subtitle
     text: >
-      Ücretsiz alan adı tescili, sunucu hizmetleri, e-posta hizmeti, mobil
-      uyumluluk, destek hizmetleri ve web site alt yapı bakım ve güncelleme
-      hizmetleri tüm web sitelerimiz için firmamız tarafından sağlanmaktadır.
+      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
+      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
+      web sitelerimiz için sunulmaktadır.
     actions: []
     media:
       type: VideoBlock
