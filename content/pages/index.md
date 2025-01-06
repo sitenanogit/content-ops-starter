@@ -334,7 +334,7 @@ sections:
         style: secondary
         altText: Bize ulaşın
       - type: Link
-        label: See Tutorials
+        label: Detalı bilgi
         url: /
         showIcon: true
         icon: arrowRight
