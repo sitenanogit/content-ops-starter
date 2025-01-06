@@ -439,9 +439,11 @@ sections:
           textAlign: left
     subtitle: editör üzerinden web syafa güncellemeleri
     text: >
-      Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
-      destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
-      web sitelerimiz için sunulmaktadır.
+      CMSnano kulanıcıları web sayfalarındaki basit içerik güncellemelerinin
+      tamamını kendileri yapabilirler. Bu alanda zaman ayıramayan müşteriler ise
+      içerik değşikliği taleplerini ticket veya e-posta ile ileterek talep
+      edebilirler. İçerik değişikliği talepleri saat üzerinden hesaplanır ve
+      belirlenen saate kadar olan içerik değişiklikleri ücretsiz olarak verilir.
     actions: []
     media:
       type: VideoBlock
