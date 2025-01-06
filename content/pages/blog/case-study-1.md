@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Airpoll hakkında
-        tagline: This is the tagline
+        tagline: Serinletin veya ısıtın
         subtitle: >-
           Serinlemek ve ısınmak için mükemmel çözüm! Detaylı bilgi ve sipariş
           için bize ulaşın.
