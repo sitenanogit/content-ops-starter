@@ -280,7 +280,7 @@ sections:
       type: TitleBlock
       text: SEO Öncelikli Adımlar
       color: text-dark
-    subtitle: Web siteni seo roketi ile uçurun
+    subtitle: Web siteni seo roketi ile uçurun!
     text: >
       Yalnızca bir web sitesine sahip olmakla kalmayıp aynı zamanda daha çok
       ziyaretçi ve beraberinde de dönüşüm alabileceğiniz bir web sitesi, seo
