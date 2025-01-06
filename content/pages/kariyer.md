@@ -16,7 +16,7 @@ sections:
       iş tecrübesi olanlar avantajlıdır.
     actions:
       - label: Açık pozisyonlar
-        url: /
+        url: 'https://www.sitenano.com/careers.html'
         icon: arrowRight
         iconPosition: right
         style: primary
