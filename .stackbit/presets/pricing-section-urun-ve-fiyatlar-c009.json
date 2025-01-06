@@ -1,0 +1,207 @@
+{
+    "model": "PricingSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Ürün ve fiyatlar",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "CMS"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Farklı hizmetler aynı anda tek yerde",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "Her bütçeye göre web site, sipariş sistemi, e-ticaret çözümleri bir arada uygun fiyatlarla hizmetinizdeyiz.",
+                "plans": [
+                    {
+                        "$$type": "PricingPlan",
+                        "title": "Kurumsal Web Sayfası",
+                        "price": "Teklif al",
+                        "details": "Örnek sayfa ve içeriklerinize göre belirlenir",
+                        "description": "Kurumsal web siteleri, mobil uyumluluk, kullanıcı dostu arayüzler, hızlı yükleme süreleri ve arama motoru optimizasyonu (SEO) gibi teknik detaylara dikkat edilerek tasarlanır.\n",
+                        "features": [
+                            "firmanıza özel tasarım",
+                            "seo anahtar kelime çalışmaları",
+                            "mobil sayfa & hız testleri",
+                            "alan adı, sunucu bakım, güncellemeler"
+                        ],
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/cmsnano-logo_yesil.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Pricing plan 1",
+                            "elementId": null,
+                            "styles": null
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "İncele",
+                                "altText": "",
+                                "url": "/",
+                                "showIcon": false,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "primary",
+                                "elementId": ""
+                            },
+                            {
+                                "$$type": "Button",
+                                "label": "Teklif al",
+                                "altText": null,
+                                "url": "/contact",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutral-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-6",
+                                    "pb-10",
+                                    "pl-6",
+                                    "pr-6"
+                                ],
+                                "borderRadius": "large"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "PricingPlan",
+                        "title": "Yerli Üretim Sipariş Sistemi",
+                        "price": "4.900₺",
+                        "details": "yıllık alımlarda geçerli başlangıç fiyatıdır",
+                        "description": "Trenyol, Yemeksepeti entegrasyonları\n",
+                        "features": [
+                            "özel alan adınız ile çalışır",
+                            "kurulum desteği ücretsizdir",
+                            "siparişlerinizde ekstra komisyon alınmaz",
+                            "üyelere özel indirim yapılabilir",
+                            "1 şube için geçerli fiyattır",
+                            "kampanya ve duyurular sunulabilir",
+                            "entegrasyonlar ücretlidir"
+                        ],
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/komisyonsuz-logo-red-white_250 (1).png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Pricing plan 2",
+                            "elementId": null,
+                            "styles": null
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Kur & Dene",
+                                "altText": "komisyonsuz sipariş sistemi kur ve dene",
+                                "url": "https://admin.komisyonsuz.com/admin/register.html",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutral-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-6",
+                                    "pb-10",
+                                    "pl-6",
+                                    "pr-6"
+                                ],
+                                "borderRadius": "large"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "PricingPlan",
+                        "title": "Yerli Üretim Profesyonel E-ticaret",
+                        "price": "9.900₺",
+                        "details": "yıllık alımlarda geçerli başlangıç fiyatıdır",
+                        "description": "Trendyol, Hepsiburada, Amazon ve Etsy Entegrasyonları\n",
+                        "features": [
+                            "e-ihracat, çoklu dil, çoklu stok ve lokasyon",
+                            "sepet hatırlatmaları, teklifli satış",
+                            "bölge bazlı ve saat bazlı teslimat",
+                            "ürün yorumları ve cevaplama",
+                            "AI ürün liste planları"
+                        ],
+                        "image": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/footer-logo.png",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Pricing plan 3",
+                            "elementId": null,
+                            "styles": null
+                        },
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Kur & Dene",
+                                "altText": "Profesyonel e-ticaret sitesi",
+                                "url": "https://eticaret.sitenano.com/account/register/?next=/",
+                                "showIcon": null,
+                                "icon": "arrowRight",
+                                "iconPosition": "right",
+                                "style": "secondary",
+                                "elementId": null
+                            }
+                        ],
+                        "elementId": null,
+                        "colors": "bg-neutral-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-6",
+                                    "pb-10",
+                                    "pl-6",
+                                    "pr-6"
+                                ],
+                                "borderRadius": "large"
+                            }
+                        }
+                    }
+                ],
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/pricing-section-urun-ve-fiyatlar-c009.png"
+        }
+    ]
+}
