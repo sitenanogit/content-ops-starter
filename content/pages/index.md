@@ -356,7 +356,7 @@ sections:
       type: TitleBlock
       text: Web site danışmanlığı
       color: text-dark
-    subtitle: Be in good company
+    subtitle: 'AI, SEO, CPC konularında sorularınız varsa'
     text: >
       Alan adı kaydı, sunucu hizmetleri, e-posta hizmeti, mobil uyumluluk,
       destek hizmetleri ve web site alt yapı bakım ve güncelleme hizmetleri tüm
