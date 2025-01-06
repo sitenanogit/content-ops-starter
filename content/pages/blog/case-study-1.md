@@ -29,7 +29,7 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Serinlemek ve ısınmak için mükemmel çözüm!Detaylı bilgi ve sipariş
+          Serinlemek ve ısınmak için mükemmel çözüm! Detaylı bilgi ve sipariş
           için bize ulaşın.
         image:
           url: /images/airpoll.png.webp
