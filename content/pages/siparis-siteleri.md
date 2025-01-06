@@ -26,7 +26,7 @@ sections:
         style: secondary
       - type: Link
         label: İnceleyin
-        url: /
+        url: 'https://partner.komisyonsuz.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
