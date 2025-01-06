@@ -97,7 +97,7 @@ sections:
           Trendyol, Hepsiburada, Amazon ve Etsy Entegrasyonları
         features:
           - 'e-ihracat, çoklu dil, çoklu stok ve lokasyon'
-          - ''
+          - 'amazon, trendyol, hepsiburada, n11, pazarama entegrasyonları'
           - 'sepet hatırlatmaları, teklifli satış'
           - bölge bazlı ve saat bazlı teslimat
           - ürün yorumları ve cevaplama
