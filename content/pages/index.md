@@ -282,8 +282,12 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Yalnızca bir web sitesine sahip olmakla kalmayıp aynı zamanda daha çok
+      ziyaretçi ve beraberinde de dönüşüm alabileceğiniz bir web sitesi
+      istiyorsanız, web sitenizin seo uyumlu bir alt yapı ve seo uyumlu bir
+      tasarıma sahip olup olmadığını değerlendirebilirsiniz. Bunların haricinde
+      ise kalıcılık sağlaması için düzenli olarak güncel kılınması ve
+      geliştirilmesi gerektiği atlanmamalıdır.
     actions:
       - type: Button
         label: Get started
