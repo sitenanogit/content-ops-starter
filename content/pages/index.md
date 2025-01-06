@@ -167,7 +167,7 @@ sections:
     subtitle: Birlikte çalıştığımız firmalar ve çözüm ortakları
     images:
       - type: ImageBlock
-        url: /images/insider-logo-roipublic.png
+        url: /images/wellster-logo.svg
         altText: Wellster logo
       - type: ImageBlock
         url: /images/empathy-logo.svg
