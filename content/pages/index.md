@@ -364,7 +364,7 @@ sections:
     actions:
       - type: Button
         label: İletişim
-        url: /
+        url: /iletisim
         icon: arrowRight
         iconPosition: right
         style: secondary
