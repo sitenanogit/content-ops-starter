@@ -1,0 +1,58 @@
+{
+    "model": "FeaturedPostsSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Samples",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "CMS"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": null,
+                "posts": [
+                    {
+                        "$$ref": "content/pages/blog/case-study-1.md",
+                        "$$type": "PostLayout"
+                    },
+                    {
+                        "$$ref": "content/pages/blog/case-study-2.md",
+                        "$$type": "PostLayout"
+                    },
+                    {
+                        "$$ref": "content/pages/blog/case-study-3.md",
+                        "$$type": "PostLayout"
+                    }
+                ],
+                "showThumbnail": true,
+                "showExcerpt": null,
+                "showDate": true,
+                "showAuthor": true,
+                "actions": [],
+                "badge": null,
+                "elementId": null,
+                "variant": "three-col-grid",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "hoverEffect": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-posts-section-samples-0504.png"
+        }
+    ]
+}
