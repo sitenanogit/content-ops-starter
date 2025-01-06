@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: Airpoll hakkında
         tagline: This is the tagline
         subtitle: >-
           Serinlemek ve ısınmak için mükemmel çözüm! Detaylı bilgi ve sipariş
