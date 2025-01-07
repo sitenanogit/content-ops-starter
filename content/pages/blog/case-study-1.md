@@ -5,7 +5,7 @@ date: '2024-12-25'
 excerpt: airpoll web sayfası
 featuredImage:
   url: /images/airpoll-web-tasarim.jpg
-  altText: Case study 1
+  altText: airpoll.com.tr
   styles:
     self:
       borderRadius: large
