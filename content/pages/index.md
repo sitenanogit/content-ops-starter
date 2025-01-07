@@ -21,7 +21,7 @@ sections:
         elementId: ''
       - type: Link
         label: Fiyatlar
-        altText: ''
+        altText: 'Ürünler, Fiyatlar'
         url: /
         showIcon: true
         icon: arrowRight
