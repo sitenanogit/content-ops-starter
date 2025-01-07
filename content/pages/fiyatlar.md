@@ -139,7 +139,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: SITENANO ile özel proje geliştir.
+    subtitle: SITENANO ile özel projenizi geliştir.
     text: >+
       Bir ürün geliştirme için 
 
