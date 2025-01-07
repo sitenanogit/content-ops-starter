@@ -2,14 +2,10 @@
 title: airpoll.com.tr
 slug: case-study-1
 date: '2024-12-25'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: airpoll web sayfası
 featuredImage:
   url: /images/airpoll-web-tasarim.jpg
-  altText: Case study 1
+  altText: airpoll.com.tr
   styles:
     self:
       borderRadius: large
