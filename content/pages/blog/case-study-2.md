@@ -5,7 +5,7 @@ date: '2024-11-20'
 excerpt: eventlocation essen seo work
 featuredImage:
   url: /images/the-mine-web-tasarim.jpg
-  altText: Case study 2
+  altText: eventlocationessen.de
   styles:
     self:
       borderRadius: x-large
