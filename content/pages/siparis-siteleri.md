@@ -137,7 +137,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: 'Çekinme, ücretsiz kur & dene'
+        label: 'Hemen, ücretsiz kur & dene'
         altText: Komisyonsuz sipariş sistemleri
         url: 'https://admin.komisyonsuz.com/admin/register.html'
         showIcon: false
