@@ -12,7 +12,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Neler yapıyoruz?
+    subtitle: 'Aradığınıza uygun olabilecek çözümler, neler yapıyoruz?'
     text: >
       Web sitenizin tasarım ve uygulama çalışmaları ile birlikte içerik takip ve
       yönetimini üstlenir, sitenize özel araştırma ve çalışmalar ile markanızın
