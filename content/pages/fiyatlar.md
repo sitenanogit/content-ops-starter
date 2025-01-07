@@ -240,7 +240,7 @@ sections:
     actions:
       - type: Button
         label: İletişime geç
-        url: /
+        url: /iletisim
         icon: arrowRight
         iconPosition: right
         style: secondary
