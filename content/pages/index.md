@@ -335,7 +335,7 @@ sections:
         altText: Bize ulaşın
       - type: Link
         label: Detalı bilgi
-        url: /
+        url: /web-siteleri
         showIcon: true
         icon: arrowRight
         iconPosition: right
