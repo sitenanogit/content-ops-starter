@@ -140,11 +140,86 @@ sections:
         self:
           textAlign: left
     subtitle: SITENANO ile özel proje geliştir.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Bir ürün geliştirme için 
+
+
+      Hiper-Kişiselleştirme: Yeni Standart
+
+
+      2025'te kişiselleştirme artık bir lüks veya trend olmayacak; bir beklenti
+      olacak. Teknoloji ilerledikçe, ürünleri bireysel müşteri ihtiyaçlarına
+      göre uyarlama yeteneğimiz de gelişiyor. Bu, işletmelerin daha
+      kişiselleştirilmiş deneyimler sunmak için veri toplamasını ve analiz
+      etmesini sağlayan yapay zeka (AI) ve makine öğrenimi (ML) çağında
+      özellikle geçerlidir.
+
+
+      Yapay Zeka ve Otomasyonun Yükselişi
+
+
+      Yapay zeka ve otomasyon halihazırda endüstrileri dönüştürüyor ve 2025'e
+      kadar ürün geliştirme süreçlerine derinlemesine yerleşecekler. Tekrarlayan
+      görevleri otomatikleştirmekten öngörücü analizler aracılığıyla daha akıllı
+      karar almaya kadar, yapay zeka ürün geliştirme döngülerini hızlandırmaya
+      ve verimliliği artırmaya yardımcı olacak.
+
+
+      Çevik Metodolojiler: Daha Fazla Esneklik ve İşbirliği
+
+
+      Çeviklik yıllardır gündemde olan bir kelimeydi, ancak 2025'e gelindiğinde
+      çevik metodolojiler her zamankinden daha önemli olacak. Teknolojideki,
+      tüketici davranışlarındaki ve rekabet ortamındaki değişim hızı,
+      işletmelerin esnek kalmasını gerektiriyor. Çevik ürün geliştirme,
+      şirketlerin değişimlere hızlı bir şekilde yanıt vermesini sağlayarak
+      müşteri geri bildirimlerini dahil etmeyi, stratejileri değiştirmeyi ve
+      yeni teknolojilere uyum sağlamayı kolaylaştırıyor.
+
+
+      Sürdürülebilirlik ve Etik Yenilik
+
+
+      Sürdürülebilirlik sadece bir moda sözcükten daha fazlasıdır; hem
+      tüketiciler hem de işletmeler için giderek artan bir endişedir. 2025
+      yılına kadar, şirketler rekabetçi kalmak istiyorlarsa sürdürülebilir ürün
+      tasarımı ve etik inovasyona öncelik vermeleri gerekecektir. Müşteriler
+      satın aldıkları ürünlerin çevresel ve sosyal etkisinin daha fazla farkına
+      varıyor ve markaların bu değerlerle uyumlu olmasını bekliyorlar.
+
+
+      Sanal ve Artırılmış Gerçekliğin (VR/AR) Entegrasyonu
+
+
+      2025 yılına kadar sanal gerçeklik (VR) ve artırılmış gerçeklik (AR),
+      özellikle üretim, oyun, otomotiv ve sağlık gibi sektörlerde ürün
+      geliştirme sürecinin merkezinde yer alacaktır. VR ve AR, zaman ve kaynak
+      tasarrufu sağlayabilecek sürükleyici prototipleme, sanal test ve ürün
+      demolarına olanak tanıyacaktır. Bu teknolojiler ayrıca ekiplerin fiziksel
+      olarak inşa edilmeden önce ürün tasarımlarını görselleştirmelerine ve
+      iyileştirmelerine olanak tanıyacaktır.
+
+
+      Kitle Kaynak Kullanımı ve Açık İnovasyon
+
+
+      İşbirliği, inovasyonun merkezinde yer alır ve 2025 yılına kadar kitle
+      kaynak kullanımı ve açık inovasyon, ürün geliştirmeyi hızlandırmak için
+      temel stratejiler olacaktır. Müşterileri, üçüncü taraf geliştiricileri ve
+      diğer harici paydaşları ürün geliştirme sürecine dahil etmek değerli
+      içgörüler, yeni fikirler ve yenilikçi çözümler sağlayabilir.
+
+
+      Dijital İkizler: Ürün Test Etme ve Geliştirmede Devrim Yaratıyor
+
+
+      "Dijital ikiz" kavramı, üretim, otomotiv ve sağlık gibi sektörlerde ivme
+      kazanıyor. Dijital ikizler, fiziksel ürünlerin sanal temsilleridir ve
+      işletmelerin, bir ürünün gerçek dünyada nasıl performans göstereceğini,
+      üretilmeden önce simüle etmelerine ve analiz etmelerine olanak tanır.
+
+
+
     actions: []
     media:
       type: VideoBlock
