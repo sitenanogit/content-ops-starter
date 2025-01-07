@@ -164,7 +164,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Birlikte çalıştığımız firmalar ve çözüm ortakları
+    subtitle: 'Birlikte çalıştığımız firmalar, sağlayıcılar'
     images:
       - type: ImageBlock
         url: /images/wellster-logo.svg
