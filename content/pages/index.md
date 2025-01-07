@@ -296,7 +296,7 @@ sections:
         altText: İletişime geç
       - type: Link
         label: Detaylı bilgi
-        url: /
+        url: /seo-hizmetleri
         showIcon: true
         icon: arrowRight
         iconPosition: right
