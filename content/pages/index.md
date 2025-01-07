@@ -560,7 +560,7 @@ sections:
       - type: FeaturedItem
         title: İçerik güncellemeleri
         tagline: seo bazlı yerel ve global içerik güncellemeleri
-        subtitle: This is the item subtitle
+        subtitle: Gerçek ve ai editörleri sizin için çalışır
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
