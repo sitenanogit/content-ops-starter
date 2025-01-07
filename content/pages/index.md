@@ -561,8 +561,9 @@ sections:
         title: İçerik güncellemeleri
         tagline: seo bazlı yerel ve global içerik güncellemeleri
         subtitle: Gerçek ve ai editörleri sizin için çalışır
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Alanında bilgi sahibi kişiler sadece ürün içeriklerinizi düzenler, ya
+          da ai editörleri yardımıyla..
         image:
           type: ImageBlock
           url: /images/editor-icon.png
