@@ -536,8 +536,9 @@ sections:
         title: Sunucu hizmetleri
         tagline: 'cloud sunucu, aws servisleri'
         subtitle: aws servisleri kullanılır
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          AWS uzmanları ile projeleriniz son teknoloji araçlar üzerinden
+          yayınlanır.
         image:
           type: ImageBlock
           url: /images/server-icon.png
