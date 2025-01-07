@@ -20,7 +20,29 @@ sections:
       hizmet ve çözümler sunuyoruz.
 
 
-      ## Kurumsal bir web sitesi mi?
+      ## **Kurumsal bir web sitesi mi?**
+
+
+      Amacımız web sitesi ile daha önce umduğu beklentiye ulaşamamış firmalar
+      için güvenilir ve kaliteli bir hizmet sunmak, yurtiçinde ve yurtdışında
+      yazılım hizmetleri ve dijital çözümler sunan, geleceğin teknolojilerini
+      etkin şekilde uygulamaya koyan bir firma olarak çalışmalarımızı daha uzun
+      yıllar devam ettirebilmektir.
+
+
+      ### **Bir e-ticaret sitesi?**
+
+
+      Amacımız web sitesi ile daha önce umduğu beklentiye ulaşamamış firmalar
+      için güvenilir ve kaliteli bir hizmet sunmak, yurtiçinde ve yurtdışında
+      yazılım hizmetleri ve dijital çözümler sunan, geleceğin teknolojilerini
+      etkin şekilde uygulamaya koyan bir firma olarak çalışmalarımızı daha uzun
+      yıllar devam ettirebilmektir.
+
+
+      #### 
+
+      **Özel bir proje?**
 
 
       Amacımız web sitesi ile daha önce umduğu beklentiye ulaşamamış firmalar
