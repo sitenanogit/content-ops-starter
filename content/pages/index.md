@@ -517,7 +517,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/domain-icon-free-vector.jpg
-          altText: Alan adı hizmetlerimiz
+          altText: Alan adı hizmetleri Cloudflare ürünleri ile sunulur.
           styles:
             self:
               borderRadius: x-large
