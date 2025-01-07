@@ -134,7 +134,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Özel bir projeniz mi var?
       color: text-dark
       styles:
         self:
