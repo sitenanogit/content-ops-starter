@@ -35,7 +35,7 @@ bottomSections:
           und Grobe Gebrannte Nüsse. Kommen sie vorbei und probieren sie unsere
           vielfältigen Produkt Sortiment.
         image:
-          url: /images/telus-logo.svg
+          url: /images/nuts_co_logo_web.jpg
           altText: Company logo
           styles:
             self:
