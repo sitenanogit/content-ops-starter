@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: Nuts & Co. Turmstraße
-        tagline: This is the tagline
+        tagline: Willkommen auf unserer Internetseite
         subtitle: >-
           Wir sind, Nuts & Co Store an der Turmstraße 68 tätig. Unsere Produkte
           in hoher Qualität und zu niedrigen Preisen. Unsere Sortemente sind
