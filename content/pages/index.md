@@ -21,8 +21,8 @@ sections:
         elementId: ''
       - type: Link
         label: Fiyatlar
-        altText: ''
-        url: /
+        altText: 'Ürünler, Fiyatlar'
+        url: /fiyatlar
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -59,7 +59,7 @@ sections:
     subtitle: satışlarını sitenano ürünleri ile arttırdı
     items:
       - type: FeaturedItem
-        title: son 1 yılda
+        title: 2024 yılında
         subtitle: 3 özel proje tamamlandı
         text: >
           Özel olarak geliştirdiğimiz kurumsal personel taşıma, havaalanı araç
@@ -86,7 +86,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 200+ sipariş
+        title: 250+ sipariş
         subtitle: sistemi tercih edildi
         text: >
           lokantalar, büfeler, restoranlar, cafeler ve daha birçok yerel
@@ -137,7 +137,7 @@ sections:
       - type: Button
         label: Ürün ve Fiyatlar
         altText: Ürün ve Fiyatlar
-        url: /pricing
+        url: /fiyatlar
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -164,7 +164,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Birlikte çalıştığımız firmalar ve çözüm ortakları
+    subtitle: 'Birlikte çalıştığımız firmalar, sağlayıcılar'
     images:
       - type: ImageBlock
         url: /images/wellster-logo.svg
@@ -296,7 +296,7 @@ sections:
         altText: İletişime geç
       - type: Link
         label: Detaylı bilgi
-        url: /
+        url: /seo-hizmetleri
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -335,7 +335,7 @@ sections:
         altText: Bize ulaşın
       - type: Link
         label: Detalı bilgi
-        url: /
+        url: /web-siteleri
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -511,13 +511,13 @@ sections:
       - type: FeaturedItem
         title: 'Alan adı kaydı, takibi'
         tagline: uygun fiyatlı alan adları
-        subtitle: This is the item subtitle
+        subtitle: cloudflare ürünleri ile takip edilir
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
           url: /images/domain-icon-free-vector.jpg
-          altText: Alan adı hizmetlerimiz
+          altText: Alan adı hizmetleri Cloudflare ürünleri ile sunulur.
           styles:
             self:
               borderRadius: x-large
@@ -535,13 +535,16 @@ sections:
       - type: FeaturedItem
         title: Sunucu hizmetleri
         tagline: 'cloud sunucu, aws servisleri'
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        subtitle: aws servisleri kullanılır
+        text: >
+          AWS uzmanları ile projeleriniz son teknoloji araçlar üzerinden
+          yayınlanır.
         image:
           type: ImageBlock
           url: /images/server-icon.png
-          altText: Sunucu ve bakım hizmetlerimiz
+          altText: >-
+            Sunucu ve bakım hizmetleri son teknoloji AWS araçları üzerinden
+            yapılır
           styles:
             self:
               borderRadius: x-large
@@ -559,13 +562,14 @@ sections:
       - type: FeaturedItem
         title: İçerik güncellemeleri
         tagline: seo bazlı yerel ve global içerik güncellemeleri
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        subtitle: Gerçek ve ai editörleri sizin için çalışır
+        text: >
+          Alanında bilgi sahibi kişiler sadece ürün içeriklerinizi düzenler, ya
+          da ai editörleri yardımıyla..
         image:
           type: ImageBlock
           url: /images/editor-icon.png
-          altText: Placeholder image
+          altText: İçerik güncellemeleri ile web siteniz her zaman güncel kalır
           styles:
             self:
               borderRadius: x-large
