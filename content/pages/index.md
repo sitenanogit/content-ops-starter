@@ -542,7 +542,9 @@ sections:
         image:
           type: ImageBlock
           url: /images/server-icon.png
-          altText: Sunucu ve bakım hizmetlerimiz
+          altText: >-
+            Sunucu ve bakım hizmetleri son teknoloji AWS araçları üzerinden
+            yapılır
           styles:
             self:
               borderRadius: x-large
