@@ -246,7 +246,7 @@ sections:
         style: secondary
         altText: develop a product with sitenano team
       - type: Link
-        label: See Tutorials
+        label: Daha fazla incele
         url: /
         showIcon: true
         icon: arrowRight
