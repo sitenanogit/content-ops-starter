@@ -29,9 +29,11 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Wir sind, Nuts & Co Store an der Turmstraße 68 tätig. Unsere Produkte
+          in hoher Qualität und zu niedrigen Preisen. Unsere Sortemente sind
+          feinste Nussmischungen, sowie Mischungen aus Nüssen, Trockenfrüchten
+          und Grobe Gebrannte Nüsse. Kommen sie vorbei und probieren sie unsere
+          vielfältigen Produkt Sortiment.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
