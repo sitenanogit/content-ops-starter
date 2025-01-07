@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: >-
         CMSnano ile Web Tasarım, Web Yazılım, Seo, E-ticaret ve Web Site
-        Yönetimi Hizmetleri
+        Yönetimi ve daha fazlası
       color: text-dark
       styles:
         self:
