@@ -22,7 +22,7 @@ sections:
       - type: Link
         label: Fiyatlar
         altText: 'Ürünler, Fiyatlar'
-        url: /
+        url: /fiyatlar
         showIcon: true
         icon: arrowRight
         iconPosition: right
