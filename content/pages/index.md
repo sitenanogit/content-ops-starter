@@ -567,7 +567,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/editor-icon.png
-          altText: Placeholder image
+          altText: İçerik güncellemeleri ile web siteniz her zaman güncel kalır
           styles:
             self:
               borderRadius: x-large
