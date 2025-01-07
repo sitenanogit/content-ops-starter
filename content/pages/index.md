@@ -59,7 +59,7 @@ sections:
     subtitle: satışlarını sitenano ürünleri ile arttırdı
     items:
       - type: FeaturedItem
-        title: son 1 yılda
+        title: 2024 yılında
         subtitle: 3 özel proje tamamlandı
         text: >
           Özel olarak geliştirdiğimiz kurumsal personel taşıma, havaalanı araç
