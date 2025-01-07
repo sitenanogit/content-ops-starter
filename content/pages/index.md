@@ -137,7 +137,7 @@ sections:
       - type: Button
         label: Ürün ve Fiyatlar
         altText: Ürün ve Fiyatlar
-        url: /pricing
+        url: /fiyatlar
         showIcon: false
         icon: arrowRight
         iconPosition: right
