@@ -244,6 +244,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: develop a product with sitenano team
       - type: Link
         label: See Tutorials
         url: /
