@@ -5,7 +5,7 @@ date: '2024-10-10'
 excerpt: Nutsco.de web sayfası
 featuredImage:
   url: /images/nutsco-web-tasarim.jpg
-  altText: Nutsco.de
+  altText: Nutsco.de web sayfası
   styles:
     self:
       borderRadius: x-large
