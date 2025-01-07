@@ -247,7 +247,7 @@ sections:
         altText: develop a product with sitenano team
       - type: Link
         label: Daha fazla incele
-        url: /
+        url: 'https://www.sitenano.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
