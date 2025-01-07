@@ -252,6 +252,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: sitenano development company
     media:
       type: ImageBlock
       url: /images/hero3.svg
