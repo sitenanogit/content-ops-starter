@@ -512,8 +512,9 @@ sections:
         title: 'Alan adı kaydı, takibi'
         tagline: uygun fiyatlı alan adları
         subtitle: cloudflare ürünleri ile takip edilir
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Cloudflare ürünleri ile alan adınız güvenli bir şekilde siz de,
+          yönetimi de uzman ekiplerimizde olur.
         image:
           type: ImageBlock
           url: /images/domain-icon-free-vector.jpg
