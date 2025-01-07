@@ -86,7 +86,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 200+ sipariş
+        title: 250+ sipariş
         subtitle: sistemi tercih edildi
         text: >
           lokantalar, büfeler, restoranlar, cafeler ve daha birçok yerel
