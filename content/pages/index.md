@@ -511,7 +511,7 @@ sections:
       - type: FeaturedItem
         title: 'Alan adı kaydı, takibi'
         tagline: uygun fiyatlı alan adları
-        subtitle: cloudflare dns ile takip edilir
+        subtitle: cloudflare ürünleri ile takip edilir
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
