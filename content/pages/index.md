@@ -535,7 +535,7 @@ sections:
       - type: FeaturedItem
         title: Sunucu hizmetleri
         tagline: 'cloud sunucu, aws servisleri'
-        subtitle: This is the item subtitle
+        subtitle: aws servisleri kullanılır
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
