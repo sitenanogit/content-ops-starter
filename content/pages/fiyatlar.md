@@ -86,7 +86,7 @@ sections:
             url: 'https://admin.komisyonsuz.com/admin/register.html'
             icon: arrowRight
             iconPosition: right
-            style: secondary
+            style: primary
             type: Button
             altText: komisyonsuz sipariş sistemi kur ve dene
             showIcon: true
