@@ -129,7 +129,7 @@ sections:
           - label: Kur & Dene
             url: 'https://eticaret.sitenano.com/account/register/?next=/'
             icon: arrowLeft
-            iconPosition: right
+            iconPosition: left
             style: primary
             type: Button
             altText: Profesyonel e-ticaret sitesi
