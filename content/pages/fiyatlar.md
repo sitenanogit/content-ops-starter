@@ -118,7 +118,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: İncele
             altText: ''
             url: 'https://eticaret.sitenano.com/'
             showIcon: false
