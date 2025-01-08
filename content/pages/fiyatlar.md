@@ -259,7 +259,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: PRODUCT DEVELOPMENT
+      label: PRODUCT DEVELOPMENT by SITENANO
       color: text-primary
     colors: bg-light-fg-dark
     styles:
