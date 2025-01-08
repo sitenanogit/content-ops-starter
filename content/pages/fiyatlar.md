@@ -117,6 +117,15 @@ sections:
           altText: E-ticaret Sitesi Fiyatları
           type: ImageBlock
         actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://eticaret.sitenano.com/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
           - label: Kur & Dene
             url: 'https://eticaret.sitenano.com/account/register/?next=/'
             icon: arrowRight
