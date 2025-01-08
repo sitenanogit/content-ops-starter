@@ -85,7 +85,7 @@ sections:
           - label: Kur & Dene
             url: 'https://admin.komisyonsuz.com/admin/register.html'
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             type: Button
             altText: komisyonsuz sipariş sistemi kur ve dene
