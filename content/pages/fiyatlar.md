@@ -128,7 +128,7 @@ sections:
             elementId: ''
           - label: Kur & Dene
             url: 'https://eticaret.sitenano.com/account/register/?next=/'
-            icon: arrowLeft
+            icon: arrowRight
             iconPosition: left
             style: primary
             type: Button
