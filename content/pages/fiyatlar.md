@@ -75,7 +75,7 @@ sections:
         actions:
           - type: Button
             label: İncele
-            altText: ''
+            altText: sipariş alma sistemini incele
             url: 'https://partner.komisyonsuz.com/fiyatlar.html'
             showIcon: false
             icon: arrowRight
