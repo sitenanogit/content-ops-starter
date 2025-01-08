@@ -74,7 +74,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: İncele
             altText: ''
             url: 'https://partner.komisyonsuz.com/fiyatlar.html'
             showIcon: false
