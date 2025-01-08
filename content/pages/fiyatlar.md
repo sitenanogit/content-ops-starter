@@ -235,8 +235,8 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Sıfırdan bir projeyi ayağa kaldırmak çok ciddi uğraş, çok fazla test ve
+      bir o kadar da pazara tutunabilmeyi gerektirir.
     actions:
       - type: Button
         label: İletişime geç
