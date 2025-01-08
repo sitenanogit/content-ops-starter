@@ -119,7 +119,7 @@ sections:
         actions:
           - type: Button
             label: İncele
-            altText: ''
+            altText: E-ticaret sistemini incele
             url: 'https://eticaret.sitenano.com/'
             showIcon: false
             icon: arrowRight
