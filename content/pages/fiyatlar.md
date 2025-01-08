@@ -233,10 +233,10 @@ sections:
       type: TitleBlock
       text: SITENANO PRODUCT DEVELOPMENT
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Product development @sitenano
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Sıfırdan bir projeyi ayağa kaldırmak çok ciddi uğraş, çok fazla test ve
+      bir o kadar da pazara tutunabilmeyi gerektirir.
     actions:
       - type: Button
         label: İletişime geç
@@ -255,11 +255,11 @@ sections:
         altText: sitenano development company
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/cosulting.avif
       altText: Dope design preview
     badge:
       type: Badge
-      label: PRODUCT DEVELOPMENT
+      label: PRODUCT DEVELOPMENT by SITENANO
       color: text-primary
     colors: bg-light-fg-dark
     styles:
