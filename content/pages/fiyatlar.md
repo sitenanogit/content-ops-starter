@@ -73,13 +73,23 @@ sections:
           altText: Sipariş Alma Sistemi Fiyatları
           type: ImageBlock
         actions:
-          - label: Kur & Dene
-            url: 'https://admin.komisyonsuz.com/admin/register.html'
+          - type: Button
+            label: İncele
+            altText: sipariş alma sistemini incele
+            url: 'https://partner.komisyonsuz.com/fiyatlar.html'
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             style: secondary
+            elementId: ''
+          - label: Kur & Dene
+            url: 'https://admin.komisyonsuz.com/admin/register.html'
+            icon: arrowRight
+            iconPosition: left
+            style: primary
             type: Button
             altText: komisyonsuz sipariş sistemi kur ve dene
+            showIcon: true
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -107,13 +117,23 @@ sections:
           altText: E-ticaret Sitesi Fiyatları
           type: ImageBlock
         actions:
-          - label: Kur & Dene
-            url: 'https://eticaret.sitenano.com/account/register/?next=/'
+          - type: Button
+            label: İncele
+            altText: E-ticaret sistemini incele
+            url: 'https://eticaret.sitenano.com/'
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             style: secondary
+            elementId: ''
+          - label: Kur & Dene
+            url: 'https://eticaret.sitenano.com/account/register/?next=/'
+            icon: arrowRight
+            iconPosition: left
+            style: primary
             type: Button
             altText: Profesyonel e-ticaret sitesi
+            showIcon: true
         colors: bg-neutral-fg-dark
         styles:
           self:
