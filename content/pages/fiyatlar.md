@@ -73,6 +73,15 @@ sections:
           altText: Sipariş Alma Sistemi Fiyatları
           type: ImageBlock
         actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://partner.komisyonsuz.com/fiyatlar.html'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
           - label: Kur & Dene
             url: 'https://admin.komisyonsuz.com/admin/register.html'
             icon: arrowRight
