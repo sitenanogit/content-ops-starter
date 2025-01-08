@@ -255,7 +255,7 @@ sections:
         altText: sitenano development company
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/cosulting.avif
       altText: Dope design preview
     badge:
       type: Badge
