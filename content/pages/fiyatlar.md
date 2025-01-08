@@ -133,6 +133,7 @@ sections:
             style: primary
             type: Button
             altText: Profesyonel e-ticaret sitesi
+            showIcon: true
         colors: bg-neutral-fg-dark
         styles:
           self:
