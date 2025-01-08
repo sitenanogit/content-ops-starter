@@ -233,7 +233,7 @@ sections:
       type: TitleBlock
       text: SITENANO PRODUCT DEVELOPMENT
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Product development @sitenano
     text: >
       Sıfırdan bir projeyi ayağa kaldırmak çok ciddi uğraş, çok fazla test ve
       bir o kadar da pazara tutunabilmeyi gerektirir.
