@@ -130,7 +130,7 @@ sections:
             url: 'https://eticaret.sitenano.com/account/register/?next=/'
             icon: arrowRight
             iconPosition: right
-            style: secondary
+            style: primary
             type: Button
             altText: Profesyonel e-ticaret sitesi
         colors: bg-neutral-fg-dark
