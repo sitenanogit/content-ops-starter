@@ -40,7 +40,7 @@ sections:
             style: primary
             elementId: ''
           - label: Teklif al
-            url: /contact
+            url: /iletisim
             icon: arrowRight
             iconPosition: right
             style: secondary
