@@ -45,6 +45,7 @@ sections:
             iconPosition: right
             style: secondary
             type: Button
+            altText: Web sitesi fiyatları
         colors: bg-neutral-fg-dark
         styles:
           self:
