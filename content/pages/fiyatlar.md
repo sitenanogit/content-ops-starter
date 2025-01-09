@@ -114,7 +114,7 @@ sections:
           - ürün yorumları ve cevaplama
           - 'AI ürün liste planları, AI ürün fiyatlama'
         image:
-          url: /images/footer-logo.png
+          url: /images/sitenano-logo.png
           altText: E-ticaret Sitesi Fiyatları
           type: ImageBlock
         actions:
