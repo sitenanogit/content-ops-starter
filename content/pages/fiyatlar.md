@@ -26,7 +26,7 @@ sections:
           - mobil sayfa & hız testleri
           - 'alan adı, sunucu bakım, güncellemeler'
         image:
-          url: /images/cmsnano-logo_yesil.png
+          url: /images/cmsnano-logo.png
           altText: Web Tasarım Fiyatları
           type: ImageBlock
         actions:
@@ -40,11 +40,12 @@ sections:
             style: primary
             elementId: ''
           - label: Teklif al
-            url: /contact
+            url: /iletisim
             icon: arrowRight
             iconPosition: right
             style: secondary
             type: Button
+            altText: Web sitesi fiyatları
         colors: bg-neutral-fg-dark
         styles:
           self:
