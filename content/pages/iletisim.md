@@ -65,7 +65,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Web tasarım hizmetleri
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: ' İstanbul Kurumsal web tasarım ajansı Kumsal Ajans; mobil ve SEO uyumlu profesyonel web site tasarımları ve web yazılım hizmetleri sunmaktadır. '
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
