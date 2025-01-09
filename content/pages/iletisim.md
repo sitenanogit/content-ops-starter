@@ -17,7 +17,7 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: contact
+          name: name
           label: Name
           hideLabel: true
           placeholder: Adınız
