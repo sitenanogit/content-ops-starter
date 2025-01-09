@@ -26,7 +26,7 @@ sections:
           - mobil sayfa & hız testleri
           - 'alan adı, sunucu bakım, güncellemeler'
         image:
-          url: /images/cmsnano-logo_yesil.png
+          url: /images/cmsnano-logo.png
           altText: Web Tasarım Fiyatları
           type: ImageBlock
         actions:
