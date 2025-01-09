@@ -64,8 +64,10 @@ slug: iletisim
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Web tasarım hizmetleri
+  metaDescription: >-
+    Kurumsal web tasarım ajansı CMSnano; mobil ve SEO uyumlu profesyonel web
+    site tasarımları ve web yazılım hizmetleri sunmaktadır. 
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
