@@ -26,7 +26,7 @@ sections:
           - mobil sayfa & hız testleri
           - 'alan adı, sunucu bakım, güncellemeler'
         image:
-          url: /images/cmsnano-logo.png
+          url: /images/cmsnano_logo.png
           altText: Web Tasarım Fiyatları
           type: ImageBlock
         actions:
@@ -70,7 +70,7 @@ sections:
           - kampanya ve duyurular sunulabilir
           - entegrasyonlar ücretlidir
         image:
-          url: /images/komisyonsuz-logo-red-white_250 (1).png
+          url: /images/komisyonsuz-logo.png
           altText: Sipariş Alma Sistemi Fiyatları
           type: ImageBlock
         actions:
@@ -114,7 +114,7 @@ sections:
           - ürün yorumları ve cevaplama
           - 'AI ürün liste planları, AI ürün fiyatlama'
         image:
-          url: /images/footer-logo.png
+          url: /images/sitenano-logo.png
           altText: E-ticaret Sitesi Fiyatları
           type: ImageBlock
         actions:
