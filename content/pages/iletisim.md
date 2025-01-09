@@ -65,7 +65,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Web tasarım hizmetleri
-  metaDescription: ' İstanbul Kurumsal web tasarım ajansı Kumsal Ajans; mobil ve SEO uyumlu profesyonel web site tasarımları ve web yazılım hizmetleri sunmaktadır. '
+  metaDescription: >-
+    Kurumsal web tasarım ajansı CMSnano; mobil ve SEO uyumlu profesyonel web
+    site tasarımları ve web yazılım hizmetleri sunmaktadır. 
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
