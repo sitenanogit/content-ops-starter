@@ -17,7 +17,7 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: netlify
+          name: contact
           label: name
           hideLabel: true
           placeholder: Adınız
