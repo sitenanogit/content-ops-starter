@@ -17,8 +17,8 @@ sections:
       type: FormBlock
       fields:
         - type: TextFormControl
-          name: contact
-          label: name
+          name: name
+          label: Name
           hideLabel: true
           placeholder: Adınız
           isRequired: true
@@ -43,7 +43,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-      elementId: contact-form
+      elementId: netlify
       styles:
         self:
           padding:
