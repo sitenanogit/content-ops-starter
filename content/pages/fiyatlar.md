@@ -70,7 +70,7 @@ sections:
           - kampanya ve duyurular sunulabilir
           - entegrasyonlar ücretlidir
         image:
-          url: /images/komisyonsuz-logo-red-white_250 (1).png
+          url: /images/komisyonsuz-logo.png
           altText: Sipariş Alma Sistemi Fiyatları
           type: ImageBlock
         actions:
