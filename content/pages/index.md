@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Button
         label: CMSnano
-        altText: ''
+        altText: CMSnano web tasarım sitesine git
         url: 'https://www.cmsnano.com'
         showIcon: false
         icon: arrowRight
