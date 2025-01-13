@@ -1,7 +1,7 @@
 ---
 title: 2025’te yaşamı şekillendirecek yenilikler neler olabilir?
 slug: top-ten-lessons-we-learned
-date: '2025-03-25'
+date: '2025-01-22'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
