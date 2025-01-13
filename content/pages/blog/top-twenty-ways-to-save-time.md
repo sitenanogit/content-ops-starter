@@ -26,9 +26,18 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
+Microsoft Yönetim Kurulu Başkan Yardımcısı ve Şirket Başkanı Brad Smith, "Amerikan Yapay Zekası için Altın Fırsat" başlıklı blog yazısında, yapay zekanın bu çağın elektriği olduğunu ve gelecek 4 yılın Amerika'nın gelecek çeyrek yüzyıldaki ekonomik başarısının temelini oluşturabileceğini ifade etti.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+Smith, yapay zekanın ekonominin her sektöründe inovasyonu teşvik etmeyi ve üretkenliği artırmayı vaat ettiğini, ABD'nin özellikle güçlü yönlerini iki katına çıkarması ve uluslararası alanda etkin bir şekilde ortaklık kurması halinde bu yeni teknoloji dalgasının ön saflarında yer almaya hazır olduğunu kaydetti.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+## Yatırımın yarıdan fazlası ABD'de yapılacak
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+
+
+ABD'nin özel sermaye yatırımları ve Amerikan şirketlerinin inovasyonları sayesinde küresel yapay zeka yarışına liderlik ettiğini aktaran Smith, Microsoft'un 2025 mali yılında yapay zeka modellerini eğitmek ve dünya çapında yapay zeka ile bulut tabanlı uygulamaları kullanmak amacıyla yapay zeka destekli veri merkezleri kurmak için yaklaşık 80 milyar dolar yatırım yapmayı planladığını belirtti.
+
+Smith, bu yatırımın yarısından fazlasının ABD'de yapılacağını, bunun ABD'ye olan bağlılıklarını ve Amerikan ekonomisine olan güvenlerini yansıttığını ifade etti.
+
+ABD'nin en önemli kamu politikası önceliğinin özel sektörün rüzgarını arkasına alarak ilerlemeye devam edebilmesini sağlamak olması gerektiğini vurgulayan Smith, özel sektörün ağır düzenlemelerle yavaşlatılmaması gerektiğine işaret etti.
+
+Smith, yapay zeka bileşenlerinin güvenliğini sağlarken şirketlerinin büyümesine ve müttefik ülkelere güvenilir tedarik sunmasına olanak tanıyan pragmatik bir ihracat politikasına ihtiyaç olduğunu vurguladı.
