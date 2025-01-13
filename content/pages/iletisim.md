@@ -9,8 +9,9 @@ sections:
       color: text-dark
     subtitle: 15 yılı aşan deneyim ile hizmetinizdeyiz
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Seo alt yapısına uygun, işlevsel ve modern web siteleri geliştiriyoruz.
+      Yaptığımız web sitelerin yüksek hızla daha geniş bir hedef kitleye
+      ulaşmasını sağlıyoruz.
     actions:
       - type: Button
         label: Get started
