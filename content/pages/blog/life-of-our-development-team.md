@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/yapay-zeka-microsoft.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
