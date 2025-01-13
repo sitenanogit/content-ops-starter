@@ -22,7 +22,7 @@ sections:
         altText: telefon
       - type: Link
         label: İletişim
-        url: ''
+        url: 'https://www.cmsnano.com/tr/iletisim.html'
         showIcon: true
         icon: arrowRight
         iconPosition: right
