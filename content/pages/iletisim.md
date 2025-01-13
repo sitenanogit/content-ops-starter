@@ -15,7 +15,7 @@ sections:
     actions:
       - type: Button
         label: 0 212 2129990
-        url: /
+        url: 'tel:+902122129990'
         icon: arrowRight
         iconPosition: right
         style: secondary
