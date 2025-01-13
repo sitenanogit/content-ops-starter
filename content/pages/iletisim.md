@@ -27,6 +27,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: illetisim
     media:
       type: ImageBlock
       url: /images/hero2.svg
