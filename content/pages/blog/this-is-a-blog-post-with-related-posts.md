@@ -3,9 +3,7 @@ type: PostLayout
 title: Nutsco.de web sayfası
 date: '2022-10-10'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: "Wir sind, Nuts & Co Store an der Turmstraße 68 tätig. Unsere Produkte in hoher Qualität und zu niedrigen Preisen.Unsere Sortemente sind\_feinste Nussmischungen, sowie Mischungen aus Nüssen,\_Trockenfrüchten und Grobe Gebrannte Nüsse."
 featuredImage:
   type: ImageBlock
   url: /images/nuts_co_logo_web.jpg
