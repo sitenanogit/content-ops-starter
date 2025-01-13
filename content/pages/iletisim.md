@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Projelerinize kurumsal çözüm için buradayız
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: 15 yılı aşan deneyim ile hizmetinizdeyiz
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
