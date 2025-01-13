@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/cosulting.avif
+  url: /images/google-yapay-zeka.jpg
   styles:
     self:
       borderRadius: medium
