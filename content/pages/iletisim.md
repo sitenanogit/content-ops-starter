@@ -19,6 +19,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: telefon
       - type: Link
         label: See Tutorials
         url: /
