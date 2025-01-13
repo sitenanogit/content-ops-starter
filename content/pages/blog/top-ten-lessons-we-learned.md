@@ -1,7 +1,7 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: 2025’te yaşamı şekillendirecek yenilikler neler olabilir?
 slug: top-ten-lessons-we-learned
-date: '2021-08-25'
+date: '2025-01-10'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
@@ -26,9 +26,64 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+2025 yılında Güneş enerjisinin uzaydan aktarılması, insan beyninin genetik haritasının çıkarılması ve kendi kendini onarabilen canlı köprülerin inşa edilmesi gibi devrim niteliğindeki gelişmelere tanıklık edebiliriz. Bu yenilikler, şehirleri daha yeşil ve temiz hale getirecek değişimlerin habercisi olabilir.
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+2025 yılında güneş enerjisinin uzaydan aktarılması, insan beyninin genetik haritasının çıkarılması ve kendi kendini onarabilen canlı köprülerin inşa edilmesi gibi devrim niteliğindeki gelişmelere tanıklık edebiliriz.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+Bu yenilikler, şehirleri daha yeşil ve temiz hale getirecek değişimlerin habercisi olabilir.
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+## Yapay zeka yardımıyla beynin genetiği çözülecek
+
+
+
+AB destekli İnsan Beyni Projesi’nin oluşturduğu detaylı beyin haritaları, 2025’te önemli tıbbi yeniliklerin temelini oluşturacak.
+
+Almanya’daki Düsseldorf Üniversitesi’nden Prof. Dr. Katrin Amunts’un liderliğinde hazırlanan bu haritalar, nörolojik hastalıkların tedavisinde yeni kapılar açabilir.
+
+Prof. Amunts, *“Beyin 86 milyar sinir hücresinden oluşuyor ve her biri diğer hücrelerle 10.000’e kadar bağlantı kurabiliyor. Yapay zeka, bu karmaşık ağları anlamamıza yardımcı oluyor. 2025’te faaliyete geçecek JUPITER adlı süper bilgisayar sayesinde, tedavilerin beyindeki etkilerini simüle edebileceğiz”* ifadelerini kullandı.
+
+Bu haritaların, beyin ameliyatlarında tümör yerinin tespit edilmesi gibi alanlarda daha geniş bir kullanım alanına sahip olması hedefleniyor.
+
+## Uzaydan Dünya'ya Güneş enerjisi
+
+
+
+Yunan teknoloji şirketi Future Intelligence’ın Ar-Ge Başkan Yardımcısı Effie Makri, yapay zeka ile uydu verilerini birleştirerek güneş enerjisi tahminlerinin geliştirileceğini belirtti.
+
+2025’te uzaydan güneş enerjisi toplanarak dünyaya kablosuz şekilde iletilmesi gibi projeler daha fazla ilgi görebilir.
+
+Makri, “Uydu verileri tarım, enerji, hatta bankacılık gibi birçok alanda kullanılabilir. Avrupa’nın Galileo ve Copernicus uydu programları, bu teknolojiler için güçlü bir temel sunuyor.” dedi.
+
+## Kendini onaran canlı yapı malzemeleri
+
+
+
+Hollanda’daki Delft Teknoloji Üniversitesi’nden Dr. Kunal Masania, mantarlarla yapılan kompozit malzemeler üzerinde çalışıyor.
+
+Bu malzemeler gelecekte mobilyalardan köprülere kadar pek çok alanda kullanılabilir.
+
+Masania, *“Mantarların hücreleriyle oluşturulan bu malzemeler, mekanik stres algılayıp kendini onarabilir. 2025’te canlı malzemelerle inşa edilen yapıların sayısının artmasını bekliyoruz.”* şeklinde konuştu.
+
+## Arılar için teknolojik çözümler
+
+
+
+Avrupa’da arı kolonilerinin yüzde 30’u her yıl kaybediliyor. Belçika Gent Üniversitesi’nden Prof. Dirk de Graaf liderliğindeki B-GOOD projesi, arıların doğayla uyumunu yeniden sağlamak için teknolojiden faydalanıyor.
+
+De Graaf, kovanlardaki sensörlerin arıların aktivitesini ve sıcaklığını uzaktan izleyerek daha az müdahaleyle daha sağlıklı koloniler oluşturulabileceğini belirtti.
+
+## Daha yeşil ve yaşanabilir şehirler
+
+
+
+Norveç Teknoloji ve Bilim Üniversitesi’nden Dr. Annemie Wyckmans, yerel toplulukların öncülüğünde daha yeşil şehirler için çalışmalar yürütüyor.
+
+Wyckmans, *“Şehir bahçeleri gibi yerel çözümler, ekonomik krizlere rağmen umut veriyor. 2025’te bu tür hareketlerin politikacıların ve yatırımcıların dikkatini çekecek kadar büyümesini bekliyoruz”* dedi.
+
+Bu yenilikler, Avrupa’nın çevreye uyumlu şehirler inşa etmeyi hedefleyen Yeni Avrupa Bauhaus girişimi ile destekleniyor.
+
+Sanat ve teknolojiyi bir araya getiren bu girişim, şehirleri hem estetik hem de sürdürülebilir kılmayı amaçlıyor.
+
+TRT Haber
+
+https\://www\.trthaber.com/haber/dunya/2025te-yeni-bir-insan-nesli-basliyor-beta-kusagi-893443.html
