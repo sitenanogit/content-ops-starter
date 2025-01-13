@@ -30,7 +30,7 @@ sections:
         altText: illetisim
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/contact-us-icon-black.jpg
       altText: Fun feature preview
     badge:
       type: Badge
