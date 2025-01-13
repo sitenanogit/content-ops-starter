@@ -22,7 +22,7 @@ sections:
         altText: telefon
       - type: Link
         label: İletişim
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
