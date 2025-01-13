@@ -3,11 +3,13 @@ title: 2025’te yaşamı şekillendirecek yenilikler neler olabilir?
 slug: top-ten-lessons-we-learned
 date: '2025-01-10'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  2025 yılında Güneş enerjisinin uzaydan aktarılması, insan beyninin genetik
+  haritasının çıkarılması ve kendi kendini onarabilen canlı köprülerin inşa
+  edilmesi gibi devrim niteliğindeki gelişmelere tanıklık edebiliriz. Bu
+  yenilikler, şehirleri daha yeşil ve temiz hale getirecek değişimlerin
+  habercisi olabilir.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/cosulting.avif
   altText: Thumbnail
   type: ImageBlock
   styles:

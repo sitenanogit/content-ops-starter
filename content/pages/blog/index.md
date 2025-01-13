@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Teknoloji haberleri
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 'yapay zeka, teknoloji, uzay'
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
