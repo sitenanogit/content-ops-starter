@@ -21,7 +21,7 @@ sections:
         style: secondary
         altText: telefon
       - type: Link
-        label: See Tutorials
+        label: İletişim
         url: /
         showIcon: true
         icon: arrowRight
