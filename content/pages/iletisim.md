@@ -14,7 +14,7 @@ sections:
       ulaşmasını sağlıyoruz.
     actions:
       - type: Button
-        label: Get started
+        label: 0 212 2129990
         url: /
         icon: arrowRight
         iconPosition: right
