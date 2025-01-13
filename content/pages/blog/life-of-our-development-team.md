@@ -1,5 +1,7 @@
 ---
-title: A Day in the Life of Our Development Team
+title: >-
+  Apple, kullanıcı gizliliğini ihlal ettiği iddiasıyla açılan davanın ardından
+  "Siri"yi savundu
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
