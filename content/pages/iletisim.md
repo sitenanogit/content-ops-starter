@@ -12,54 +12,34 @@ sections:
       Seo alt yapısına uygun, işlevsel ve modern web siteleri geliştiriyoruz.
       Yaptığımız web sitelerin yüksek hızla daha geniş bir hedef kitleye
       ulaşmasını sağlıyoruz.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Adınız
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: E-posta adresiniz
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Projeniz hakkında mesajınız
-          width: full
-          isRequired: true
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Gönder
+    actions:
+      - type: Button
+        label: 0 212 2129990
+        url: 'tel:+902122129990'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        altText: telefon
+      - type: Link
+        label: İletişim
+        url: 'https://www.cmsnano.com/tr/iletisim.html'
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-      elementId: netlify
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+        altText: illetisim
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Fun feature preview
     badge:
       type: Badge
       label: 'MESAJ ATIN, ARAYIN GÖRÜŞELİM -> 0(212)2129990'
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
 slug: iletisim
 isDraft: false
 seo:
