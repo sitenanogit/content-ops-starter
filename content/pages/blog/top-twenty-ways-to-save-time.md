@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft, 2025''te yapay zeka için 80 milyar dolar harcayacak'
 slug: top-twenty-ways-to-save-time
-date: '2025-01-25'
+date: '2025-01-07'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
