@@ -102,7 +102,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Yerli Üretim Profesyonel E-ticaret
-        price: 9.900₺
+        price: 19.000₺
         details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
           Trendyol, Hepsiburada, Amazon ve Etsy Entegrasyonları
