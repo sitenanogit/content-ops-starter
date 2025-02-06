@@ -57,7 +57,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Yerli Üretim Sipariş Sistemi
-        price: 4.900₺
+        price: 5.900₺
         details: yıllık alımlarda geçerli başlangıç fiyatıdır
         description: |
           Trenyol, Yemeksepeti entegrasyonları
