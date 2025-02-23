@@ -47,44 +47,22 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Faaliyet alanlarımız
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
-  - title:
       text: Açık pozisyonlar
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      aşağıdaki alanlarda deneyimi olan arkadaşların, bize bir e-posta ile
+      ulaşmalarını bekliyoruz. CV, Linkedin veya Git hesap linkinizi kişisel
+      e-posta hesabınız ile gönderebilirsiniz.
     items:
-      - title: Senior Python Developer
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Designer
+        subtitle: Graphics
+        text: >
+          We are hiring a Figma Designer who have 2+ years of experience and a
+          good knowledge of prototypes.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -98,12 +76,11 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Scrum Master
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Backend Developers
+        subtitle: Programming
+        text: >
+          Candidates with a rich professional work experience (5 years) using
+          C/C++ and Python in a UNIX / LINUX environment can apply.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -117,12 +94,11 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: AI Agent Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Frontend Developer
+        subtitle: UI/UX
+        text: >
+          Front-End Developer who have 3+ years experience and a good knowledge
+          in html, css, java script and jquery.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -136,7 +112,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: 'https://en.sitenano.com/careers.html'
         icon: arrowRight
         iconPosition: right
         style: primary
