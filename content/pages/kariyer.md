@@ -57,10 +57,9 @@ sections:
     items:
       - title: Designer
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We are hiring a Figma Designer who have 2+ years of experience and a
+          good knowledge of prototypes.
         colors: bg-neutral-fg-dark
         styles:
           self:
