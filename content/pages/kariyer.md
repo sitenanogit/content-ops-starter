@@ -56,7 +56,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - title: Designer
-        subtitle: Sales
+        subtitle: Graphics
         text: >
           We are hiring a Figma Designer who have 2+ years of experience and a
           good knowledge of prototypes.
