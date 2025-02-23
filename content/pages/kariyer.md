@@ -109,7 +109,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Apply now
-        url: /
+        url: 'https://en.sitenano.com/careers.html'
         icon: arrowRight
         iconPosition: right
         style: primary
