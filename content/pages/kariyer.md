@@ -54,8 +54,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      aşağıdaki alanlarda deneyimi olan arkadaşlar, bizimle çalışmak isniz
-      varsa, e-posta ile cv gönderebilir.
+      aşağıdaki alanlarda deneyimi olan arkadaşların, bize bir e-posta ile
+      ulaşmalarını bekliyoruz. CV, Linkedin veya Git hesap linkinizi kişisel
+      e-posta hesabınız ile gönderebilirsiniz.
     items:
       - title: Designer
         subtitle: Graphics
