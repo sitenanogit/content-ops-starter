@@ -55,7 +55,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Senior Python Developer
+      - title: Designer
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
