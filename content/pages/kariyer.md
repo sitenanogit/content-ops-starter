@@ -53,7 +53,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      aşağıdaki alanlarda deneyimi olan arkadaşlar, bizimle çalışmak isniz
+      varsa, e-posta ile cv gönderebilir.
     items:
       - title: Designer
         subtitle: Graphics
