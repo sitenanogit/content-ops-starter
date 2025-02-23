@@ -16,7 +16,7 @@ sections:
       iş tecrübesi olanlar avantajlıdır.
     actions:
       - label: Açık pozisyonlar
-        url: 'https://www.sitenano.com/careers.html'
+        url: 'https://en.sitenano.com/careers.html'
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -47,7 +47,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Faaliyet alanlarımız
       color: text-dark
       styles:
         self:
@@ -57,9 +57,6 @@ sections:
       - content/data/person1.json
       - content/data/person2.json
       - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -74,7 +71,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Açık pozisyonlar
       color: text-dark
       styles:
         self:
@@ -82,7 +79,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Account Executive
+      - title: Senior Python Developer
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -101,7 +98,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: Scrum Master
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -120,7 +117,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: AI Agent Engineer
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
