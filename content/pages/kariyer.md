@@ -75,10 +75,9 @@ sections:
         type: FeaturedItem
       - title: Backend Developers
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Candidates with a rich professional work experience (5 years) using
+          C/C++ and Python in a UNIX / LINUX environment can apply.
         colors: bg-neutral-fg-dark
         styles:
           self:
