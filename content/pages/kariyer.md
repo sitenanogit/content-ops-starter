@@ -93,10 +93,9 @@ sections:
         type: FeaturedItem
       - title: Frontend Developer
         subtitle: UI/UX
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Front-End Developer who have 3+ years experience and a good knowledge
+          in html, css, java script and jquery.
         colors: bg-neutral-fg-dark
         styles:
           self:
