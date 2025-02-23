@@ -74,7 +74,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Backend Developers
-        subtitle: Marketing
+        subtitle: Programming
         text: >
           Candidates with a rich professional work experience (5 years) using
           C/C++ and Python in a UNIX / LINUX environment can apply.
