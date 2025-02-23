@@ -47,7 +47,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Faaliyet alanlarımız
       color: text-dark
       styles:
         self:
