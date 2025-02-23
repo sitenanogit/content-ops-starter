@@ -117,7 +117,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: AI Agent
+      - title: AI Agent Engineer
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
