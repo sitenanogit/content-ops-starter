@@ -73,7 +73,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Scrum Master
+      - title: Bac
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
